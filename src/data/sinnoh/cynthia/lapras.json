@@ -1,0 +1,38 @@
+{
+  "id": "lapras",
+  "name": "Lapras",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚Amortiguador 🥚 Lapras se Queda Usa Amortiguador",
+  "tricks": [
+    {
+      "detail": "Lucario ➜ Usar Teletransporte",
+      "variant": [
+        {
+          "detail": " Esfera Aural ➜ Entrar con Gengar Otra vez  +6 +2",
+          "variant": []
+        },
+        {
+          "detail": "A bocajarro ➜ Revisar objeto",
+          "variant": [
+            {
+              "detail": "Vidasfera ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ entra con Poliwrath +6 🐸🥊",
+              "variant": []
+            },
+            {
+              "detail": "Sin Vidasfera ➜ Entra con Gengar otra vez +4 🔔(lucario Banda Focus) (Bola Sombra a todo)🔔",
+              "variant": []
+            },
+            {
+              "detail": "Garchomp ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜  Poliwrath +6 🐸🥊",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Garchomp ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+      "variant": []
+    }
+  ]
+}

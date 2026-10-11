@@ -1,0 +1,34 @@
+{
+  "id": "staraptor",
+  "name": "Staraptor",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambia a Slowbro y Mira que Objeto tiene",
+  "tricks": [
+    {
+      "detail": "Tiene Vidaesfera → Bostezo.",
+      "variant": [
+        {
+          "detail": "Se queda → Teletransporte → Chansey, trampa rocas, Teletransporte → Gengar, Otra Vez, +2 + precisión X(heracross Banda focus)",
+          "variant": []
+        },
+        {
+          "detail": "Heracross ➜ Protección,bosteso  sale Steelix cambia a Chansey, trampa rocas y usa Amortiguador hasta que cambie.",
+          "variant": [
+            {
+              "detail": "Heracross ➜ Continua usando amortiguador",
+              "variant": []
+            },
+            {
+              "detail": "Staraptor/Machamp ➜ Gengar, Otra Vez, +4 + precisión X.",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "No tiene Vidasfera ➜ Slowbro Bostezo ➜ sale Lucario ➜ Teletransporte ➜ Volcarona x2 danza aleteo (HP por encima 17%).",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "electivire",
+  "name": "Electivire",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Entra Gengar Otra Vez y Mira Quien Ataca Primero",
+  "tricks": [
+    {
+      "detail": "◉ Gengar Ataca Primero ➜ Slowbro bostezo ⬇️",
+      "variant": [
+        {
+          "detail": "◉ Jynx ➜ Proteccion Y Bostezo, Frente a Empoleon, Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+          "variant": []
+        },
+        {
+          "detail": "◉ Empoleon ➜ Chansey, Trampa Rocas Frente a Electivire ➜ Gengar otra vez +2 + Precisión X ",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Gengar Ataca Segundo ➜ Slowbro, Bostezo Frente a Golduck , Chansey Trampa Rocas Se Queda o Entra Lucario , Gengar Otra Vez +2 +2 + Precision X ",
+      "variant": []
+    },
+    {
+      "detail": "◉ Lucario ➜ Poliwrath ➜ Gengar Otra Vez +2 +2 + Precisión X",
+      "variant": []
+    }
+  ]
+}

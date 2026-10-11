@@ -1,0 +1,51 @@
+{
+  "id": "blastoise",
+  "name": "Blastoise",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚 Amortiguador 🥚",
+  "tricks": [
+    {
+      "detail": "Machamp → Cambiar a Gengar → Luego cambiar a Slowbro → usar Bostezo → Cambiar a Politoed (sacrificar) → Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Hitmonlee → Cambiar a Gengar → luego cambiar a Slowbro",
+      "variant": [
+        {
+          "detail": "Si se queda → usar Bostezo",
+          "variant": [
+            {
+              "detail": "Electivire → Cambiar a Politoed (sacrificar) → Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Blastoise → Volcarona +1",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Blastoise → Volcarona +1",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Darmanitan → Varias opciones",
+      "variant": [
+        {
+          "detail": "Ahorro → Volcarona +3 (cuidado con Superpower crítico: ~51% HP)",
+          "variant": []
+        },
+        {
+          "detail": "RNG → Cambiar a Politoed (sacrificar) → Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Estable → Cambiar a Slowbro → usar Bostezo → Cambiar a Politoed (sacrificar) → Poliwrath +6",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

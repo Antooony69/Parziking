@@ -1,0 +1,21 @@
+{
+  "id": "camerupt",
+  "name": "Camerupt",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨 Frente a Bouffalant (cinta elegida) ➜ cambiar a Gengar y usar Maquinación ➜ Dragonite atacar con bola sombra",
+  "tricks": [
+    {
+      "detail": "Magmortar ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño Drenaje a Magmortar)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Steelix ➜ Slowbro, Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño Drenaje a Steelix)🔔",
+      "variant": [
+        {
+          "detail": "🚨Arriesgado🚨 ➜ Sacrifica a Politoed  ➜ Poliwrath +6🐸🥊",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

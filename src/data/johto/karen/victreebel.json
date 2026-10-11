@@ -1,0 +1,38 @@
+{
+  "id": "victreebel",
+  "name": "Victreebel",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨 🥚 Si se queda usar Amortiguador 🥚",
+  "tricks": [
+    {
+      "detail": "Excadrill --> Usar Encanto; Amortiguador frente a Tyranitar; cambiar a Poliwrath para matar Tyranitar",
+      "variant": []
+    },
+    {
+      "detail": "Tyranitar --> Cambiar a Poliwrath para matar a Tyranitar",
+      "variant": [
+        {
+          "detail": "Gyarados --> Volcarona +1 + Especial X; barrer hasta Houndoom; ignorar amenaza; 🔔Psíquico a Gyarados🔔",
+          "variant": []
+        },
+        {
+          "detail": "Victreebel → Cambia a Gengar, luego a Slowbro",
+          "variant": [
+            {
+              "detail": "Si se queda → Bostezo; cambia a Volcarona, +1 + SpAtk X",
+              "variant": []
+            },
+            {
+              "detail": "Gyarados → Volcarona, +1 + SpAtk X",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Excadrill --> Gigadrenado hasta matarlo",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

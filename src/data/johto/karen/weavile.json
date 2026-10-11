@@ -1,0 +1,16 @@
+{
+  "id": "weavile",
+  "name": "Weavile",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚Usa Amortiguador y Aguanta el Ataque despues Trampa Rocas, frente a Excadrill; Teletransporte ➜ Slowbro y usa Bostezo",
+  "tricks": [
+    {
+      "detail": "◉ Si se queda ➜ Teletransporte; Volcarona x1 Danza aleteo; ⚠️Si entra o tienes frente a Houndoom usa x1 danza aleteo mas y ataca⚠️ ",
+      "variant": []
+    },
+    {
+      "detail": "◉ Mismagius ➜ Volcarona x1 danza aleteo ⚠️Si entra o tienes frente a Houndoom usa x1 danza aleteo mas y ataca⚠️",
+      "variant": []
+    }
+  ]
+}

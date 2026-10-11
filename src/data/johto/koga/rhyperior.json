@@ -1,0 +1,29 @@
+{
+  "id": "rhyperior",
+  "name": "Rhyperior",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Samurott ➜ Slowbro, Bostezo ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊  (Cascada a Hypno)",
+      "variant": []
+    },
+    {
+      "detail": "Terremoto ➜ Encanto ➜ Slowbro, Bostezo ➜ Frente a Gengar/Lapras ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 (Puño hielo Gengar)",
+      "variant": []
+    },
+    {
+      "detail": "Sale Tangrowth ➜ Teletransporte ➜ Slowbro, Bostezo 🔔Mira la precisión de Tangrowth🔔 ",
+      "variant": [
+        {
+          "detail": "Golpea ➜ Teletransporte ➜ Volcarona x2 Danza aleteo🦋🔥",
+          "variant": []
+        },
+        {
+          "detail": "Falla ➜ Volcarona x2 Danza aleteo🦋🔥",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

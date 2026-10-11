@@ -1,0 +1,69 @@
+{
+  "id": "maractus",
+  "name": "Maractus",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Si se queda ➜ Observar habilidad",
+      "variant": [
+        {
+          "detail": "Puño Drenaje ➜ Teletransporte ➜ Slowbro Bostezo ➜ Sacrificar a Politoed ➜ Poliwrath +6 🔔(Puño Drenaje a Magmortar)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Esfuerzo ➜ Amortiguador",
+          "variant": [
+            {
+              "detail": "Lopunny / Medicham ➜ Slowbro Bostezo frente a Maractus ➜ Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
+              "variant": []
+            },
+            {
+              "detail": "Magmortar ➜ Gengar Otra Vez +2 luego Presionar hasta Steelix ➜ Slowbro Bostezo frente a Maractus ➜ Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Bouffalant ➜ Gengar usar Maquinación frente a Dragonite luego usa Bola Sombra",
+      "variant": [
+        {
+          "detail": "Magmortar ➜ Sacrificar a Politoed ➜ Poliwrath +6 🔔(Puño drenaje contra Magmortar)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Steelix ➜ Slowbro Bostezo ➜ Sacrificar a Politoed ➜ Poliwrath +6 🔔(Puño drenaje contra Magmortar)🔔",
+          "variant": [
+            {
+              "detail": "🚨Arriesgado🚨 ➜ Sacrificar directamente a Politoed ➜ Poliwrath +6",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Lopunny / Medicham ➜ Slowbro usa Bostezo frente a Maractus ➜ Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Blaziken / Arcanine ➜ Slowbro usa Bostezo frente a Maractus",
+      "variant": [
+        {
+          "detail": "Rápido → Sacrificar a Politoed ➜ Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Ahorrar dinero ➜ Volcarona +3",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Camerupt ➜ Slowbro Bostezo ➜ Sacrificar a Politoed ➜ Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

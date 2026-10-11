@@ -1,0 +1,42 @@
+{
+  "id": "sableye",
+  "name": "Sableye",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Absol ➜ Cambiar a Gengar y usar Otra Vez 🔔ver objeto🔔",
+      "variant": []
+    },
+    {
+      "detail": "Si gengar es mas rapido que Absol usa Esta ruta 🔔 mira abajo 🔔",
+      "variant": [
+        {
+          "detail": "Rápido ➜ Gengar +2 +2 + Precisión X",
+          "variant": []
+        },
+        {
+          "detail": "Ahorrar dinero ➜ Gengar +6 +2 Bola Sombra a todo",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Absol Usa primero A bocajarro ➜ Gengar +4 (No usar Otra Vez - absol pañuelo elegido)",
+      "variant": []
+    },
+    {
+      "detail": "Aggron ➜ Sacrifica a Politoed ➜ Poliwrath Puño drenaje",
+      "variant": [
+        {
+          "detail": "Shiftry ➜ Volcarona x2 danza aleteo ➜ lanzallamas a Shiftry y el resto de plantas usar Psíquico",
+          "variant": []
+        },
+        {
+          "detail": "Hariyama ➜ Poliwrath  Ataque X  completar con Cascada contra Hariyama",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

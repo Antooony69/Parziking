@@ -1,0 +1,16 @@
+{
+  "id": "huntail",
+  "name": "Huntail",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Absol --> Gengar, Otra Vez, +2; 🔔con Bola Sombra🔔",
+      "variant": []
+    },
+    {
+      "detail": "Mienshao --> Gengar, bola sombra , frente a Mandibuzz / Spiritomb; Volcarona +2; 🔔Gigadrenado contra Absol🔔",
+      "variant": []
+    }
+  ]
+}

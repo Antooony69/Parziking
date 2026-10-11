@@ -1,0 +1,16 @@
+{
+  "id": "blissey",
+  "name": "Blissey",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambiar a Slowbro frente a Absol y usar Bostezo frente a Nidoqueen; usar Teletransporte, entrar con Volcarona +1 🔔(Mira tu Situación)🔔",
+  "tricks": [
+    {
+      "detail": "Si se queda --> Usar Psíquico para Debilitarlo, frente a Blissey usar Danza Aleteo dos veces y Barrer",
+      "variant": []
+    },
+    {
+      "detail": "Blissey --> Usar Danza Aleteo dos veces y Barrer",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "garchomp",
+  "name": "Garchomp",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Vidasfera + Terremoto ➜ Revisar daño",
+      "variant": [
+        {
+          "detail": "32 - 39% (Crítico 49 - 59%) ➜ Usar Amortiguador esperando a Heracross ➜ usar Teletransporte ➜ entrar con Gengar +4 + Precisión",
+          "variant": []
+        },
+        {
+          "detail": "40 - 48% (Crítico 60 - SASH %) ➜ Usar Encanto ➜ cambiar a Slowbro y usar Bostezo",
+          "variant": []
+        },
+        {
+          "detail": "Roserade ➜ Sacrifica a Politoed ➜  Poliwrath +6 usar Cascada contra Metagross",
+          "variant": []
+        },
+        {
+          "detail": "Eelektross ➜ Usar Protección y cambia rapido a Poliwrath y frente Heracross usar Tambor y que muera ahora entra con Gengar +6 (No usar Otra Vez,Heracross Tiene Pañuelo)",
+          "variant": []
+        },
+        {
+          "detail": "Lapras ➜ Sacrifica a Politoed ➜ entra con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Aerodactyl ➜ Usa Bostezo hasta forzar la salida de glaceon o Roserade y sacrifica a Politoed ➜ Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Sin Vidasfera + Terremoto ➜ Sacrifica a Gengar ➜ cambia a Slowbro y usa Bostezo (Seguir usando Bostezo si se queda)",
+      "variant": [
+        {
+          "detail": "Nidoking o Nidoqueen / Lucario / Chandelure ➜ Sacrifica a Politoed ➜ entra con Poliwrath +6 usar Cascada contra Bronzong",
+          "variant": []
+        },
+        {
+          "detail": "Jellicent ➜ Usar Protección ➜ cambiar a Volcarona ante Serperior ➜ Volcarona +2 y usar Especial X (mantener PS por encima del 29%)",
+          "variant": []
+        },
+        {
+          "detail": "Serperior ➜ Entrar con Volcarona +2 y usar Especial X (mantener PS por encima del 29%)",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Heracross ➜ Usar Teletransporte y revisar objeto",
+      "variant": [
+        {
+          "detail": "Vidasfera ➜ Entrar con Gengar +4 + Precisión X",
+          "variant": []
+        },
+        {
+          "detail": "Sin Vidasfera ➜ Entrar con Gengar +6 (No usar Otra Vez) y usar Onda Certera contra Clefable",
+          "variant": []
+        },
+        {
+          "detail": "Cambio a Bronzong enemigo ➜ Sacrifica a Politoed ➜ Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Lucario ➜ Usar Teletransporte y revisar objeto",
+      "variant": [
+        {
+          "detail": "Vidasfera ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Sin Vidasfera ➜ Entra con Gengar Otra vez +4 🔔Lucario Banda Focus🔔",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

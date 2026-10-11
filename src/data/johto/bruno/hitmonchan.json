@@ -1,0 +1,12 @@
+{
+  "id": "hitmonchan",
+  "name": "Hitmonchan",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambia a Slowbro, Bostezo",
+  "tricks": [
+    {
+      "detail": "Metagross → Politoed (sacrificar), Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

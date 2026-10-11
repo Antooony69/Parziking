@@ -1,0 +1,24 @@
+{
+  "id": "umbreon",
+  "name": "Umbreon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡 Trampa Rocas si no cambia usa Amortiguador 💡",
+  "tricks": [
+    {
+      "detail": "Mawile --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6; 🔔 Puño Hielo a Froslass; si el Puño Trueno paraliza, usar Cura Total 🔔",
+      "variant": []
+    },
+    {
+      "detail": "Hydreigon --> Teletransporte",
+      "variant": []
+    },
+    {
+      "detail": "Si permanece --> Enviar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6; 🔔 Puño Hielo a Froslass 🔔",
+      "variant": []
+    },
+    {
+      "detail": "Mawile --> Enviar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6; 🔔 Puño Hielo a Froslass; si el Puño Trueno paraliza, usar Cura Total 🔔",
+      "variant": []
+    }
+  ]
+}

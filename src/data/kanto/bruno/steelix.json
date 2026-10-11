@@ -1,0 +1,29 @@
+{
+  "id": "steelix",
+  "name": "Steelix",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Trampa Rocas",
+  "tricks": [
+    {
+      "detail": "Terremoto → Encanto → Amortiguador",
+      "variant": [
+        {
+          "detail": "Entra Staraptor → Gengar +4 + Precisión X (Otra Vez no es necesario)",
+          "variant": []
+        },
+        {
+          "detail": "Entra Machamp → Gengar → Otra Vez → Cambiar a Chansey → Sale Staraptor ↑↑↑",
+          "variant": []
+        },
+        {
+          "detail": "Entra Pokémon tipo Lucha → Gengar → Otra Vez → +4 +2 + Precisión X (mantener Otra Vez)",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Entra Staraptor → Gengar → Otra Vez → +2 + Precisión X",
+      "variant": []
+    }
+  ]
+}

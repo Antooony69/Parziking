@@ -1,0 +1,16 @@
+{
+  "id": "aerodactyl",
+  "name": "Aerodactyl",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "❤️ Encanto ❤️",
+  "tricks": [
+    {
+      "detail": "Si se queda ➜ Usa Encanto hasta que salga Garchomp, cambiar a Slowbro (Mantener), Bostezo frentea a Glaceon o Roserade, sacrifica a Politoed, entra Poliwrath +6 🥊 🔔(Cascada contra Metagross)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Garchomp ➜ Cambiar a Slowbro (Mantener), Bostezo frente a Glaceon o Roserade, sacrifica a Politoed, Poliwrath +6 🥊 🔔(Cascada contra Metagross)🔔",
+      "variant": []
+    }
+  ]
+}

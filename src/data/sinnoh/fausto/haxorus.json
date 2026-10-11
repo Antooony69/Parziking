@@ -1,0 +1,12 @@
+{
+  "id": "haxorus",
+  "name": "Haxorus",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Gengar Otra Vez +6 🔔(Barre con Bola Sombra)🔔 (haxorus no tiene banda focus)",
+  "tricks": [
+    {
+      "detail": "Si Cambia a Bronzong ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño Drenaje a Magmortar)🔔",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "clefable",
+  "name": "Clefable",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚 Amortiguador 🥚",
+  "tricks": [
+    {
+      "detail": "Lucario --> Gengar, Otra Vez, +6 + Precisión (Usa Otra Vez cada que puedas); Si Bola Sombra se queda bloqueado → Onda Certera dos veces para golpear a Xatu",
+      "variant": []
+    },
+    {
+      "detail": "Golurk --> Gengar, Otra Vez, +4 + Precisión (Usa Otra Vez cada que puedas)",
+      "variant": []
+    },
+    {
+      "detail": "Cambiar de Gengar si Lucario;  usa movimiento de fuego (es zoroark) --> Gengar usa Otra Vez al movimiento de fuego; Poliwrath +6 +2",
+      "variant": []
+    }
+  ]
+}

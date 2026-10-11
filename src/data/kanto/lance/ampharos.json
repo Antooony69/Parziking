@@ -1,0 +1,29 @@
+{
+  "id": "ampharos",
+  "name": "Ampharos",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Arcanine --> Cambia a Slowbro y usa Bostezo frente a Ampharos, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño drenaje contra Ampharos y Steelix)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Scizor/Haxorus --> Cambia a Slowbro y usa Bostezo frente a Ampharos, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño drenaje contra Ampharos y Metagross)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Feraligatr --> Opciones para Resolver 👇",
+      "variant": [
+        {
+          "detail": "👍Estable👍 --> Cambia a Volcarona luego a Slowbro, Bostezo, sacrifica a Politoed, entra Poliwrath 🔔(Puño drenaje contra Ampharos y Metagross)🔔",
+          "variant": []
+        },
+        {  
+          "detail": "🍀Suerte🍀 --> Sacrifica a Politoed, entra Poliwrath 🔔(Puño drenaje contra Ampharos y Metagross)🔔",
+          "variant": []
+        }
+      ] 
+    }  
+  ]
+}

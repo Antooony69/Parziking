@@ -1,0 +1,16 @@
+{
+  "id": "seviper",
+  "name": "Seviper",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Metagross --> Cambiar a Slowbro y usar Bostezo frente a Lapras; sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Gallade--> Cambiar a Slowbro y usar Bostezo frente a Empoleon; sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

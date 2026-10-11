@@ -1,0 +1,16 @@
+{
+  "id": "blissey",
+  "name": "Blissey",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨 frente a Mienshao; cambiar a Gengar y usar bola sombra a mienshao",
+  "tricks": [
+    {
+      "detail": "Skarmory --> Cambiar a Slowbro; Bostezo frente a Mismagius; sacrificar a Politoed; Poliwrath +6 🔔(Cascada a Skarmory)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Walrein o Dewgong --> Sacrificar a Politoed; Poliwrath +6 🔔(Cascada a Skarmory)🔔",
+      "variant": []
+    }
+  ]
+}

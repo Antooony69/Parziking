@@ -1,0 +1,12 @@
+{
+  "id": "gliscor",
+  "name": "Gliscor",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚Amortiguador🥚",
+  "tricks": [
+    {
+      "detail": "Cambiar a Slowbro Bostezo contra Metagros ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "aggron",
+  "name": "Aggron",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 TRAMPA ROCAS 🪨 Sacrificar a Politoed; Poliwrath absorbe y debilita",
+  "tricks": [
+    {
+      "detail": "Shiftry --> Volcarona +2  (Mantener HP por encima del 23%)",
+      "variant": []
+    },
+    {
+      "detail": "Hariyama --> Recibir Ataque X; completar (Cascada  Hariyama)",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "luxray",
+  "name": "Luxray",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "👻Gengar Otra Vez y entra Slowbro usa Bostezo, sacrifica a Politoed, Poliwrath a +6🐸🥊",
+  "tricks": [
+    {
+      "detail": "◉ Si Luxray Mata a Poliwrath, Chansey Cambia a Gengar otra vez y Bola sombra",
+      "variant": []
+    }
+  ]
+}

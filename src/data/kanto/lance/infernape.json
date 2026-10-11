@@ -1,0 +1,16 @@
+{
+  "id": "infernape",
+  "name": "Infernape",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambia a Gengar luego a chansey frente a Dragonite, usa Trampa Rocas",
+  "tricks": [
+    {
+      "detail": "◉ Infernape ➜ Cambia a Slowbro usa Bostezo hasta que cambie frente a Dragonite, sacrifica a Politoed, entra Poliwrath +6🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "◉ Scizor ➜ Cambia a Slowbro, Bostezo frente a Dragonite, sacrifica a Politoed, entra Poliwrath +6🐸🥊",
+      "variant": []
+    } 
+  ]
+}

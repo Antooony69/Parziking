@@ -1,0 +1,31 @@
+{
+  "id": "houndoom",
+  "name": "Houndoom",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Trampa Rocas",
+  "tricks": [
+    {
+      "detail": "Llamarada --> Usar Teletransporte",
+      "variant": [
+        {
+          "detail": "Si se queda → Entra Volcarona, sacrifica al Politoed, entra Poliwrath +6 🚨(Cuidado con una quemadura inesperada, toma una velocidad X, ya que la lluvia no te Alcanzara)",
+          "variant": []
+        },
+        {
+          "detail": "krookodile → Cambia a Slowbro y usa Bostezo, sacrifica a Politoed, entra Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Crobat →  Cambia a Slowbro y usa Bostezo, sacrifica a Politoed, entra Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Toxicroack/Lucario → Cambia a Slowbro y usa Bostezo, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño Hielo contra Mandibuzz y Cascada contra Gengar)🔔",
+      "variant": []
+    }
+  ]
+}
+  
+

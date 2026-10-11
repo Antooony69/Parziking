@@ -1,0 +1,12 @@
+{
+  "id": "kangaskhan",
+  "name": "Kangaskhan",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Frente a Heracross ➜ Amortiguador, Teletransporte (recibes el A Bocajarro) → Gengar, otra vez, +2 + precisión x (heracross Banda focus)",
+      "variant": []
+    }
+  ]
+}

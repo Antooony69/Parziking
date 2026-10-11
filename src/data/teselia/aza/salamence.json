@@ -1,0 +1,25 @@
+{
+  "id": "salamence",
+  "name": "Salamence",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "❤️Encanto❤️ ",
+  "tricks": [
+    {
+      "detail": "Garra Dragón ➜ Usar Amortiguador frente a Absol cambiar a Gengar +2 + precision X seguido de Otra Vez (absol banda focus)",
+      "variant": []
+    },
+    {
+      "detail": "Absol ➜ 🪨TrampaRocas recomendar usar Amortiguador🪨",
+      "variant": [
+        {
+          "detail": "Luxray ➜ Gengar +2 + precision X 🔔No usar Otra Vez🔔",
+          "variant": []
+        },
+        {
+          "detail": "Samurott ➜ Gengar Otra Vez +2 + precision X ",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "vanilluxe",
+  "name": "Vanilluxe",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚Amortiguador🥚",
+  "tricks": [
+    {
+      "detail": "Gallade ➜ Gengar Otra Vez 2+2 + Precisión X (no tiene banda focus) 🔔(Onda Certera a Empoleon/Walrein o Dewgong)🔔",
+      "variant": []
+    }
+  ]
+}

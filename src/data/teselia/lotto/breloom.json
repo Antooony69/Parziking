@@ -1,0 +1,20 @@
+{
+  "id": "breloom",
+  "name": "Breloom",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡Gengar Otra Vez +2 y Debilitar💡",
+  "tricks": [
+    {
+      "detail": "◉ Magnezone ➜ Chansey Trampa Rocas frente a Conkeldurr;  Slowbro, Bostezo frente a Magnezone; sacrifica a Politoed y entrar con Poliwrath +6🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "◉ Conkeldurr ➜ Slowbro, luego a Chansey y usar 🪨Trampa Rocas🪨 frente a Conkeldurr; Slowbro usa Bostezo frente a Magnezone; sacrificar a Politoed y entrar con Poliwrath +6🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "◉ si Gengar Usa Otra vez y al usar maquinacion entra Conkeldurr ➜ Cambiar a Slowbro y usar Bostezo frente a Magnezone, luego usa Proteccion y Bostezo frente a Breloom, sacrifica a politoed y entra con Poliwrath +6🐸🥊",
+      "variant": []
+    }
+  ]
+}

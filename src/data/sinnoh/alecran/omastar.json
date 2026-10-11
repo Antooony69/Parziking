@@ -1,0 +1,16 @@
+{
+  "id": "omastar",
+  "name": "Omastar",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Escavalier ➜ Sacrificar a Politoed ➜ Poliwrath +6 🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "Kingler ➜ Cambiar a Slowbro usa Bostezo ➜ frente a Sceptile entra con Volcarona +1 🦋🔥",
+      "variant": []
+    }
+  ]
+}

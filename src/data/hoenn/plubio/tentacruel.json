@@ -1,0 +1,12 @@
+{
+  "id": "tentacruel",
+  "name": "Tentacruel",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 TRAMPA ROCAS 🪨,",
+  "tricks": [
+    {
+      "detail": "Eelektross ➜ Gengar Otra Vez despues cambia a Slowbro y usa Bostezo Frete Milotic ➜ sacrifica a Politoed ➜ Poliwrath +6 🥊",
+      "variant": []
+    }
+  ]
+}

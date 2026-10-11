@@ -1,0 +1,43 @@
+{
+  "id": "octillery",
+  "name": "Octillery",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Si se queda ➜ Revisar si Chansey tiene un estado alterado",
+      "variant": [
+        {
+          "detail": "Sin estado alterado ➜ Usar Teletransporte enviar a Slowbro y usar Bostezo ➜ sacrificar Politoed ➜ entra con Poliwrath +6 🐸🥊",
+          "variant": []
+        },
+        {
+          "detail": "Con estado alterado ➜ Cambia a Slowbro",
+          "variant": [
+            {
+              "detail": "Kabutops ➜ Usa Bostezo 🥱",
+              "variant": [
+                {
+                  "detail": "Yanmega ➜ Sacrificar a Politoed y entra con Poliwrath +6 🐸🥊",
+                  "variant": []
+                },
+                {
+                  "detail": "Ferrothorn ➜ Volcarona +2 🦋🔥 ",
+                  "variant": []
+                }   
+              ]   
+            },
+            {
+              "detail": "Flygon ➜ Usar Relajo para recibir Cometa Draco ➜ usa Bostezo al enfrentar a Yanmega ➜ sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Skuntank ➜ Sacrifica a Politoed ➜ cambiar a Volcarona luego a Gengar ➜ frente a forretress cambia a Slowbro y usa Bostezo luego Teletransporte ➜ entrar con Poliwrath +6 y usa Puño Drenaje ➜ 💊frente Crustle usar Velocidad X luego termina de Barrer💊",
+      "variant": []
+    }
+  ]
+}

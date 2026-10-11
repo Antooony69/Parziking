@@ -1,0 +1,20 @@
+{
+  "id": "umbreon",
+  "name": "Umbreon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚 Amortiguador 🥚",
+  "tricks": [
+    {
+      "detail": "Golurk ➜ Gengar ➜ Otra Vez ➜ +4  + precisión X.",
+      "variant": []
+    },
+    {
+      "detail": "Lucario ➜ Gengar ➜ Otra Vez ➜ +2 +2 + precision X  (Lucario Banda Focus).",
+      "variant": []
+    },
+    {
+      "detail": "Se queda → Slowbro ➜ Bostezo → Sacrifica a Politoed y entra con  Poliwrath +6🐸🥊",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "metagross",
+  "name": "Metagross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Trampa Rocas",
+  "tricks": [
+    {
+      "detail": "Puño meteoro → Usa Teletransporte 🔔(Observa el daño que recibe Metagross por Vidasfera)🔔",
+      "variant": [
+        {
+          "detail": "Metagross se queda a 90% → Cambia a Slowbro y usa Bostezo, sacrifica a Politoed, entra Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Metagross se queda a 90,3% → Cambia Volcarona frente a Aerodactyl, sacrifica a Politoed, 💊entra Poliwrath + Ataque X💊 🔔(Puño drenaje contra Aerodactyl y Cascada contra Steelix)🔔",
+          "variant": []
+        },  
+        {
+          "detail": "No acierta los dos golpes → Cambia a Slowbro y usa Bostezo",
+          "variant": [
+            {
+              "detail": "Golpe Planta/Eelektross → Sacrifica a Politoed, entra Poliwrath +6",
+              "variant": []
+            },
+            {   
+              "detail": "Lapras → Cambia a Chansey y usa Amortiguador frente a Metagross, cambia a Volcarona frente a Aerodactyl, sacrifica a Politoed, 💊entra Poliwrath + Ataque X💊 🔔(Puño drenaje contra Aerodactyl y Cascada contra Steelix)🔔",
+              "variant": []
+            } 
+          ]  
+        }  
+      ]
+    },
+    {
+      "detail": "Machada → Cambia a Slowbro y usa Bostezo, sacrifica a Politoed, entra Poliwrath +6",
+      "variant": []
+    },    
+    {
+      "detail": "Cabezazo Zen → Cambia a Slowbro y usa Bostezo, sacrifica a Politoed, entra Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Scizor/Haxorus → Cambia a Slowbro y usa Bostezo frente a Ampharos, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño drenaje contra Ampharos/Metagross)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Feraligatr → ⬇️Opciones Para Resolver⬇️",
+      "variant": [
+        {
+          "detail": "✅Segura✅ → Cambia a Volcarona luego a Slowbro, Bostezo, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño drenaje contra Ampharos/Metagross)🔔",
+          "variant": []
+        },
+        {
+          "detail": "🍀Suerte🍀 → Sacrifica a Politoed, entra Poliwrath +6 🔔(Puño drenaje contra Ampharos/Metagross)🔔",
+          "variant": []
+        }  
+      ]  
+    }
+  ]
+}

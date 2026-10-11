@@ -1,0 +1,51 @@
+{
+  "id": "salamence",
+  "name": "Salamence",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🔔Ver habilidad🔔",
+  "tricks": [
+    {
+      "detail": "Intimidación ➜ Usar Trampa Rocas ➜ Frente a Conkeldurr Sacar a Gengar otra vez +2 🔔Mira abajo🔔",
+      "variant": [
+        {
+          "detail": "Conkeldurr Se queda ➜ Gengar otra vez +4 🔔 bola sombra a Todos🔔",
+          "variant": []
+        },
+        {
+          "detail": "Si Entra Salamence ➜ Matalo De un Bola sombra y Frente a Metagross ➜ Slowbro Bostezo y Sacrifica a Politoed entra Con  Poliwrath +6 🔔 Cascada a Metagross🔔",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Sin Intimidación ➜ Usar Trampa Rocas",
+      "variant": [
+        {
+          "detail": "Colmillo Ígneo ➜ Cambiar a Slowbro y usar Bostezo y sacrifica a Politoed y entra con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Machamp ➜ Cambiar a Gengar luego a Slowbro y usa Bostezo, sacrifica a Politoed y entra Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Conkeldurr ➜ Cambia a Gengar y usa Otra Vez, cambia a Slowbro y usa Bostezo, sacrifica a Politoed, entra Poliwrath +6 ",
+          "variant": []
+        },
+        {
+          "detail": "Medicham ➜ Cambia a Slowbro y usa Bostezo",
+          "variant": [
+            {
+              "detail": "Magnezone ➜ Protección y Bostezo ➜ sacrifica a Politoed y entrar con Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Crawdaunt ➜ Sacrificar a Politoed y entrar con Poliwrath +6",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

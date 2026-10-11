@@ -1,0 +1,33 @@
+{
+  "id": "entei",
+  "name": "Entei",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "❤️Encanto❤️",
+  "tricks": [
+    {
+      "detail": "Vidasfera ➜ Cambiar a Slowbro frente a Mienshao, usar Bostezo, sacrifica a Politoed ➜Poliwrath +6🐸🥊 🔔(Puño Drenaje a Mienshao y Cascada a Musharna/Metagross)🔔",
+      "variant": []
+    },
+    {
+      "detail": "No Vidasfera ➜ 🪨Usa Trampa rocas🪨 🔔(Si se queda, cambiar a Slowbro y usar Bostezo)🔔",
+      "variant": [
+        {
+          "detail": "Alakazam ➜ Teletransporte, sacar a Slowbro y usar Bostezo, sacrifica a Politoed, Poliwrath +6 🐸🥊",
+          "variant": []
+        },
+        {
+          "detail": "Metagross ➜ Cambiar a Slowbro y usar Bostezo, sacrifica a Politoed, Poliwrath +6 🐸🥊",
+          "variant": []
+        },
+        {
+          "detail": "Leafeon ➜ Usar Amortiguador, Encanto y Amortiguador para forzar el cambio ⬆️(Mira la Solucion Arriba)⬆️",
+          "variant": []
+        }
+      ]
+    },
+    { 
+      "detail": "Alakazam ➜ 🪨Trampa rocas🪨 luego usa Teletransporte, sacar a Slowbro y usar Bostezo, sacrifica a Politoed, Poliwrath +6 🐸🥊",
+      "variant": []
+    }
+  ]
+}

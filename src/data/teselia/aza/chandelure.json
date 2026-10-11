@@ -1,0 +1,50 @@
+{
+  "id": "chandelure",
+  "name": "Chandelure",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Honchkrow --> Gengar usa Otra Vez, entra Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entra Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Haxorus --> Cambiar a Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Scrafty --> Cambiar a Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Garchomp --> Teletransporte para Ver Movimiento",
+      "variant": [
+        {
+          "detail": "Terremoto --> sacar a Slowbro y usar Bostezo para ver si es Golpe Crítico",
+          "variant": [
+            {
+              "detail": "Sin Critico --> Seguir con Bostezo frente a Chandelure, sacrificar a Politoed, entrar con Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Con Critico --> Sacrificar a Politoed, entrar con Poliwrath +6",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Colmillo Ígneo --> Seguir con Bostezo frente a Chandelure, sacrificar a Politoed, entrar con Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Staraptor --> Cambiar a Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Samurott --> 💊Gengar Otra Vez 2+2 + Precisión X💊",
+      "variant": []
+    }
+  ]
+}

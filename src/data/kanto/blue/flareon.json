@@ -1,0 +1,16 @@
+{
+  "id": "flareon",
+  "name": "Flareon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambia a Slowbro luego a Chansey, frente a Magnezone pon 🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Poliwrath → Usa Teletransporte, 💊Gengar 2+2 + Precion X💊 💰(Si quieres Ahorrar: 6+2)💰",
+      "variant": []
+    },
+    {
+      "detail": "Flareon → Cambia a Slowbro y usa Bostezo frente a magnezone, usar Proteccion y Bostezo, luego usa Teletransporte y entra con Volcarona +2",
+      "variant": []
+    }
+  ]
+}

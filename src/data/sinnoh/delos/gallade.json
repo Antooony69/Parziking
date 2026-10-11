@@ -1,0 +1,103 @@
+{
+  "id": "gallade_2",
+  "name": "Gallade",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "👻Cambia a Gengar👻",
+  "tricks": [
+    {
+      "detail": "Espada Santa ➜ Gengar usa Otra Vez",
+      "variant": [
+        {
+          "detail": "Gallade pega Segundo ➜ Cambiar a Slowbro",
+          "variant": [
+            {
+              "detail": "Si se queda ➜ Usar Bostezo😴",
+              "variant": [
+                 {
+                   "detail": "Gardevoir ➜ Entrar con Chansey y usar Trampa Rocas ➜ Frente a Gallade 💊entra con Gengar +6 +2 + Precisión X💊",
+                   "variant": []
+                 },
+                 {         
+                   "detail": "Golduck / Absol ➜ Cambia a Chansey y usar Trampa Rocas",
+                   "variant": [
+                     {         
+                       "detail": "Absol ➜ 👻Cambia a Gengar 4+2👻",
+                       "variant": []
+                     },
+                     { 
+                       "detail": "Gallade ➜ 👻Cambia a Gengar 4+2👻 🔔(No usar Otra Vez)🔔",
+                       "variant": []
+                     }
+                   ] 
+                 },
+                 { 
+                   "detail": "Hydreigon ➜ Sacrifica a Politoed 🔔(Identifica el Movimiento)🔔",
+                   "variant": [
+                     { 
+                       "detail": "Pulso Dragon ➜ Cambiar a Chansey y usar Trampa Rocas ➜ Frente a Gallade ➜ 💊entra con Gengar +6 +2 + Precisión X💊",
+                       "variant": []
+                     },
+                     {   
+                       "detail": "Pulso Umbrío ➜ Entrar con Poliwrath +6",
+                       "variant": []
+                     } 
+                   ]
+                 },
+                 {  
+                    "detail": "Raichu ➜ Sacrifica a Politoed ➜ Poliwrath +6",
+                    "variant": []
+                 }   
+               ]
+            },
+            {  
+              "detail": "Dragonite ➜ Usar Bostezo😴",
+              "variant": [
+                {  
+                  "detail": "Raichu ➜ Sacrifica a Politoed ➜ Poliwrath +6",
+                  "variant": []
+                },
+                {
+                  "detail": "Absol ➜ Sacrifica a Politoed ➜ Poliwrath +6 🔔(Observa tu situación)🔔",
+                  "variant": [
+                    {
+                      "detail": "Si entra Girafarig primero que ninetales ➜ Usar Velocidad X y presionar de nuevo",
+                      "variant": []
+                    },
+                    {  
+                      "detail": "Si entra Ninetales Primero que Girafarig ➜ Sigue Atacando si no hay golpe crítico no debilita 🚨(Si hay golpe crítico y cae, entra con Gengar +2 para completar)🚨",
+                      "variant": []
+                    }  
+                  ]
+                },
+                {
+                  "detail": "Ninetales ➜ Usar Protección y Bostezo ➜ Frente a Absol ➜ sacrifica a Politoed ➜ Poliwrath +6",
+                  "variant": []
+                }
+              ]
+            }  
+          ]  
+        },
+        {
+          "detail": "Gallade Pega primero ➜ 💊Gengar 2+2 + Precision X💊 🔔(No usar Otra Vez)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Lo atrapas en Golpe bajo ➜ Sacrifica a Politoed ➜ Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Gallade usa Proteccion ➜ Gengar usa Maquinación y atacar hasta debilitar ➜ al enfrentar a Raichu ➜ entra con Chansey y usar Trampa Rocas al enfrentar a Absol ➜ entra con Gengar +4 +2",
+          "variant": []
+        },
+        {
+          "detail": "Cambia a Dragonite ➜ Cambiar a Slowbro y usar Bostezo ➜ Frente a Raichu ➜ sacrifica a Politoed ➜ entra con Poliwrath +6",
+          "variant": []          
+        } 
+      ]  
+    },
+    {
+      "detail": "Segundo Gallade ➜ Sacrifica a Politoed ➜ enviar a Chansey ➜ entra con Gengar +6 🔔(Usar Bola Sombra para Barrer)🔔",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "scizor",
+  "name": "Scizor",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambia a Slowbro luego a Chansey",
+  "tricks": [
+    {
+      "detail": "Si se queda → Cambia a Slowbro y usa Bostezo, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño drenaje contra Metagoss)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Lapras → Trampa Rocas frente a Scizor, cambia a SLowbro y usa Bostezo, sacrifica a Politoed, entra Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Ampharos → Trampa Rocas",
+      "variant": [
+        {
+          "detail": "Scizor → Cambia a Slowbro y usa Bostezo, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño drenaje contra Ampharos/Metagoss)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Feraligatr → ⬇️Opciones para Resolver⬇️",
+          "variant": [
+            {
+              "detail": "✅Segura✅ → Cambia a Volcarona luego a Slowbro, Bostezo, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño drenaje contra Ampharos/Metagross)🔔",
+              "variant": []
+            },
+            {
+              "detail": "🍀Suerte🍀 → Sacrifica a Politoed, entra Poliwrath +6 🔔(Puño drenaje contra Ampharos/Metagross)🔔",
+              "variant": []
+            }
+          ]
+        }
+      ]    
+    },
+    {
+      "detail": "Dragonite → Trampa Rocas frente a Infernape, Cambia a Slowbro (Mantenerlo), Bostezo frente a Dragonite, Sacrifica a Politoed, entra Poliwrath +6",
+       "variant": []
+    }
+  ]
+}

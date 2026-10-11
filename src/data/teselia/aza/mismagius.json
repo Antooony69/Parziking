@@ -1,0 +1,38 @@
+{
+  "id": "mismagius",
+  "name": "Mismagius",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚Amortiguador🥚",
+  "tricks": [
+    {
+      "detail": "Onda Certera de (Zoroark) ➜ Gengar usa Otra Vez cambiar a Slowbro y usar Bostezo frente a Mismagius, Volcarona +2",
+      "variant": []
+    },
+    {
+      "detail": "Samurott ➜ Cambiar a Slowbro luego cambiar a Chansey",
+      "variant": [
+        {
+          "detail": "Poder Oculto Eléctrico ➜ Cambiar a Slowbro y usar Bostezo, sacrifica a Politoed, Poliwrath +6 🐸🥊",
+          "variant": []
+        },
+        {
+          "detail": "Serperior ➜ Usar Amortiguador",
+          "variant": [
+            {
+              "detail": "Samurott ➜ 💊Gengar 2+2 + Precision X💊",
+              "variant": []
+            },
+            {  
+              "detail": "Tyranitar ➜ Sacrifica a Politoed, Poliwrath +6 🐸🥊",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Absol ➜ Gengar Otra vez +2 + Precision X 🔔(Absol tiene Banda Focus)🔔",
+      "variant": []
+    }
+  ]
+}

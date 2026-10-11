@@ -1,0 +1,17 @@
+{
+  "id": "purugly",
+  "name": "Purugly",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨TrampaRocas🪨",
+  "tricks": [
+    {
+      "detail": "Hydreigon --> Gengar Otra Vez 6+2 🔔(Onda Certera a Purugly)🔔",
+      "variant": [
+        {
+          "detail": "Ida y Vuelta activa Cuerpo Maldito --> Gengar usa Otra Vez, cambiar a Poliwrath para matar a purugly 🐈",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

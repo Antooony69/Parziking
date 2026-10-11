@@ -1,0 +1,24 @@
+{
+  "id": "jellicent",
+  "name": "Jellicent",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Salpicar --> Usar Teletransporte; entrar con Slowbro y usar Bostezo",
+      "variant": []
+    },
+    {
+      "detail": "Si se queda --> Sacrificar a Politoed; entrar con Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Serperior --> Entrar con Volcarona +2 y usar Velocidad X (mantener PS por encima del 29%)",
+      "variant": []
+    },
+    {
+      "detail": "Heracross --> Usar Teletransporte; entrar con Gengar +4 + Precisión",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "golurk",
+  "name": "Golurk",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa rocas 🪨",
+  "tricks": [
+    {
+      "detail": "◉ Puño Drenaje ➜ Ver si es Golpe Crítico ",
+      "variant": [
+        {
+          "detail": "◉ No sale Critico ➜ Gengar Otra Vez +4",
+          "variant": []
+        },
+        {
+          "detail": "◉ sale critico ➜ chansey Teletransporte; si usa Puño Drenaje , Gengar Otra Vez +4  ",
+          "variant": [
+            {
+              "detail": "◉ Terremoto ➜ saca a Slowbro bostezo ➜ frente a Lucario, sacrifica a politoed ➜ Poliwrath +6.",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Conkeldurr ➜ Gengar Otra Vez +4",
+      "variant": []
+    }
+  ]
+}

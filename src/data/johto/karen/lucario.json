@@ -1,0 +1,38 @@
+{
+  "id": "lucario",
+  "name": "Lucario",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Esfera Aural ➜ Cambiar a Gengar, Usar Otra Vez",
+      "variant": [
+        {
+          "detail": "Se Queda Lucario ➜ Gengar otra vez +6 🔔(Tiene banda focus y Barre con Bola Sombra)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Salamence ➜ Cambiar a Slowbro, mantenerte usando Bostezo (Ver abajo guía del Salamence)",
+          "variant": []
+        },
+        {
+          "detail": "Rapidash ➜ Cambiar a Slowbro y usa Bostezo, sacrificar a Politoed ➜ Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Salamence ➜ Slowbro y usa bostezo, luego protección y vuelve a usar bostezo, Frente a Spiritomb , sacrifica a Politoed ➜ Poliwrath +6 🔔 Spiritomb despierto no es amenaza 🔔",
+      "variant": [
+        {
+          "detail": "Spiritomb ➜ Sacrifica a Politoed ➜ Poliwrath +6 🔔(Si Spiritomb despierta, no es amenaza)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Lucario → Sacrifica a Politoed ➜ Poliwrath +6",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

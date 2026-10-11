@@ -1,0 +1,20 @@
+{
+  "id": "rapidash",
+  "name": "Rapidash",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨 al enfrentar a Conkeldurr ➜ entrar con Gengar Otra Vez +2",
+  "tricks": [
+    {
+      "detail": "Si se Queda --> Gengar +4 + Precisión X",
+      "variant": []
+    },
+    {
+      "detail": "Salamence --> Barrer hasta a Steelix ➜ sacrificar a Politoed ➜ entrar con Poliwrath y usar Ataque X 🔔(Cascada a Steelix/Conkeldurr y Puño Drenaje contra los Demas)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Ludicolo --> Cambiar a Slowbro y usar Bostezo ➜ sacrificar a Politoed entrar con Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

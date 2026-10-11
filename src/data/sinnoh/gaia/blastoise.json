@@ -1,0 +1,43 @@
+{
+  "id": "blastoise",
+  "name": "Blastoise",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨 🔔(Si se queda usar Teletransporte)🔔",
+  "tricks": [
+    {
+      "detail": "◉ Rhyperior ➜ Usar Teletransporte; cambia a Slowbro y usa Bostezo 🔔(Seguir usando Bostezo al enfrentar a Quagsire)🔔",
+      "variant": [
+        {
+          "detail": "◉ Megacuerno ➜ Observa si Falla o Golpea",
+          "variant": [
+            {
+              "detail": "◉ Golpea ➜ Usa Teletransporte ➜ Volcarona x1 danza aleteo",
+              "variant": []
+            },
+            {
+              "detail": "◉ Falla ➜ Usa Protección y Relajo Frente a Parasect ➜ Volcarona x1 Danza aleteo",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Terremoto/Pedrada ➜ Teletransporte ➜ Volcarona x1 Danza aleteo ",
+          "variant": [
+            {
+              "detail": "◉ Gengar ➜ Volcarona x1 Danza aleteo 🔔(Psiquico a Gengar)🔔",
+              "variant": []
+            },
+            {
+              "detail": "◉ Cambia a Parasect mientras usas Teletransporte ➜ Volcarona x1 Danza aleteo",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Parasect ➜ Volcarona x1 Danza aleteo",
+      "variant": []
+    }
+  ]
+}

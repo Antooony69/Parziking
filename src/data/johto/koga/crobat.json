@@ -1,0 +1,86 @@
+{
+  "id": "crobat",
+  "name": "Crobat",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Se queda → Mira el ataque",
+      "variant": [
+        {
+          "detail": "Superdiente → Cambia a Slowbro",
+          "variant": [  
+            {
+              "detail": "Se queda → Slowbro usa Bostezo frente a Magmortar → Sacrifica Politoed → Poliwrath Toma un Ataque X y luego Barre 🔔(Puño Drenaje a Magmortar // Si sale Ditto, cambia a Gengar y lo Derrotas)🔔",
+              "variant": []
+            },    
+            {
+              "detail": "Rhyperior ➜ Slowbro usa Bostezo y recibe Megacuerno ➜ luego usar Protección y Bostezo ➜ frente a Gengar/Lapras ➜ sacrifica a politoed ➜ Poliwrath +6 🔔(Puño Hielo contra Gengar)🔔",
+               "variant": []
+            }
+          ]  
+        },
+        {
+          "detail": "Puya Nociva / Pájaro Osado ➜ Cambiar a Slowbro y usar Bostezo",
+          "variant": [
+            {
+              "detail": " Si se Queda ➜ Volcarona +1 y usa Psíquico ➜ frente a Electrode usar Danza Aleteo y termina de Barrer",
+              "variant": []
+            },
+            {
+              "detail": "Slowbro bostezo frente a Zoroark ➜ Volcarona +1 y usa Gigadrenado para derrotarlo ➜ frente a Electrode/Tentacruel usa Danza Aleteo y Termina de Barrer 🚨(Si Volcarona retrocede, cambia a Chansey y cura a Volcarona)🚨",
+              "variant": []
+            }    
+          ] 
+        },
+        { 
+          "detail": "Pulso Umbrío/Lanzallamas de Zoroark ➜ Usar Teletransporte para sacar a Volcarona +1 y usa Gigadrenado ➜ frente a Electrode/Tentacruel usa Danza Aleteo y Termina de Barrer",
+          "variant": [] 
+        }  
+      ]   
+    },
+    {
+      "detail": "Samurott ➜ Slowbro, Bostezo ➜ sacrifica a Palpitoad ➜ Poliwrath +6 🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "Lucario ➜ Gengar, Otra Vez, 4+2 🔔(Barre con Bola Sombra)🔔",
+      "variant": []
+    },
+    {
+      "detail": " Ariados ➜ Encanto y Amortiguador para forzar el cambio",
+      "variant": [
+        {
+          "detail": " Rhyperior → Slowbro, Bostezo → Teletransporte → Poliwrath +6 y usa Puño Drenaje → Toma un velocidad X frente a Sharpedo y Termina de Barrer",
+          "variant": []
+        },    
+        {
+          "detail": "Tangrowth → ⬇️Mira la Solucion Abajo⬇️",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Tangrowth → Teletransporte → Slowbro usa Bostezo 🔔(Mira Si Acierta el Ataque)🔔",
+      "variant": [
+        {
+          "detail": "Acierta → Teletransporte → Volcarona +2",
+          "variant": []
+        },
+        {
+          "detail": "Falla → Volcarona +2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Scizor → Volcarona +1 + Ataque Especial X",
+      "variant": [
+        {
+          "detail": "☠️Volcarona Muere☠️ → Entra Poliwrath → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

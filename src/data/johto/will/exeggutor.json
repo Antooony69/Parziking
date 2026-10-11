@@ -1,0 +1,25 @@
+{
+  "id": "exeggutor",
+  "name": "Exeggutor",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚 Amortiguador 🥚",
+  "tricks": [
+    {
+      "detail": "Absol → Gengar, +4 + precisión X. (No es necesario Otra Vez).",
+      "variant": []
+    },
+    {
+      "detail": "Flareon → Gengar, Otra Vez, +2.",
+      "variant": [
+        {
+          "detail": "Se queda → Derrótalo, sale Absol → Politoed (sacrificar), Poliwrath +6.",
+          "variant": []
+        },
+        {
+          "detail": "Sale Bronzong → Politoed (sacrificar), Poliwrath +6.",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

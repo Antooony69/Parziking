@@ -1,0 +1,46 @@
+{
+  "id": "eelektross",
+  "name": "Eelektross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚Amortiguador🥚",
+  "tricks": [
+    {
+      "detail": "◉ Blaziken ➜ cambia a Gengar +4 +2 (Blaziken Pañuelo elegido)",
+      "variant": []
+    },
+    {
+      "detail": "◉ Frente a Darmanitan ➜ Varias opciones",
+      "variant": [
+        {
+          "detail": "◉ Ruta De Ahorro ➜ Volcarona x3 Danza aleteo🦋🔥",
+          "variant": []
+        },
+        {
+          "detail": "◉ Ruta Segura ➜ Slowbro Bostezo ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+          "variant": []
+        },
+        {
+          "detail": "◉ Ruta Arriesgada ➜ Sacrifica a Politoed Poliwrath +6 🐸🥊",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Hitmonchan ➜ Cambiar a Slowbro Bostezo, sale Metagross ➜ Sacrifica a Politoed Poliwrath +6 🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "◉ Machamp ➜ cambiar a  👻 Gengar Otra Vez +4 +2 👻",
+      "variant": [
+        {
+          "detail": "◉ Si el rival cambia a Metagross ➜ Cambia a Slowbro bostezo , Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si el rival cambia a Eelektross ➜ Cambia a Chanse Amortiguador hasta que Cambie a otro pokemon y sigue una de las rutas de arriba",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

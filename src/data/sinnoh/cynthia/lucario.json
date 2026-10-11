@@ -1,0 +1,29 @@
+{
+  "id": "lucario",
+  "name": "Lucario",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡 Teletransporte💡",
+  "tricks": [
+    {
+      "detail": "A bocajarro ➜ Revisar objeto",
+      "variant": [
+        {
+          "detail": "Vidasfera ➜ Entra con Slowbro y usa Bostezo y sacrifica a Politoed y entra con Poliwrath +6🐸🥊",
+          "variant": []
+        },
+        {
+          "detail": "Sin Vidasfera ➜ Entra con Gengar Otra vez +4  (Bola Sombra a todo Lucario Banda focus)",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Esfera Aural ➜ Entra con Gengar  Otra Vez +6 +2",
+      "variant": []
+    },
+    {
+      "detail": "Garchomp ➜ Entra con Slowbro y usa Bostezo y sacrifica a Politoed y entra con Poliwrath +6🐸🥊",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "conkeldurr",
+  "name": "Conkeldurr",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨 luego cambia a Gengar Otra Vez +2",
+  "tricks": [
+    {
+      "detail": "Si se Queda ➜ Gengar +4 + Precisión X",
+      "variant": []
+    },
+    {
+      "detail": "Salamence ➜ Bola sombra a Salamence ➜ Frente a Steelix ➜ sacrifica a Politoed ➜ Poliwrath usar Ataque X y Barrer 🔔(Cascada contra Steelix/Conkeldurr y Puño Drenaje contra los Demas)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Ludicolo ➜ Slowbro Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+      "variant": []
+    }
+  ]
+}

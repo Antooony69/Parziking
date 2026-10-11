@@ -1,0 +1,21 @@
+{
+  "id": "ariados",
+  "name": "Ariados",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": " Usa 🪨Trampa Rocas🪨 si no cambia usa Amortiguador y ver si cambia",
+  "tricks": [
+    {
+      "detail": "Sale Tangrowth ➜ Teletransporte → Slowbro, Bostezo  🔔Mira la precisión de Tangrowth🔔 ",
+      "variant": [
+        {
+          "detail": "Golpea ➜ Teletransporte → Poliwrath +6 ➜ Puño Drenaje a Tangrowth  ➜ sale sharpedo ➜ usa Velocidad X y puño drenaje 🔔Sharpedo Banda Focus🔔",
+          "variant": []
+        },
+        {
+          "detail": "Falla ➜ Volcarona x2  danza aleteo 🦋🔥 ",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

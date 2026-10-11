@@ -1,0 +1,12 @@
+{
+  "id": "electivire",
+  "name": "Electivire",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡Gengar usa Otra Vez💡",
+  "tricks": [
+    {
+      "detail": "Cambia a Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6.",
+      "variant": []
+    }
+  ]
+}

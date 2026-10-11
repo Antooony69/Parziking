@@ -1,0 +1,12 @@
+{
+  "id": "kecleon",
+  "name": "Kecleon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": " 🥚Usa Amortiguador🥚",
+  "tricks": [
+    {
+      "detail": "Frente a Lucario ➜ entra con Gengar +2 +2 + Precisión X (lucario no tiene banda focus)",
+      "variant": []
+    }
+  ]
+}

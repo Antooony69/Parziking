@@ -1,0 +1,33 @@
+{
+  "id": "lucario",
+  "name": "Lucario",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡 Cambiar a Slowbro 💡",
+  "tricks": [
+    {
+      "detail": "A Bocajarro ➜ Cambiar a Chansey y usar Trampa Rocas frente a Lucario, Gengar +2 + Precisión X (No usar Otra Vez) 💰(Si quieres Ahorrar: Gengar +6)💰",
+      "variant": []
+    },
+    {
+      "detail": "Patada Salto Alta ➜ Bostezo, sacrificar a Politoed, Poliwrath +6 🔔(Eliminar quemadura primero)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Honchkrow ➜ Bostezo",
+      "variant": [
+        {
+          "detail": "Si permanece / Hydreigon / Lucario, Sacrificar a Politoed, Poliwrath +6 🔔(Puño Drenaje para mantener la línea de salud)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Banette ➜ Cambiar a Chansey y usar Trampa Rocas frente a Honchkrow, sacrificar a Politoed, 💊entra Poliwrath y pushea hasta Hydreigon luego usa Ataque X💊 🔔(Puño Hielo para Honchkrow)🔔",
+          "variant": []
+        }  
+      ]  
+    },
+    {
+      "detail": "Arcanine ➜ Slowbro, bostezo frente a Raichu, sacrificar a Politoed, Poliwrath +6 🐸🥊",
+      "variant": []
+    }
+  ]
+}

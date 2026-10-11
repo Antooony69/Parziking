@@ -1,0 +1,68 @@
+{
+  "id": "bronzong",
+  "name": "Bronzong",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Si se queda --> Ver Movimiento",
+      "variant": [
+        {
+          "detail": "Giro Bola --> Cambiar a Volcarona; usar Especial X y Barrer; 🔔(Si Bronzong se quema puedes usar Danza Aleteo x2 // Usar Ataques súper Efectivos)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Autodestrucción y entra su Chansey --> Sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Cabezazo Zen / Terremoto --> Cambiar a Slowbro y usar Bostezo frente a Nidoking; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },  
+        {
+          "detail": "Autodestrucción y sale Nidoking --> Chansey usa Amortiguador para curar al máximo",
+          "variant": [
+            {
+              "detail": "Si se queda --> Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Chansey --> Sacrificar a Politoed; Poliwrath +6",
+              "variant": []
+            }  
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Hariyama --> Ver Objeto",
+      "variant": [
+        {
+          "detail": "Llamasfera --> Cambiar a Slowbro; luego a Gengar Otra Vez 4+2 🔔(Barrer con Bola Sombra)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Sin Llamasfera --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6 🔔(Puño Drenaje a Jynx)🔔",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Walrein o Dewgong --> Gengar Otra Vez +2",
+      "variant": [
+        {
+          "detail": "Si se queda --> Gengar +6 🔔(Barrer con Bola Sombra)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Cambia a Lapras --> Barrer hasta Bronzong; Volcarona +1",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Lucario --> Gengar Otra Vez 4+2 🔔(Barrer con Bola Sombra)🔔",
+      "variant": []
+    }
+  ]
+}

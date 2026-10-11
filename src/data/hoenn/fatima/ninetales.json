@@ -1,0 +1,12 @@
+{
+  "id": "ninetales",
+  "name": "Ninetales",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡 Amortiguador 💡",
+  "tricks": [
+    {
+      "detail": "Frente a Lucario ➜ Gengar Otra vez +4 +2 💡Lucario tiene banda focus Bola Sombra a todo💡",
+      "variant": []
+    }
+  ]
+}

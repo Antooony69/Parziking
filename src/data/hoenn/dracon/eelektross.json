@@ -1,0 +1,16 @@
+{
+  "id": "eelektross",
+  "name": "Eelektross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚 Amortiguador 🥚",
+  "tricks": [
+    {
+      "detail": "Puño Drenaje ➜ Gengar +4 +2 🔔Bola Sombra a todo🔔",
+      "variant": []
+    },
+    {
+      "detail": "Fuerza Bruta ➜ Amortiguador y esperar a Gallade ➜ Gengar otra vez +4 otra vez 🔔Gallade Banda Focus🔔 ",
+      "variant": []
+    }
+  ]
+}

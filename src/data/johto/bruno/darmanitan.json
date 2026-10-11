@@ -1,0 +1,20 @@
+{
+  "id": "darmanitan",
+  "name": "Darmanitan",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡 Varias Opciones Mira Abajo 💡",
+  "tricks": [
+    {
+      "detail": "Asegurar ➜ Volcarona +3 🦋🔥",
+      "variant": []
+    },
+    {
+      "detail": "Estable ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "⚠️Arriesgar⚠️ ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+      "variant": []
+    }
+  ]
+}

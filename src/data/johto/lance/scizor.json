@@ -1,0 +1,25 @@
+{
+  "id": "scizor",
+  "name": "Scizor",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨 🔔 Evaluar daño 🔔",
+  "tricks": [
+    {
+      "detail": "Si el daño es ~90% --> Teletransporte; Volcarona +1 + Especial X; 🔔mantener PS por encima del 51%🔔",
+      "variant": [
+        {
+          "detail": "Si Volcarona cae por Crítico --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Si el daño es ~60% --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Si cae por Crítico y no puso Trampa Rocas --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "staraptor",
+  "name": "Staraptor",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambia a Gengar, Usa Otra Vez",
+  "tricks": [
+    {
+      "detail": "Si eres más rapido → Gengar +2 y golpea con Onda Certera, Si fallas usa Otra Vez y vuelve a Intentar → Sale Steelix",
+      "variant": [
+        {
+          "detail": "Steelix → Chansey, trampa rocas. Sale un tipo lucha → Gengar, Otra Vez, +2 + Precisión X",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Si eres más lento → Slowbro, bostezo. Sale Steelix → Cambia a Chansey, amortiguador",
+      "variant": [
+        {
+          "detail": "Machamp → Gengar, Otra Vez → Chansey, sale Muk → Amortiguador hasta que salga Staraptor",
+          "variant": []
+        },
+        {
+          "detail": "Staraptor → Gengar, +4 + Precisión X (No es necesario Otra Vez)",
+          "variant": []
+        },
+        {
+          "detail": "Pokemon Tipo Lucha → Gengar, Otra Vez, +4 +2 + Precisión (Mantener Otra Vez)",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

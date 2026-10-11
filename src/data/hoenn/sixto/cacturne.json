@@ -1,0 +1,16 @@
+{
+  "id": "cacturne",
+  "name": "Cacturne",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Opciones para resolver",
+  "tricks": [
+    {
+      "detail": "Rápido --> Trampa Rocas; Gengar +2 +2 + Precisión; usar movimientos súper eficaces",
+      "variant": []
+    },
+    {
+      "detail": "Ahorrar dinero --> Encanto + Amortiguador; Trampa Rocas frente a Darmanitan; Gengar +6 (No usar Otra Vez); Bola Sombra a todo",
+      "variant": []
+    }
+  ]
+}

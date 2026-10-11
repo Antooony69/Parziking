@@ -1,0 +1,38 @@
+{
+  "id": "abomasnow",
+  "name": "Abomasnow",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "⬇️Mira las Opciones para Resolver⬇️",
+  "tricks": [
+    {
+      "detail": "🍀SUERTE🍀 ➜ Sacrifica a Politoed, saca a Poliwrath y usa Puño Drenaje, 💊frente a Empoleon usa un Ataque X y luego Barre💊",
+      "variant": []
+    },  
+    {
+      "detail": "✅RAPIDO✅ ➜ Cambia a Gengar 🔔(Mira si el Cuerpo Maldito se Activa)🔔",
+      "variant": [
+        {
+          "detail": "Si se Activa ➜ Sacrifica a Politoed y entra Poliwrath +6",
+          "variant": []
+        },  
+        {  
+          "detail": "No se Activa ➜ Gengar Otra Vez 🔔(Mira tu Situacion)🔔",
+          "variant": [
+            {  
+              "detail": "☠️Gengar Muere☠️ ➜ Volcarona +2",
+              "variant": [] 
+            },  
+            {    
+              "detail": "👻Gengar no Muere👻 ➜ Volcarona Especial x y Frente jolteon usar velocidad X ",
+              "variant": [] 
+            }  
+          ]  
+        }  
+      ]    
+    },  
+    {
+      "detail": "💰Ruta Segura💰 ➜ 💕Encanto tres veces💕; Teletransporte; Volcarona +2 🚨(PS por encima del 70%)🚨",
+      "variant": []
+    }
+  ]  
+}  

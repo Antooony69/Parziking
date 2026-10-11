@@ -1,0 +1,12 @@
+{
+  "id": "torterra",
+  "name": "Torterra",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambiar a Slowbro, Bostezo →",
+  "tricks": [
+    {
+      "detail": "Sale Blastoise → Politoed (sacrificar), Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

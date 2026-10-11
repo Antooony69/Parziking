@@ -1,0 +1,34 @@
+{
+  "id": "salamence",
+  "name": "Salamence",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "OBSERVA LA HABILIDAD",
+  "tricks": [
+    {
+      "detail": "Con Intimidación → Trampa Rocas",
+      "variant": [
+        {
+          "detail": "Hitmonchan → Cambia a Poliwrath, recibe el A Bocajarro → Gengar, +4. (No es necesario Otra Vez)",
+          "variant": []
+        },
+        {
+          "detail": "Metagross → Slowbro, bostezo. Sale Salamence → Teletransporte a Volcarona, +1",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Sin Intimidación → Amortiguador",
+      "variant": [
+        {
+          "detail": "Infernape → Amortiguador (recibes A Bocajarro) → Gengar, Otra Vez, +4",
+          "variant": []
+        },
+        {
+          "detail": "Heracross → Amortiguador (recibes A Bocajarro) → Gengar, Otra Vez, +4 (Mantener Otra Vez, tiene Banda Focus)",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

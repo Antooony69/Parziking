@@ -1,0 +1,16 @@
+{
+  "id": "togekiss",
+  "name": "Togekiss",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡Cambiar a Slowbro ante Absol, cambiar a Volcarona si entra Nidoqueen saca a Volcarona x1 danza aleteo💡 ⬇️(Mira tu Situación)⬇️",
+  "tricks": [
+    {
+      "detail": "Si Nidoqueen se Queda ➜ Usa Psíquico para Debilitarlo ➜ frente a Blissey usar Danza Aleteo dos veces y Barrer",
+      "variant": []
+    },
+    {
+      "detail": "Blissey ➜ Usar Danza Aleteo dos veces y Barrer ",
+      "variant": []
+    }
+  ]
+}

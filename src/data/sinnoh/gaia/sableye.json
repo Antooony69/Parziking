@@ -1,0 +1,33 @@
+{
+  "id": "sableye",
+  "name": "Sableye",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🔔Cambiar a Slowbro🔔",
+  "tricks": [
+    {
+      "detail": "Si se queda ➜ Usar Bostezo",
+      "variant": [
+        {
+          "detail": "◉ Rhyperior / Camerupt ➜ Usa Teletransporte entra con Volcarona , usa Especial X y ataca",
+          "variant": []
+        },
+        {
+          "detail": "◉ Tangrowth ➜ Entra con Volcarona x2 danza aleteo🦋🔥",
+          "variant": []
+        },
+        {
+          "detail": "◉ Durant ➜ usa Protección y Bostezo, sacrifica a Politoed, Poliwrath a +6🐸🥊",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Durant ➜ usar Bostezo, Protección y Bostezo; sacrifica a Politoed, Poliwrath a +6🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "◉ Rhyperior ➜ usa Bostezo, luego Teletransporte; Volcarona Especial X y ataca",
+      "variant": []
+    }
+  ]
+}  

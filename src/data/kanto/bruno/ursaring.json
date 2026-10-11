@@ -1,0 +1,12 @@
+{
+  "id": "ursaring",
+  "name": "Ursaring",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Trampa Rocas",
+  "tricks": [
+    {
+      "detail": "Gengar, Otra Vez, +4 +2 + precisión X (Mantener Otra Vez)",
+      "variant": []
+    }
+  ]
+}

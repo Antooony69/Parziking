@@ -1,0 +1,16 @@
+{
+  "id": "hydreigon",
+  "name": "Hydreigon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚 Amortiguador 🥚 y observa qué objeto tienen",
+  "tricks": [
+    {
+      "detail": "Vidasfera --> Cambiar a Slowbro ante Gallade o Roserade; usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Sin Vidasfera --> Usar Trampa Rocas al enfrentar a Gallade o Roserade; entrar con Gengar +4 +2 + Precisión",
+      "variant": []
+    }
+  ]
+}

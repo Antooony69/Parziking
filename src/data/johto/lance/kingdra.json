@@ -1,0 +1,17 @@
+{
+  "id": "kingdra",
+  "name": "Kingdra",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Scizor --> Teletransporte; Volcarona +1 + Especial X; 🔔mantener PS por encima del 51%🔔",
+      "variant": [
+        {
+          "detail": "Si Volcarona cae por Crítico --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

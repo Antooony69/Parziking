@@ -1,0 +1,25 @@
+{
+  "id": "magnezone",
+  "name": "Magnezone",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRAMPA ROCAS y mantener Amortiguador hasta el cambio",
+  "tricks": [
+    {
+      "detail": "Golduck → cambiar a Gengar",
+      "variant": [
+        {
+          "detail": "Se queda → Cambiar a Slowbro, sale Mantine → Usa Bostezo, sale Magnezone, sacrificar a POLIWRATH → Volcarona +1 + X SpAtk. (Psychic a Mantine).",
+          "variant": []
+        },
+        {
+          "detail": "Lapras → Slowbro, bostezo → Sale a Magnezone → sacrificar a POLIWRATH → Volcarona +2 + X SpAtk. (Psychic Mantine).",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Lapras → Slowbro, bostezo → Sale a Magnezone → sacrificar a POLIWRATH → Volcarona +2 + X SpAtk. (Psychic Mantine).",
+      "variant": []
+    }
+  ]
+}

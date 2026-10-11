@@ -1,0 +1,18 @@
+{
+  "id": "staraptor",
+  "name": "Staraptor",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡Ver habilidad💡",
+  "tricks": [
+    {
+      "detail": "Intimidación --> Volcarona +3 🔔(Gigadrenado a Staraptor)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Sin Intimidación --> Gengar usa Otra Vez, cambiar a Slowbro y usar Bostezo al enfrentar a Jolteon; sacrificar a Politoed y entrar con Poliwrath +6 🔔(Cascada a Reuniclus)🔔",
+      "variant": []
+    }
+  ]
+}
+  
+

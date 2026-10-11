@@ -1,0 +1,25 @@
+{
+  "id": "krookodile",
+  "name": "Krookodile",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "OBSERVA SI TIENE INTIMIDACIÓN",
+  "tricks": [
+    {
+      "detail": "Si tiene, trampa rocas y sale Toxicroak → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6 (Tiene piel seca)",
+      "variant": []
+    },
+    {
+      "detail": "No tiene, trampa rocas → mira el ataque",
+      "variant": [
+        {
+          "detail": "Terremoto → Cambia a Slowbro, bostezo. Sale Gengar → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Triturar → Poliwrath +6 + Max Poción + 2 Vel",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

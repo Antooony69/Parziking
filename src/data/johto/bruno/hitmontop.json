@@ -1,0 +1,12 @@
+{
+  "id": "hitmontop",
+  "name": "Hitmontop",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚Amortiguador🥚",
+  "tricks": [
+    {
+      "detail": "Machamp → Gengar, Otra Vez, +4",
+      "variant": []
+    }
+  ]
+}

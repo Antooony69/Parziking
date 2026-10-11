@@ -1,0 +1,25 @@
+{
+  "id": "politoed",
+  "name": "Politoed",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Si se Queda → Teletransporte y saca a Slowbro luego usa Bostezo😴",
+      "variant": [
+        {
+          "detail": "Jolteon → Sacrifica a Politoed, entra Poliwrath +6 🔔(Puño drenaje contra Skarmory, Si la lluvia termina no importa)🔔",
+          "variant": []
+        },
+        {    
+          "detail": "🌿Poder oculto Planta🌿 → Usa Bostezo frente a Jolteon, Proteccion y luego Bostezo frente a Nidoqueen/Blastoide, Teletransporte, entra Volcarona +2",
+          "variant": []
+        } 
+      ]  
+    },
+    {
+      "detail": "Heracross → Cambia a Volcarona para recibir 2 A Bocajarros (Heracross debe quedar a -2), entra Gengar 6+2 🔔(No usar Otra Vez)🔔 🚨(Barre con Bola sombra y Gengar tiene que estar Full vida)🚨",
+      "variant": []
+    }
+  ]
+}

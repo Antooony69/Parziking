@@ -1,0 +1,38 @@
+{
+  "id": "cloyster",
+  "name": "Cloyster",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Si se queda --> Slowbro usa Bostezo",
+      "variant": [
+        {
+          "detail": "Durant --> Usar Teletransporte ; entrar con Volcarona +1 y usar Especial X 🔔Si el HP de Druddigon baja del 35% dos veces, darle medicina primero🔔",
+          "variant": []
+        },
+        {
+          "detail": "Gengar --> Entrar con Volcarona +1",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Durant --> Slowbro usa Bostezo",
+      "variant": [
+        {
+          "detail": "Si se queda --> Usar Teletransporte ; entrar con Volcarona +1 y usar Especial X 🔔Si el HP de Druddigon baja del 36% dos veces, darle medicina primero🔔",
+          "variant": []
+        },
+        {
+          "detail": "Gengar --> Entrar con Volcarona +1 💡Usar Psíquico al enfrentar a Gengar 💡",
+          "variant": []
+        },
+        {
+          "detail": "Emboar --> Slowbro usa Bostezo al enfrentar a Durant; usar Teletransporte ; entrar con Volcarona +1 y usar Especial X 🔔Si el HP de Druddigon baja del 36% dos veces, darle medicina primero🔔",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

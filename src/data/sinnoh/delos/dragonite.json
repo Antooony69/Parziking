@@ -1,0 +1,34 @@
+{
+  "id": "dragonite",
+  "name": "Dragonite",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚 Amortiguador 🥚",
+  "tricks": [
+    {
+      "detail": "Fuerza Bruta --> Entrar con Slowbro y usar Bostezo ",
+      "variant": [
+        {
+          "detail": "Ninetales --> Usar Protección  y Bostezo ; sacrificar a Politoed ; entrar con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Absol --> Sacrificar a Politoed  entrar con Poliwrath  +6; abrir y observar la situación",
+          "variant": [
+            {
+              "detail": "Situación ① Girafarig  vs Ninetales (primer enfrentamiento) --> Usar Velocidad X y presionar de nuevo",
+              "variant": []
+            },
+            {
+              "detail": "Situación ② Ninetales vs Girafarig  (primer enfrentamiento) --> Presionar directamente; si no hay golpe crítico no debilita; si hay golpe crítico y cae, entrar con Gengar  +2 para completar",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Gallade--> Entrar con Slowbro y usar Bostezo al enfrentar a Raichu; sacrificar a Politoed  entrar con Poliwrath  +6",
+      "variant": []
+    }
+  ]
+}

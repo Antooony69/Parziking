@@ -1,0 +1,34 @@
+{
+  "id": "metagross",
+  "name": "Metagross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Puño Meteoro ➜ Revisar si sube el Ataque",
+      "variant": [
+        {
+          "detail": "No sube +1 ➜ Slowbro usa Bostezo ➜ Frente a Emolga ➜ sacrifica a Politoed y entra con Poliwrath +6🐸🥊",
+          "variant": []
+        },
+        {
+          "detail": "Si sube +1 ➜ Cambiar a Volcarona ➜ Frente usar Salamence ➜ Slowbro y Bostezo ante Emolga ➜ sacrifica a Politoed ➜ entra con Poliwrath +6🐸🥊",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Conkeldurr ➜ Cambiar a Gengar 🔔revisar objeto🔔",
+      "variant": [
+        {
+          "detail": "Llamasfera ➜ Gengar Otra Vez +4 +2 🔔Bola Sombra a todo 🔔 Si cambia a gyarados cuando estas bosteandote cambia a chansey para atraer al tipo lucha (gengar +4 +2)",
+          "variant": []
+        },
+        {
+          "detail": "Sin Llamasfera ➜ Gengar Otra Vez +4 🔔Bola Sombra a todo🔔",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

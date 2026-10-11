@@ -1,0 +1,29 @@
+{
+  "id": "chansey",
+  "name": "Chansey",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨 frente a Bronzong luego usa Encanto❤️",
+  "tricks": [
+    {
+      "detail": "Cabezazo Zen / Terremoto --> Cambiar a Slowbro y usar Bostezo frente a Nidoking; sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Autodestrucción y sale su Chansey --> Sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Autodestrucción y sale Nidoking --> Amortiguador para curar al máximo",
+      "variant": [
+        {
+          "detail": "Si se queda --> Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Cambia a Chansey --> Sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

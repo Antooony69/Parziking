@@ -1,0 +1,24 @@
+{
+  "id": "empoleon",
+  "name": "Empoleon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Si se Queda --> Teletransporte, sacar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Leafeon --> Usar Encanto y Amortiguador para forzar el cambio del rival ⬇️(Ver Solucion Abajo)⬇️",
+      "variant": []
+    },
+    {
+      "detail": "Entei --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Alakazam --> Teletransporte, sacar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

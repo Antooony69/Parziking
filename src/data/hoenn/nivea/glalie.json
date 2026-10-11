@@ -1,0 +1,12 @@
+{
+  "id": "glalie",
+  "name": "Glalie",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Mienshao ➜ Entra Gengar +2 🔔(Barrer con Bola Sombra)🔔",
+      "variant": []
+    }
+  ]
+}

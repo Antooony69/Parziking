@@ -1,0 +1,42 @@
+{
+  "id": "electivire",
+  "name": "Electivire",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Metagross ➜ Cambiar a Slowbro y usar Bostezo (repetidamente) hasta que salga Golem → sacrifica a Politoed → entra con Poliwrath +6🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "Golem ➜ Encanto, amortiguador → sale Metagross ➜ cambiar a Slowbro bostezo → Sacrifica Politoed ➜ Poliwrath +6🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "Machamp → Gengar, Otra Vez, +2",
+      "variant": [
+        {
+          "detail": "Se queda → Gengar +4 🔔(Barre con Bola Sombra)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Sale Salamence → Barrre hasta que salga Aggron",
+          "variant": [
+            {
+              "detail": "Gengar derrota con critico a Aggron → Termina de Barrer",
+              "variant": []
+            },
+            {
+              "detail": "Aggron derrota a Gengar (no activa cuerpo maldito) → Saca a Volcarona elimina a Aggdron, entra Slowbro enemigo usa danza aleteo y ataca",
+              "variant": []
+            },
+            {
+              "detail": "Aggron derrota a Gengar (Activa cuerpo maldito) → Volcarona +1",
+              "variant": []
+            } 
+          ]  
+        }
+      ]
+    }
+  ]
+}

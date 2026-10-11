@@ -1,0 +1,111 @@
+{ 
+  "id": "magmortar",
+  "name": "Magmortar",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "◉ Si Magmortar no cambia ➜ Observar Que Movimiento usa",
+      "variant": [
+        {
+          "detail": "◉ Tajo Cruzado ➜ Gengar Otra vez +2 y atacar ➜ Frente a Steelix ➜ cambia a Slowbro y usa Bostezo frente a Maractus ➜ Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
+          "variant": []
+        },
+        {
+          "detail": "◉ Llamarada ➜ Usar Amortiguador Hasta que se retire ⬇️(Mira el Pokemon y Solucion)⬇️",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Conkeldurr ➜ Entrar con Gengar otra vez +2",
+      "variant": [
+        {
+          "detail": "◉ Conkeldur no cambia ➜ Gengar +4 + Precisión X",
+          "variant": []
+        },
+        {
+          "detail": "◉ Salamence ➜ Bola sombra a Salamence ➜ Frente a Steelix ➜ sacrifica a Politoed ➜ Poliwrath usar Ataque X y Barrer 🔔(Cascada contra Steelix/Conkeldurr y Puño Drenaje contra los Demas)🔔",
+          "variant": []
+        },
+        {
+          "detail": "◉ Ludicolo ➜ Slowbro, Bostezo ➜ sacrifica Politoed ➜ Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Medicham ➜⭐ Chansey Teletransporte o Cambia a Slowbro y si Medicham falla el ataque mira la Solucion Abajo)⭐",
+      "variant": [
+        {
+          "detail": "◉ Vidasfera ➜ Slowbro usa Bostezo frente a Maractus ➜ Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
+          "variant": []
+        },
+        {
+          "detail": "◉ Sin Vidasfera ➜ Gengar +4 (No usar Otra Vez)",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si Medicham falla la patada ➜ Usar Bostezo",
+          "variant": [
+            {
+              "detail": "◉ Maractus ➜ Volcarona +3 ⭐(Puedes usar Especial X ⭐",
+              "variant": []
+            },
+            {
+              "detail": "◉ Magmortar ➜ Chansey, Amortiguador frente a Medicham ➜ Gengar +2 no usar otra vez ➜ frente a Bronzong entra Volcarona +1 ➜ si Bronzong no cambia o entra Houndoom usar Especial X y ataca",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Blaziken / Arcanine ➜ Cambiar a Slowbro y usar Bostezo frente a Maractus ➜ sacrifica a Politoed  ➜ Poliwrath +6 🔔(Puño Drenaje a Magmortar)🔔",
+      "variant": []
+    },
+    {
+      "detail": "◉ Infernape ➜ Usar Amortiguador o Teletransporte ➜ Gengar Otra Vez 4+2 🔔(Barrer con Bola Sombra)🔔",
+      "variant": []
+    },
+    {
+      "detail": "◉ Haxorus ➜ Usar Amortiguador o Teletransporte ➜ Gengar O|tra Vez +6 🔔(Barrer con Bola Sombra)🔔",
+      "variant": []
+    },
+    {
+      "detail": "◉ Bouffalant ➜ Gengar usa Maquinación ➜ Frente a Dragonite atacar con bola sombra",
+      "variant": [
+        {
+          "detail": "◉ Magmortar ➜ Sacrifica a Politoed ➜ Poliwrath +6 🔔(Puño Drenaje a Magmortar)🔔",
+          "variant": []
+        },
+        {
+          "detail": "◉ Steelix ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6 🔔(Puño Drenaje a Magmortar)🔔",
+          "variant": [
+            {
+              "detail": "◉ 🚨Arriesgado🚨 ➜ Sacrifica directamente a Politoed ➜ Poliwrath +6",
+              "variant": []
+            }
+          ]
+        }
+      ]      
+    },
+    {
+      "detail": "◉ Maractus ➜ Usar Trampa Rocas para recibir Esfuerzo y usar Amortiguador",
+      "variant": [
+        {
+          "detail": "◉ Lopunny / Medicham ➜ Slowbro, Bostezo ➜ Frente a Maractus entrar con Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
+          "variant": []
+        },
+        {
+          "detail": "◉ Magmortar ➜ Gengar Otra Vez +2 y ataca frente a Steelix ➜ Slowbro, Bostezo ➜ Frente a Maractus ➜ Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Camerupt ➜ Usar Amortiguador y esperar a Bouffalant  ⬆️(Mira la Solucion de Bouffalant)⬆️",
+      "variant": []
+    }
+  ]
+}

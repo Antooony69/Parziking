@@ -1,0 +1,16 @@
+{
+  "id": "blastoise",
+  "name": "Blastoise",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Machamp --> Cambia a Gengar luego a Slowbro, Bostezo frente a Jolteon, sacrifica a Politoed, saca a Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Electric / Arcanine --> Cambia a Slowbro y usa Bostezo, sacrifica a Politoed, saca a Poliwrath +6 🔔(Puño drenaje contra Leafeon)🔔",
+      "variant": []      
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bronzong",
+  "name": "Bronzong",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Infernape ➜ Usar Amortiguador o Teletransporte ➜ entrar con Gengar Otra Vez 4+2 🔔(Barre con Bola Sombra)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Medicham ➜ Entrar con Gengar +4 (No usar Otra Vez) 🔔(Barre con Bola Sombra)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Blaziken / Arcanine ➜ Cambiar a Slowbro y usar Bostezo al enfrentar a Maractus",
+      "variant": [
+        {
+          "detail": "Rápido ➜ Sacrifica a Politoed ➜ entra con Poliwrath +6 🔔(Puño Drenaje a Magmortar)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Ahorrar dinero ➜ Entrar con Volcarona +3 🦋🔥",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Haxorus ➜ Usar Amortiguador o Teletransporte ➜ entrar con Gengar Otra Vez +6 🔔(Barre con Bola Sombra)🔔",
+      "variant": []
+    }
+  ]
+}

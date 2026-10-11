@@ -1,0 +1,129 @@
+{
+  "id": "gengar",
+  "name": "Gengar",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Trampa Rocas",
+  "tricks": [
+    {
+      "detail": "Onda Certera → Mira el Objeto",
+      "variant": [
+        {
+          "detail": "Tiene Vidaesfera → Gengar, Otra Vez → Slowbro, Bostezo",
+          "variant": [
+            {
+              "detail": "Rotom → Protección, luego Bostezo → Politoed (sacrificar), Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Otro Pokemon → Politoed (sacrificar), Poliwrath +6",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "No tiene Vidaesfera → Mira el daño ↓",
+          "variant": [
+            {
+              "detail": "24 - 28 % (Critico 35 - 42 %) → Toma un X SpDef, Amortiguador y forza al cambio (si te reduce la defsp, toma otro X SpDef)",
+              "variant": [
+                {
+                  "detail": "Si se queda luego de 3 Amortiguador → Gengar, Otra Vez → Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6",
+                  "variant": []
+                },
+                {
+                  "detail": "Alakazam → Teletransporte a Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
+                  "variant": []
+                },
+                {
+                  "detail": "Krookodile → Teletransporte (mira el ataque)",
+                  "variant": [
+                    {
+                      "detail": "Terremoto → Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6",
+                      "variant": []
+                    },
+                    {
+                      "detail": "Triturar → Poliwrath +6 + Max Poción + Vel X",
+                      "variant": []
+                    }
+                  ]
+                },
+                {
+                  "detail": "Crobat → Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6",
+                  "variant": []
+                },
+                {
+                  "detail": "Arbok → Slowbro, Bostezo",
+                  "variant": [
+                    {
+                      "detail": "Rotom → Protección, luego bostezo → Politoed (sacrificar), Poliwrath +6",
+                      "variant": []
+                    },
+                    {
+                      "detail": "Otro Pokemon → Politoed (sacrificar), Poliwrath +6",
+                      "variant": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "detail": "34 - 40 % (Critico 50 - 60 %) (Zoroark) → Saca a Slowbro",
+              "variant": [
+                {
+                  "detail": "No huye → Bostezo → Volcarona +1",
+                  "variant": []
+                },
+                {
+                  "detail": "Marowak → Bostezo, Teletransporte a Volcarona, +1",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Muk → Teletransporte a Slowbro, Bostezo",
+      "variant": [
+        {
+          "detail": "Se queda → Protección, luego Bostezo → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Rotom → Protección, luego Bostezo → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Gengar/Seismitoad → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Marowak → Encanto, Teletransporte → Slowbro, Bostezo",
+      "variant": [
+        {
+          "detail": "Puño Trueno / Arbok → Protección, luego Bostezo → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Gengar/Mismagius → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Toxicroak → Cambia a Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Lucario → Cambia a Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Alakazam → Teletransporte a Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

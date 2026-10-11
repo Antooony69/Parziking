@@ -1,0 +1,21 @@
+{
+  "id": "blastoise",
+  "name": "Blastoise",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": " 🥚 Amortiguador 🥚",
+  "tricks": [
+    {
+      "detail": "Blaziken ➜ cambiar a Gengar +4 +2 (Blaziken Pañuelo elegido)",
+      "variant": []
+    },
+    {
+      "detail": "Hitmonchan ➜ cambiar a Slowbro ➜ Bostezo a Metagros ➜ sacrifica  Politoed ➜ Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Machamp ➜ cambiar a Gengar, Otra Vez, +4 +2",
+      "variant": []
+  
+    }
+  ]
+}

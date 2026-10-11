@@ -1,0 +1,38 @@
+{
+  "id": "luxray",
+  "name": "Luxray",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🔔 Ver habilidad 🔔",
+  "tricks": [
+    {
+      "detail": "Intimidación ➜ Amortiguador",
+      "variant": [
+        {
+          "detail": "Fuerza Bruta ➜ Trampa Rocas y frente a Absol cambia Gengar otra vez +2 + Precisión X ",
+          "variant": []
+        },
+        {
+          "detail": "Scizor ➜ Volcarona x2 Danza aleteo + Especial X 🔔gigadrenado a Luxray🔔",
+          "variant": []
+        },
+        {
+          "detail": "Absol ➜ Gengar +4 + Precisión X (No usar Otra Vez)",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Sin Intimidación ➜ Opciones para resolver",
+      "variant": [
+        {
+          "detail": "Ruta Segura ➜ Trampa Rocas entra Gengar otra vez  +2 y mata a luxray y frente a Absol cambia a Chansey y luego mete a Gengar otra vez  +2",
+          "variant": []
+        },
+        {
+          "detail": "Prueba ➜ Cambiar a Slowbro y usar Bostezo frente a Gyarados; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

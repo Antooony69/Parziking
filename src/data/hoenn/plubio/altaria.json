@@ -1,0 +1,12 @@
+{
+  "id": "altaria",
+  "name": "Altaria",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚 Amortiguador🥚",
+  "tricks": [
+    {
+      "detail": "Frente a Eelektross ➜ Gengar usa Otra Vez y cambia a slowbro para usar bostezo y frente a Altaria Entra Con chansey y espera que entre Eelektross para usar teletransporte ➜ Slowbro Bostezo y sacrifica a politoed ➜ Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

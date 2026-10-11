@@ -1,0 +1,52 @@
+{
+  "id": "salamence",
+  "name": "Salamence",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡Revisa la Habilidad💡",
+  "tricks": [
+    {
+      "detail": "Intimidación → Amortiguador",
+      "variant": [
+        {
+          "detail": "Machamp → Gengar, Otra Vez, +4 +2. Utiliza Otra Vez cada que puedas.",
+          "variant": [
+            {
+              "detail": "Sale Metagross → Chansey, amortiguador. sale Blaziken → Gengar +4 +2. (Otra Vez no es necesario).",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Blaziken → Gengar +4 +2 (Otra Vez no es necesario).",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Sin Intimidación → Trampa Rocas.",
+      "variant": [
+        {
+          "detail": "Metagross → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6.",
+          "variant": []
+        },
+        {
+          "detail": "Hitmonlee → Gengar, Bola Sombra.",
+          "variant": [
+            {
+              "detail": "Lo derrotas, sale Machamp → Continua bola sombra → Slowbro, Bostezo. sale Salamence → Teletransporte → Volcarona +1.",
+              "variant": []
+            },
+            {
+              "detail": "Cambia a Machamp → Slowbro, Bostezo. sale Salamence → Teletransporte → Volcarona +1.",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Golem → Encanto, Amortiguador hasta que salga Metagross → Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6.",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

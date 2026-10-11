@@ -1,0 +1,25 @@
+{
+  "id": "rotom_fuego",
+  "name": "Rotom Fuego",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Mantener Encanto hasta Muk (Amortiguador si tienes mitad de vida), Teletransporte →",
+  "tricks": [
+    {
+      "detail": "A Slowbro, Bostezo",
+      "variant": [
+        {
+          "detail": "Rotom → Protección, luego usa Bostezo → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Otro Pokemon → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Sale Gyarados → Volcarona → Slowbro, bostezo → Conitnúa arriba ↑↑",
+      "variant": []
+    }
+  ]
+}

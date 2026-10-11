@@ -1,0 +1,12 @@
+{
+  "id": "golurk",
+  "name": "Golurk",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Gengar usa Bola Sombra en Golurk Frente a Milotic; cambia Chansey Trampa rocas, Frente a Hydreigon, Gengar Otra vez 6+2",
+  "tricks": [
+    {
+      "detail": "🔔(Onda Certera contra purugly)🔔 // 🔔(Ida y Vuelta activa Cuerpo Maldito --> Gengar usa Otra Vez, cambiar a Poliwrath para eliminarlo)🔔",
+      "variant": []
+    }
+  ]
+}

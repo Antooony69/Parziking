@@ -1,0 +1,21 @@
+{
+  "id": "gengar",
+  "name": "Gengar",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Eelektross ➜ Gengar usa Otra Vez, cambiar a Slowbro y usar Bostezo",
+      "variant": [
+        {
+          "detail": "Gengar ➜ Usar Protección, cambiar a Poliwrath frente a Chandelure, Volcarona +2 🔔(Psiquico a Gengar)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Chandelure ➜ Usar Protección y Bostezo frente a Gengar, Teletransporte, Volcarona +2 🔔(Psiquico a Gengar y puedes usar Lanzallamas contra Chandelure)🔔",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

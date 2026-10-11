@@ -1,0 +1,12 @@
+{
+  "id": "mantine",
+  "name": "Mantine",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨; si se queda, usar Amortiguador🥚",
+  "tricks": [
+    {
+      "detail": "Girafarig --> Gengar usa Otra Vez; cambiar a Slowbro frente a Mantine; usar Bostezo frente a Magnezone; sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

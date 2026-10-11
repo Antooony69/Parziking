@@ -1,0 +1,21 @@
+{
+  "id": "lucario",
+  "name": "Lucario",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Trampa Rocas",
+  "tricks": [
+    {
+      "detail": "A Bocajarro → Cambia a Slowbro y usa Bostezo frente Electivire, sacrifica a Politoed, entra Poliwrath +6 🚨(Si no Pusiste Trampa Rocas mira la solucion⬇️)🚨",
+      "variant": [
+        {
+          "detail": "☠️Mueres por Critico y no hay Trampa Rocas☠️ → Gengar usa Bola sombra, luego cambia a Slowbro y usa Bostezo para recuper el control de la partida",
+          "variant": []
+        }   
+      ]    
+    },
+    {
+      "detail": "Arcanine → Cambia a Slowbro y usa Bostezo frente a Ampharos/Hydreigon, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño drenaje contra Steelix/Ampharos)🔔",
+      "variant": []
+    }
+  ]
+}

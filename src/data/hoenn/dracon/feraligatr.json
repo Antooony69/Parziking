@@ -1,0 +1,25 @@
+{
+  "id": "feraligatr",
+  "name": "Feraligatr",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Cascada ➜ Teletransporte para sacar a Slowbro y usar Bostezo",
+      "variant": [
+        {
+          "detail": "Triturar ➜ Sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Sceptile ➜ Volcarona +3 🔔(Mantener PS por encima del 75%)🔔",
+          "variant": []
+        }  
+      ]  
+    },
+    {
+      "detail": "Gallade/Roserade ➜ Sacrificar a Politoed; Slowbro mantiene Bostezo frente a Salamence ➜ Teletransporte para sacar a Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

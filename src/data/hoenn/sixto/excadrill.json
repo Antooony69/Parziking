@@ -1,0 +1,20 @@
+{
+  "id": "excadrill",
+  "name": "Excadrill",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa rocas 🪨.",
+  "tricks": [
+    {
+      "detail": "Mienshao ➜ entra con Gengar bola sombra a mienshao y frente a Mandibuzz / Spiritomb ➜ Volcarona x2 Danza aleteo 🔔gigadrenado para  Absol🔔",
+      "variant": []
+    },
+    {
+      "detail": "Absol ➜ Gengar, otra vez +2 + Precisión X 🔔No tiene banda focus🔔",
+      "variant": []
+    },
+    {
+      "detail": "Luxray ➜ Amortiguador y espera tener en frente a Absol o Crawdaunt y entra con Gengar Otra Vez +2 + Precisión X",
+      "variant": []
+    }
+  ]
+}

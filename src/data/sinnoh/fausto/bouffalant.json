@@ -1,0 +1,16 @@
+{
+  "id": "bouffalant",
+  "name": "Bouffalant",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Cambiar a Gengar y usar Onda Certera luego entra con Chansey y usa Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Camerupt ➜ Slowbro usa Bostezo y sacrifica a Politoed, Poliwrath +6🐸🥊 🔔(Puño Drenaje a Steelix / Magmortar)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Maractus ➜ Teletransporte, Slowbro usa Bostezo y sacrifica a Politoed , Poliwrath a +6🐸🥊 🔔(Puño Drenaje a Steelix / Magmortar)🔔",
+      "variant": []
+    }
+  ]
+}

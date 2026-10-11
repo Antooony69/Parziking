@@ -1,0 +1,104 @@
+{
+  "id": "lapras",
+  "name": "Lapras",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Si se queda --> Ver movimiento",
+      "variant": [
+        {
+          "detail": "Rayo Hielo --> Sacrificar a Politoed; Poliwrath +6 Cascada a Banette 【 Si Rayo Hielo crítico mata a Poliwrath, se sugiere cambiar de estrategia 】",
+          "variant": []
+        },
+        {
+          "detail": "Acua Cola --> Cambiar a Politoed; cambiar a Slowbro y luego a Mantine; usar Bostezo frente a Magnezone; sacrificar a Poliwrath; Volcarona +1 + Especial X 🔔Psíquico contra Mantine🔔",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Golduck --> Cambiar a Gengar",
+      "variant": [
+        {
+          "detail": "Si se queda --> Cambiar a Slowbro y luego a Mantine; usar Bostezo frente a Magnezone; sacrificar a Poliwrath; Volcarona +1 + Especial X 🔔Psíquico contra Mantine; dar Revivir Hierba a Poliwrath + Medicina pequeña; continuar🔔",
+          "variant": []
+        },
+        {
+          "detail": "Lapras --> Cambiar a Slowbro y usar Bostezo frente a Magnezone; sacrificar a Poliwrath; Volcarona +2 + Especial X 🔔Psíquico contra Mantine; dar Revivir Hierba a Poliwrath + Medicina pequeña; continuar🔔",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Hariyama --> Cambiar a Slowbro y usar Bostezo",
+      "variant": [
+        {
+          "detail": "Nidoking --> Sacrificar a Politoed; Poliwrath +6 🔔Puño drenaje a Jynx🔔",
+          "variant": []
+        },
+        {
+          "detail": "Jynx --> Volcarona +2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Lucario --> Opción para resolver",
+      "variant": [
+        {
+          "detail": "Rápido --> Teletransporte para ver objeto",
+          "variant": [
+            {
+              "detail": "Vidasfera --> Gengar, otra vez, +4 +2",
+              "variant": []
+            },
+            {
+              "detail": "Sin Vidasfera --> Enviar a Slowbro y usar Bostezo frente a Lapras; sacrificar a Politoed; Poliwrath +6",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "¿Ahorrar dinero? --> Gengar, otra vez, +2",
+          "variant": [
+            {
+              "detail": "Si se queda --> Gengar, otra vez, +4 +2; barrer con Bola Sombra",
+              "variant": []
+            },
+            {
+              "detail": "Mantine --> Cambiar a Chansey y usar Amortiguador frente a Lucario; Gengar +4 +2; 🔔barrer con Bola Sombra🔔",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Bronzong --> Chansey usa Encanto",
+      "variant": [
+        {
+          "detail": "Psíquico / Tierra --> Cambiar a Slowbro y usar Bostezo frente a Nidoking; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Autodestrucción frente a Chansey --> Sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Autodestrucción frente a Nidoking --> Chansey usa Amortiguador para curar al máximo",
+          "variant": [
+            {
+              "detail": "Si se queda --> Teletransporte; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Chansey --> Sacrificar a Politoed; Poliwrath +6",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

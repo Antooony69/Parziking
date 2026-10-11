@@ -1,0 +1,12 @@
+{
+  "id": "hypno",
+  "name": "Hypno",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Politoed (sacrificar)",
+  "tricks": [
+    {
+      "detail": "Poliwrath +6. (Cascada a Hypno)",
+      "variant": []
+    }
+  ]
+}

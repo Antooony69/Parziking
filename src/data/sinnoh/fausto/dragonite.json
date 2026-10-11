@@ -1,0 +1,43 @@
+{
+  "id": "dragonite",
+  "name": "Dragonite",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Blaziken ➜ Slowbro usa Bostezo Frente a Maractus ⬇️(Mira Las Soluciones)⬇️",
+      "variant": [
+        {
+          "detail": "Rápido ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño Drenaje a Magmortar)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Ahorrar dinero ➜ Entrar con Volcarona +3 🦋🔥",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Bouffalant ➜ Gengar usa Maquinación ➜ Si entra Dragonite eliminalo con bola sombra",
+      "variant": [
+        {
+          "detail": "Magmortar ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño drenaje a Magmortar)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Steelix ➜  Slowbro Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño drenaje a Magmortar)🔔",
+          "variant": [
+            {
+              "detail": "🚨Arriesgado🚨 ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+              "variant": []
+            }
+          ]
+        }
+      ]   
+    },
+    {
+      "detail": "Maractus ➜ Gengar Otra Vez +2 ➜ frente a Dragonite usa Bola Sombra ⬆️(Ver la Solucion de Bouffalant)⬆️",
+      "variant": []
+    } 
+  ]   
+}  

@@ -1,0 +1,16 @@
+{
+  "id": "hariyama",
+  "name": "Hariyama",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🐸Opciones para Resolver🐸",
+  "tricks": [
+    {
+      "detail": "Rápido --> Trampa Rocas; Gengar 4+2 + Precisión X; 🔔(Barrer con Bola Sombra; si se bloquea, usar Onda Certera)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Ahorrar Dinero --> Cambiar a Slowbro, luego a Chansey y usar Trampa Rocas; Slowbro y usar Bostezo; sacrificar a Politoed; Poliwrath +6 🔔(Cascada a Froslass)🔔",
+      "variant": []
+    }
+  ]
+}

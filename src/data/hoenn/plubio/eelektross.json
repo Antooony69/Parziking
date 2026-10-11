@@ -1,0 +1,71 @@
+{
+  "id": "eelektross",
+  "name": "Eelektross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 TRAMPA ROCAS 🪨",
+  "tricks": [
+    {
+      "detail": " Fuerza Bruta ➜ Gengar Otra Vez luego cambia a Slowbro",
+      "variant": [
+         {
+           "detail": "🍎 Milotic con Restos 🍎 ➜ Bostezo",
+           "variant": [
+              {
+                "detail": "Serperior ➜ Usa Proteccion, y vuelve a usar Bostezo → sacrifica al sapito y entra Poliwrath +6 🥊",
+                "variant": []
+              },
+              {
+                "detail": "Otro➜ Sacrifica al sapito despues entra Poliwrath +6 🥊",
+                "variant": []
+              }
+           ] 
+         },
+         {
+           "detail": " Milotic sin Restos ➜ Usa Bostezo 🔔(Si usa Escaldar sigue usando Bostezo)🔔",
+           "variant": [
+              {
+                "detail": "Poder Oculto Electrico ➜ Sacrifica al sapito y entra Poliwrath +6 🥊",
+                "variant": []
+              },
+              {
+                "detail": "Serperior➜ Usa Proteccion luego Bostezo frente a Eelektross despues sacrifica al sapito y entra Poliwrath +6 🥊",
+                "variant": []
+              },
+              {
+                "detail": "Eelektros ➜ Sacrifica al sapito despues entra Poliwrath +6 🥊",
+                "variant": []
+              },
+              {
+                "detail": " Altaria ➜ Chansey para atraer a Eelektross, Teletransporte → Slowbro, bostezo → Politoed (Sacrificar), Politwrath +6",
+                "variant": []
+              }
+           ]
+         },
+         {
+           "detail": "Swampert ➜ Bostezo frente a Altaria, Cambia a Chansey para atraer a Eelektross luego usa Teletransporte y saca a Slowbro, usa Bostezo despues sacrifica al sapito y entra Poliwrath +6 🥊",
+           "variant": []
+         },
+         {
+           "detail": "Gardevoir ➜ Bostezo luego sacrifica al sapito y entra Poliwrath +6 🥊",
+           "variant": []
+         },
+         {
+           "detail": "Mienshao ➜ Cambia a Gengar y usa Otra Vez, frente a Milotic sacrifica al sapito y entra Poliwrath +6 🥊",
+           "variant": []
+         },
+         { 
+           "detail": "Gengar atrapa a Eelektros en un ataque electrico ➜ 💊Cambia a Chansey y tomate una pocion max💊, cambia a Slowbro y usa Bostezo frente a Altaria, cambia a Chansey para atraer a Eelektross y luego usa Teletransporte, entra Slowbro y usa Bostezo despues sacrifica al sapito y entra Poliwrath +6 🥊",
+           "variant": []
+         } 
+      ]  
+    },
+    {
+      "detail": "Mienshao ➜ Cambia a Slowbro y usa Bostezo contra Serperior despues Teletransporte y saca a Volcarona +2 🔥",
+      "variant": []
+    },
+    {
+      "detail": "Metagross ➜ Sacrifica al sapito y entra Poliwrath +6 🥊  🔔(Jugada Estable: Saca a Slowbro y usa Bostezo)🔔",
+      "variant": []
+    }
+  ]
+}

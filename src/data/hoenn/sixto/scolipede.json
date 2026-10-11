@@ -1,0 +1,16 @@
+{
+  "id": "scolipede",
+  "name": "Scolipede",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨 si no cambia usa 🥚 Amortiguador 🥚",
+  "tricks": [
+    {
+      "detail": "Absol ➜ Gengar Otra Vez +2 + Precisión X 🔔para ahorrar dinero: Gengar +6 Absol no tiene banda focus🔔",
+      "variant": []
+    },
+    {
+      "detail": "Luxray ➜ Amortiguador ➜ esperar a Absol / Crawdaunt ➜ Gengar Otra Vez  +2 + Precisión X🔔para ahorrar dinero: Gengar +6🔔",
+      "variant": []
+    }
+  ]
+}

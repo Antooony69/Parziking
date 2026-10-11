@@ -1,0 +1,38 @@
+{
+  "id": "bronzong",
+  "name": "Bronzong",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨 (Si se queda, usar Amortiguador)",
+  "tricks": [
+    {
+      "detail": "Heracross --> Usar Teletransporte y revisar objeto",
+      "variant": [
+        {
+          "detail": "Vidasfera --> Entrar con Gengar +4 + Precisión",
+          "variant": []
+        },
+        {
+          "detail": "Sin Vidasfera --> Entrar con Gengar +6 (No usar Otra Vez) y usar Onda Certera contra Clefable",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Cambio a Bronzong enemigo --> Sacrificar a Politoed; entrar con Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Garchomp --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6; usar Cascada contra Bronzong",
+      "variant": []
+    },
+    {
+      "detail": "Lucario --> Usar Teletransporte; cambiar a Slowbro y usar Bostezo; sacrificar a Politoed; entrar con Poliwrath +6",
+      "variant": [
+        {
+          "detail": "Si Slowbro retrocede, saca politoed (sacrificar), Poliwrath +2 (con Ataque X), (manten HP 70%).",
+          "variant":  []
+        }
+      ]
+    }
+  ]
+}

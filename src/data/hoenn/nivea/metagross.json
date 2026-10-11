@@ -1,0 +1,27 @@
+{
+  "id": "metagross_4",
+  "name": "Metagross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "◉ Machada ➜ Slowbro, y entra con Volcarona Frente a Serperior ➜ Volcarona x3 danza aleteo 🔔Mira que tu salud no este muy baja🔔",
+      "variant": []
+    },
+    {
+      "detail": "◉ Puño Meteoro ➜ Teletransporte, Slowbro, Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 🔔(Puño Hielo a Froslass)🔔",
+      "variant": []
+    },
+    {
+      "detail": "◉ Mamoswine ➜ Encanto cambiar a Slowbro, Bostezo frente a Mismagius 🔔(Revisar la Salud del Slowbro)🔔",
+      "variant": [
+        {
+          "detail": "◉ Slowbro tiene menos del 79% de vida ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 🔔(Cascada a Metagross)🔔"
+        },
+        {
+          "detail": "◉ Slowbro tiene mas del 79% de vida ➜ Volcarona +1 🦋🔥"
+        }
+      ]
+    }
+  ]
+}

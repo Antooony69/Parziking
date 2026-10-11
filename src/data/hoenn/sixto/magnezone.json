@@ -1,0 +1,16 @@
+{
+  "id": "magnezone",
+  "name": "Magnezone",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Darmanitan ➜ Gengar +2 + Precisión X (No usar Otra Vez) 🔔usar movimientos súper eficaces🔔",
+      "variant": []
+    },
+    {
+      "detail": "Absol ➜ Gengar, Otra Vez, +2 +2 + Precisión X 🔔 usar movimientos súper eficaces🔔",
+      "variant": []
+    }
+  ]
+}

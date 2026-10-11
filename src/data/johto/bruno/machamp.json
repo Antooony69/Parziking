@@ -1,0 +1,103 @@
+{
+  "id": "machamp",
+  "name": "Machamp",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡Gengar💡",
+  "tricks": [
+    {
+      "detail": "Puño Dinámico ➜ Cambia a Slowbro, bostezo",
+      "variant": [
+        {
+          "detail": "Vendetta → bostezo, sale metagross/eelektross → Sacrifica a Politoed , Poliwrath +6🐸🥊",
+          "variant": []
+        },
+        {
+          "detail": "Roca Afilada ➜ Bostezo",
+          "variant": [
+            {
+              "detail": "◉ Salamence (sin intimidación) ➜ Cambia a Chansey y usa Trampa Rocas frente a Hitmonlee ➜ Gengar Bola Sombra",
+              "variant": [
+                {
+                  "detail": "Si el rival saca a Machamp ➜ cambia a Chansey y luego a Gengar otra vez según la situación",
+                  "variant": []
+                },
+                {
+                  "detail": "Si se queda ➜ Gengar +6 y usa Bola Sombra a todo",
+                  "variant": []
+                },
+                {
+                  "detail": "Si huye hacia Salamence ➜ Gengar +4 y usa Bola Sombra a todo",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Gengar tiene un 20% de probabilidad de debilitar a Steelix ➜ Si Gengar muere saca a Volcarona x1 Danza Aleteo",
+                  "variant": []
+                },
+                {
+                  "detail": "Si Hitmonlee huye hacia Machamp ➜ cambia a Slowbro y luego a Chansey frente a Luxray ➜ Gengar otra vez +2 + Precisión X",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "◉ Electivire → Chansey encanto y frente a Aggron usa Amortiguador → Machamp → Gengar Otra Vez +4",
+              "variant": []
+            },
+            {
+              "detail": "◉ Metagross → Sacrifica a Politoed, Poliwrath +6🐸🥊",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Puño Hielo → Bostezo frente a Metagross → Sacrifica a Politoed , Poliwrath +6🐸🥊",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Puño Drenaje + Llamaesfera → Gengar, otra vez, +2",
+      "variant": [
+        {
+          "detail": "Se queda → Derrótalo → Steelix → Slowbro, bostezo",
+          "variant": [
+            {
+              "detail": "Se queda → Protección → Bostezo → Heracross → Chansey → Gengar +4 + precisión X",
+              "variant": []
+            },
+            {
+              "detail": "◉ Heracross → Chansey → Steelix → Trampa rocas",
+              "variant": [
+                {
+                  "detail": "◉ Machamp → Gengar → Chansey → Staraptor → Gengar +2 + precisión X",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Staraptor → Slowbro → Lucario → Volcarona +2",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "◉ Metagross → Slowbro → Lucario → Volcarona +2",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Puño Drenaje (Sin llamaesfera) → Slowbro, Bostezo",
+      "variant": [
+        {
+          "detail": "◉ Golem → Teletransporte → Chansey, trampa rocas. Sale Metagross → Gengar, Otra Vez, +2 derrota, sale Golem, otro maquinación y derrotalos.",
+          "variant": []
+        },
+        {
+          "detail": "◉ Eelektross/Torrterra → Sacrifica a Politoed, Poliwrath +6",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

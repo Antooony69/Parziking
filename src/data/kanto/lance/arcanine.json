@@ -1,0 +1,16 @@
+{
+  "id": "arcanine",
+  "name": "Arcanine",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambia a Slowbro luego a Chansey",
+  "tricks": [
+    {
+      "detail": "Ampharos → Trampa rocas, cambia a Slowbro y usa Bostezo, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño drenaje contra Ampharos)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Hydreigon → Cambia a Slowbro y usa Bostezo, sacrifica a Politoed, entra Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

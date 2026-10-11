@@ -1,0 +1,16 @@
+{
+  "id": "spiritomb",
+  "name": "Spiritomb",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Absol --> Gengar +4",
+      "variant": []
+    },
+    {
+      "detail": "Mienshao --> Gengar debilita con bola sombra y frente a Mandibuzz / Spiritomb; Volcarona +2",
+      "variant": []
+    }
+  ]
+}

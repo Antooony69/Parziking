@@ -1,0 +1,64 @@
+{
+  "id": "roserade",
+  "name": "Roserade",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚 Amortiguador 🥚",
+  "tricks": [
+    {
+      "detail": "Vidasfera + Lluevehojas / Bomba Lodo --> Teletransporte; Slowbro usa Bostezo; Teletransporte; 💊Volcarona +1 + Especial X💊",
+      "variant": []
+    },
+    {
+      "detail": "Sin Vidasfera + Lluevehojas --> Teletransporte",
+      "variant": [
+        {
+          "detail": "Si se queda --> Volcarona +4 🔔(Mantener PS por encima del 70%)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Gardevoir --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Milotic --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Sin Vidasfera + Bomba Lodo (Testeo) --> Teletransporte; Volcarona debilita 🔔(Ver quién sale)🔔",
+      "variant": [
+        {
+          "detail": "Milotic --> Cambiar a Chansey para ver movimiento",
+          "variant": [
+            {
+              "detail": "Hidrobomba / Surf --> Teletransporte; Slowbro usa Bostezo frente a Ludicolo; sacrificar a Politoed; Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Escaldar --> Cambiar a Slowbro y usar Bostezo frente a Gardevoir; sacrificar a Politoed; Poliwrath +6",
+              "variant": []
+            }  
+          ]  
+        },
+        {
+          "detail": "Togekiss --> Sacrificar a Volcarona; Slowbro aguanta + X SpDef y usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Gardevoir --> Sacrificar a Volcarona; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Metagross --> Sacrificar a Politoed; Poliwrath +6",
+      "variant": [
+        {
+          "detail": "☠️Si Poliwrath cae☠️ --> Gengar 4+2 🔔(Bola Sombra a Seaking)🔔",
+          "variant": []
+        }
+      ]  
+    }
+  ]
+}

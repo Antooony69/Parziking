@@ -1,0 +1,72 @@
+{
+  "id": "xatu",
+  "name": "Xatu",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "◉ Se queda ➜ Mira el Item",
+      "variant": [
+        {
+          "detail": "◉ Llamaesfera ➜ Amortiguador hasta que salga Golurk ➜ Gengar, Otra Vez, +4 + precisión X.",
+          "variant": []
+        },
+        {
+          "detail": "◉ Sin Llamaesfera ➜ Cambia a Slowbro, Bostezo. sale Magnezone ➜ Protección, cambia a Chansey. sale Girafarig ➜ Trampa rocas ➜ Gengar, Otra Vez ➜ Slowbro, sale Mantine ➜ Bostezo, sale Girafarig ➜ Sacrifica a Politoed , Poliwrath +6.",
+          "variant": [
+            {
+              "detail": "◉ Mantine ➜ Slowbro  Frente a Girafarig , sacrifica Politoed ➜ Poliwrath +6 🐸🥊",
+              "variant": []
+            },
+            {
+              "detail": "◉ Typhlosion ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Flareon ➜ Gengar, Otra Vez, +2.",
+      "variant": [
+        {
+          "detail": "◉ Se queda ➜ Derrótalo, sale Absol ➜ Sacrifica a Politoed, Poliwrath +6.",
+          "variant": []
+        },
+        {
+          "detail": "◉ Sale Bronzong ➜ Sacrifica a Politoed , Poliwrath +6.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Absol ➜ Gengar, +4 + precisión X. (No es necesario Otra Vez).",
+      "variant": []
+    },
+    {
+      "detail": "◉ Golurk ➜ Gengar, Otra Vez, +4 +2 + precisión X. (Otra Vez cada que puedas)",
+      "variant": []
+    },
+    {
+      "detail": "◉ Lucario ➜ Teletransporte ➜ Mira el item",
+      "variant": [
+        {
+          "detail": "◉ Vidaesfera ➜ Gengar, Otra Vez, +4 + precisión X. (Otra Vez cada que puedas)",
+          "variant": []
+        },
+        {
+          "detail": "◉ Sin Vidaesfera ➜ Gengar, Otra Vez, +2 +2 + precisión X. (Otra Vez cada que puedas)",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si usan un ataque tipo fuego es ( Zoroark) ➜ Gengar, Otra Vez ➜ Poliwrath +6 +2.",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Electivire ➜ Gengar, Otra Vez, +2 + Precisión X. ",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "hitmonlee",
+  "name": "Hitmonlee",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡Gengar → Slowbro, Bostezo → Chansey, Trampa rocas💡",
+  "tricks": [
+    {
+      "detail": "Hitmonlee → Gengar, derrótalo → sale Machamp, cambia a Chansey → Gengar, otra vez, +2",
+      "variant": [
+        {
+          "detail": "Se queda → Gengar +6, utiliza Otra Vez cada que puedas. Derrota a todos con Bola Sombra",
+          "variant": []
+        },
+        {
+          "detail": "Salamence → Derrótalo, sale Machamp → Poliwrath → Gengar +6, utiliza Otra Vez cada que puedas. Derrota a todos con Bola Sombra",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Machamp/Luxray → Gengar, otra vez, +2",
+      "variant": [
+        {
+          "detail": "Se queda → Gengar +6, utiliza Otra Vez cada que puedas. Derrota a todos con Bola Sombra",
+          "variant": []
+        },
+        {
+          "detail": "Salamence → Derrótalo, sale Machamp → Poliwrath → Gengar +6, utiliza Otra Vez cada que puedas. Derrota a todos con Bola Sombra",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

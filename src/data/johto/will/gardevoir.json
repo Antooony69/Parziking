@@ -1,0 +1,17 @@
+{
+  "id": "gardevoir",
+  "name": "Gardevoir",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚 Amortiguador 🥚",
+  "tricks": [
+    {
+      "detail": "Sale Lucario ➜ cambiar a Gengar, otra vez +6 + precisión X",
+      "variant": [
+        {
+          "detail": "Si te bloquean Bola sombra, Onda certera derrota a Xatu.",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

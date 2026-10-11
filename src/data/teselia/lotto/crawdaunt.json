@@ -1,0 +1,46 @@
+{
+  "id": "crawdaunt",
+  "name": "Crawdaunt",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "👻Cambia a Gengar👻",
+  "tricks": [
+    {
+      "detail": "A bocajarro --> Gengar +4 + Otra Vez, luego usa Bola sombra 🔔(Mira tu situacion)🔔",
+      "variant": [
+        {
+          "detail": "La banda focus se rompe --> 💊Toma un Velocidad X luego sigue Barriendo💊",
+          "variant": []
+        },
+        {
+          "detail": "Mienshao --> Continuar presionando; 🔔(Mienshao tiene banda Focus no te preocupes)🔔",
+          "variant": [
+            {
+              "detail": "💀Crítico💀 --> Sacrificar a Politoed; Slowbro usa Bostezo ante Salamence; usar Teletransporte para entrar con Poliwrath +6",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Gliscor / Gyarados --> Continuar presionando hasta Magnezone; Cambia a Chansey y usa Amortiguador para atraer al tipo lucha; Gengar +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Medicham --> Slowbro usa Bostezo",
+      "variant": [
+        {
+          "detail": "Magnezone --> Protección y Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Crawdaunt --> Sacrificar a Politoed y entrar con Poliwrath +6",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}
+
+    
+    

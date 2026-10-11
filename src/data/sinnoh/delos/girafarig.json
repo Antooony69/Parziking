@@ -1,0 +1,39 @@
+{
+  "id": "girafarig",
+  "name": "Girafarig",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🔔Mira abajo como seguir🔔 ",
+  "tricks": [
+    {
+      "detail": " Ruta Arriesgada ➜ Usar Trampa Rocas Frente a Gallade ➜ entra con Gengar Otra vez  +2 si entra Dragonite usa bola sombra 🔔usa Onda Certera a Girafarig 🔔",
+      "variant": [
+        {
+          "detail": "Si Absol debilita a Gengar ➜ Entra con Volcarona x1 danza aleteo y presionar; revisar qué Pokémon quedan",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": " Ruta Estable ➜ Entra con Slowbro y usa Bostezo",
+      "variant": [
+        {
+          "detail": "Absol ➜ Sacrifica a Politoed ➜ entra con Poliwrath +6🐸🥊  observa quien sale primero ",
+          "variant": [
+            {
+              "detail": "Si Girafarig sale primero que  Ninetales ➜ Usar Velocidad X y presionar de nuevo",
+              "variant": []
+            },
+            {
+              "detail": "Si Ninetales sale primero que  Girafarig ➜ Presionar directamente; si no hay golpe crítico no debilita; si hay golpe crítico y cae, entrar con Gengar +2 para completar",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Ninetales ➜ Usa Protección y Bostezo y Frente a Absol; sacrifica a Politoed y entra con Poliwrath +6🐸🥊",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

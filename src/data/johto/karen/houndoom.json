@@ -1,0 +1,141 @@
+{
+  "id": "houndoom",
+  "name": "Houndoom",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": " ◉ Si se queda ➜ Ver objeto; si falla, usar Amortiguador",
+      "variant": [
+        {
+          "detail": "◉ Vidasfera ➜ Amortiguador 2 veces",
+          "variant": [
+            {
+              "detail": "Si se queda ➜ Sacrifica a Politoed; Poliwrath + Ataque X 🔔 Si justo Cuando Cambias entra Feraligatr sacrifica a politoed y entra Poliwrath Ataque X  ",
+              "variant": []
+            },
+            {
+              "detail": "◉ Leafeon ➜ Volcarona x1 Danza aleteo + Especial X",
+              "variant": []
+            },
+            {
+              "detail": "◉ Feraligatr ➜ Encanto ➜ Slowbro, bostezo ➜  Sacrifica Politoed , Poliwrath +6🐸🥊",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Sin Vidasfera ➜ Usar Amortiguador y esperar el cambio",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Honchkrow ➜ Slowbro usa Bostezo; sacrifica a Politoed; Poliwrath +6🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "◉ Tyranitar ➜ Cambiar a Poliwrath para matarlo",
+      "variant": [
+        {
+          "detail": "◉ Gyarados ➜ Volcarona x1 danza aleteo + Especial X 🔔si cambia a Houndoom mientras te bosteas sigues bosteandote Psíquico a Gyarados🔔",
+          "variant": []
+        },
+        {
+          "detail": "◉ Victreebel ➜ Cambia a Gengar, luego a Slowbro",
+          "variant": [
+            {
+              "detail": "◉ Si se queda ➜ Bostezo; cambia a Volcarona, x1 danza aleteo + Especial X",
+              "variant": []
+            },
+            {
+              "detail": "◉ Gyarados ➜ Volcarona, x1 danza aleteo+ Especial X",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Excadrill ➜ Gigadrenado hasta matarlo",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Excadrill ➜ Ver objeto",
+      "variant": [
+        {
+          "detail": "◉ Globo Helio ➜ Encanto; Amortiguador frente a Tyranitar; cambiar a Poliwrath para matar a Tyra",
+          "variant": [
+            {
+              "detail": "◉ Gyarados ➜ Volcarona +1 + Especial X 🔔si cambia a Houndoom mientras te bosteas sigues bosteandote Psíquico a Gyarados🔔",
+              "variant": []
+            },
+            {
+              "detail": "◉ Victreebel ➜ Cambia a Gengar, luego a Slowbro",
+              "variant": [
+                {
+                  "detail": "◉ Si se queda ➜ Bostezo; cambia a Volcarona, +1 + Especial X",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Gyarados ➜ Volcarona, +1 + Especial X",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "◉ Excadrill ➜ Gigadrenado hasta matarlo",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Sin Globo Helio ➜ Cambiar a Slowbro y usar Bostezo",
+          "variant": [
+            {
+              "detail": "◉ Si se queda ➜ Teletransporte; Volcarona +1; 🔔si cambia a Houndoom mientras te bosteas x1 danza aleteo mas y ataca  Psíquico a Gyarados🔔",
+              "variant": []
+            },
+            {
+              "detail": "◉ Mismagius ➜ Volcarona +1 frente a Houndoom; luego usar Danza Aleteo una vez y barrer completo",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Rhyperior ➜ Encanto; cambiar a Slowbro",
+      "variant": [
+        {
+          "detail": "◉ Si se queda ➜ Bostezo frente a Leafeon; Volcarona +1 + Especial X",
+          "variant": []
+        },
+        {
+          "detail": "◉ Leafeon ➜ Volcarona +1 + Especial X",
+          "variant": []
+        },
+        {
+          "detail": "◉ Gyarados ➜ Bostezo; Protección; Bostezo frente a Leafeon; Volcarona +1 + Especial X",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Leafeon ➜ Volcarona +1 + Especial X",
+      "variant": []
+    },
+    {
+      "detail": "◉ Primeape ➜ Cambiar a Slowbro y usar Bostezo; sacrifica a Politoed; Poliwrath +6🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "◉ Absol ➜ Volcarona x2 danza aleteo ⚠️ Si Entra Houndoom sigue usando Danza aleteo y ataca ",
+      "variant": []
+    },
+    {
+      "detail": "◉ Gallade ➜ Gengar usa Otra Vez; Slowbro usa Bostezo; sacrifica a Politoed; Poliwrath +6🐸🥊",
+      "variant": []
+    }
+  ]
+}

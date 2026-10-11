@@ -1,0 +1,33 @@
+{
+  "id": "arbok",
+  "name": "Arbok",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Trampa Rocas",
+  "tricks": [
+    {
+      "detail": "Lanza Mugre --> Usa Teletransporte y saca a Slowbro, Bostezo y Proteccion luego Bostezo frente a Gengar, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño Hielo contra Gengar)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Puya Nociva --> Cambia a Slowbro y usa Bostezo",
+      "variant": [
+        {
+          "detail": "Si entra Rotom --> Usa Proteccion y Bostezo, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño Hielo contra Gengar)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Si entra Otro --> Sacrifica a Politoed, entra Poliwrath +6 🔔(Puño Hielo contra Gengar)🔔",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Marowak --> Usa Teletransporte y saca a Slowbro, Bostezo, sacrifica a Politoed, entra Poliwrath +6 🔔(Puño Hielo contra Gengar)🔔 🚨(Si Slowbro queda paralizado no uses Bostezo, primero usa una Cura Total)🚨",
+      "variant": []
+    },
+    {
+      "detail": "Alakazam --> Usa Teletransporte y saca a Slowbro, Bostezo, sacrifica a Politoed, entra Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

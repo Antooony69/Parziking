@@ -1,0 +1,34 @@
+{
+  "id": "tentacruel",
+  "name": "Tentacruel",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Si se queda ➜ Ver qué habilidad/movimiento usa",
+      "variant": [
+        {
+          "detail": "Escaldar ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔usar Cascada contra Skarmory / Tentacruel🔔",
+          "variant": []
+        },
+        {
+          "detail": "Lanzallamas/ Pulso Umbrío (zoroark) ➜ Teletransporte; enviar a Volcarona Danza aleteo usa gigadrenado y frente a electrode/ Tentacruel ➜ Danza Aleteo una vez para barrer 🔔 si Volcarona retrocede cambiar a Chansey, recuperar vida al máximo y repetir🔔",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Crobat ➜ Teletransporte para ver movimiento",
+      "variant": [
+        {
+          "detail": "Veneno X / Puya Nociva ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔 Cascada contra Skarmory / Tentacruel🔔",
+          "variant": []
+        },
+        {
+          "detail": "Lanzallamas/ Pulso Umbrío (zoroark) ➜ Teletransporte ➜ enviar a Volcarona Danza aleteo usa gigadrenado y frente a electrode/ Tentacruel ➜ Danza Aleteo una vez para barrer 🔔 si Volcarona retrocede cambiar a Chansey, recuperar vida al máximo y repetir🔔",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

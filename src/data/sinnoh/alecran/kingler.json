@@ -1,0 +1,16 @@
+{
+  "id": "kingler",
+  "name": "Kingler",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🔔Cambiar a Slowbro🔔",
+  "tricks": [
+    {
+      "detail": "Martillazo ➜ Usar Bostezo ➜ sacrifica a Politoed y entra con Poliwrath +6 🐸🥊 🔔(Si el Bostezo le cae a Flygon usa Protección y Bostezo)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Fuerza Bruta ➜ Cambiar a Chansey al enfrentar a Sceptile ➜ usar Trampa Rocas y usar Amortiguador esperando el cambio ➜ Slowbro usa Bostezo al enfrentar a Sceptile ➜ entra con Volcarona +1 🦋🔥",
+      "variant": []
+    }
+  ]
+}

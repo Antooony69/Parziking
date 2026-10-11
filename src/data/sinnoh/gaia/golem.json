@@ -1,0 +1,16 @@
+{
+  "id": "golem",
+  "name": "Golem",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨TrampaRocas🪨 Frente a Durant ",
+  "tricks": [
+    {
+      "detail": "◉ Ruta Segura ➜  Slowbro y entra con Volcarona frente a Gengar; Volcarona x1 danza aleteo 🔔Usar Psíquico a Gengar 🔔",
+      "variant": []
+    },
+    {
+      "detail": "◉ Ruta Arriesgada ➜ Volcarona x1 Danza aleteo y ataca 🔔Usar Psíquico a Gengar 🔔",
+      "variant": []
+    }
+  ]
+}

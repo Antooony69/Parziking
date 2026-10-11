@@ -1,0 +1,16 @@
+{
+  "id": "scrafty",
+  "name": "Scrafty",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚 Amortiguador 🥚",
+  "tricks": [
+    {
+      "detail": "Absol --> Gengar +4 + Precisión (No usar Otra Vez)",
+      "variant": []
+    },
+    {
+      "detail": "Scizor --> Volcarona +2 + Ataque Especial X (Gigadrenado a Luxray)",
+      "variant": []
+    }
+  ]
+}

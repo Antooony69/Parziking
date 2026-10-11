@@ -1,0 +1,16 @@
+{
+  "id": "electivire",
+  "name": "Electivire",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Tajo Cruzado ➜ Cambiar a Slowbro ➜ usar Bostezo , Protección y Otra vez Bostezo  ➜ frente a Lucario ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "Infernape ➜ Cambiar a Slowbro ➜ usar Bostezo frente a Electivire ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "seismitoad",
+  "name": "Seismitoad",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🐸Cambiar a Poliwrath🐸",
+  "tricks": [
+    {
+      "detail": "Aggron ➜  Poliwrath mata a Aggron  ",
+      "variant": [
+        {
+          "detail": "Seismitoad / Skarmory ➜ Cambiar a Chansey y usar 🪨Trampa Rocas🪨 al enfrentar a Conkeldurr; Gengar usa Otra Vez y cambiar a Volcarona ante Seismitoad; Volcarona +1 x especial ",
+          "variant": []
+        },
+        {
+          "detail": "Conkeldurr ➜ Gengar usa Otra Vez y cambiar a Chansey ante Seismitoad; usar 🪨Trampa Rocas🪨 frente a Conkeldurr; Gengar usa Otra Vez y cambiar a Volcarona ante Seismitoad; Volcarona +1 x especial . ",
+          "variant": []
+        },
+        {
+          "detail": "Dusknoir ➜ Cambiar a Volcarona y luego a Chansey usar 🪨Trampa Rocas🪨",
+          "variant": []
+        },
+        {
+          "detail": "Se Queda Dusknoir ➜ Sacrifica a Politoed y entrar con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Conkeldurr ➜ Gengar usa Otra Vez y cambiar a Volcarona ante Seismitoad ➜ Volcarona x1 danza aleteo x especial . ",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Medicham ➜ Cambia a Slowbro y usa Bostezo",
+      "variant": []
+    },
+    {
+      "detail": "Magnezone ➜ Protección ➜ Magnezone se duerme usa otra vez Bostezo y sacrifica a Politoed y entra con Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Crawdaunt ➜ Sacrifica a Politoed y entrar con Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

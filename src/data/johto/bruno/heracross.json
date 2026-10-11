@@ -1,0 +1,82 @@
+{
+  "id": "heracross",
+  "name": "Heracross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡Varias Opciones💡",
+  "tricks": [
+    {
+      "detail": "Ruta Arriesgada → Trampa Rocas",
+      "variant": [
+        {
+          "detail": "No crítico → Gengar, Otra Vez, +2 + Precisión X (heracross tiene banda focus)",
+          "variant": []
+        },
+        {
+          "detail": "Crítico pero usas Trampa Rocas → Politoed (sacrificar), Poliwrath → Gengar, Otra Vez, +2 + Precisión X",
+          "variant": []
+        },
+        {
+          "detail": "Crítico pero no usas Trampa Rocas → GG, Rip, Reinicia :)",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": " Ruta Segura → Gengar, Otra Vez, +2",
+      "variant": [
+        {
+          "detail": "Se queda → Derrótalo, sale Steelix → Slowbro, Bostezo → Teletransporte → Chansey, Trampa Rocas",
+          "variant": [
+            {
+              "detail": "Machamp → Gengar, Otra Vez → Chansey, sale Staraptor → Gengar, Otra Vez, +2 + Precisión X",
+              "variant": []
+            },
+            {
+              "detail": "Staraptor → Gengar, Otra Vez, +2 + Precisión X",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Kangaskhan → Chansey, Trampa Rocas",
+          "variant": [
+            {
+              "detail": "Heracross → Amortiguador → Teletransporte → Gengar, Otra Vez, +2 + Precisión X",
+              "variant": []
+            },
+            {
+              "detail": "Staraptor → Gengar, Otra Vez, +2 + Precisión X",
+              "variant": []
+            },
+            {
+              "detail": "Machamp → Gengar Otra vez → Chansey y Frente a Staraptor → Gengar Otra vez +2 + Precisión X",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Machamp → Chansey → Gengar, Otra Vez, +2",
+          "variant": [
+            {
+              "detail": "Se queda → Derrótalo → si entra Steelix cambia a Slowbro, mantén Bostezo, sale Heracross → Teletransporte → Chansey, Trampa Rocas",
+              "variant": [
+                {
+                  "detail": "Machamp → Gengar, Otra Vez → Chansey, frente a Staraptor → Gengar, Otra Vez, +2 + Precisión X",
+                  "variant": []
+                },
+                {
+                  "detail": "Staraptor → Gengar, Otra Vez, +2 + Precisión X",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "Kangaskhan → Chansey → Trampa Rocas → seguir guía de Kangaskhan arriba ",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

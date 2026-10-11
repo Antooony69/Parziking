@@ -1,0 +1,69 @@
+{
+  "id": "ferrothorn",
+  "name": "Ferrothorn",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "◉ Ferrothorn se queda ➜ Identificar movimiento",
+      "variant": [
+        {
+          "detail": "◉ Latigazo / Giro Bola ➜ Chansey Encanto y Amortiguador Frente Tyranitar Entra con Poliwrath y usa Puño Drenaje",
+          "variant": [
+            {
+              "detail": "◉ Ferrothorn ➜ Volcarona +1 🦋🔥",
+              "variant": []
+            },
+            {
+              "detail": "◉ Gastrodon ➜ Slowbro Bostezo, sacrifica Politoed y Poliwrath +6 🐸🥊",
+              "variant": []
+            },
+            {
+              "detail": "◉ Drapion ➜ Slowbro Bostezo, sacrifica Politoed y Poliwrath +6 🐸🥊",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": " ◉ 🌱 Drenadoras 🌱 ➜ Entra Con Slowbro",
+          "variant": [
+            {
+              "detail": "◉ Flygon ➜ Slowbro Relajo para Aguantar Cometa Draco ➜ Slowbro Bostezo y frente Yanmega ➜ sacrifica Politoed y entra con Poliwrath +6 🐸🥊",
+              "variant": []
+            },
+            {
+              "detail": "◉ Kabutops ➜ Slowbro Bostezo",
+              "variant": [
+                {
+                  "detail": "◉ Yanmega ➜ Sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Ferrothorn ➜ Volcarona +2 🦋🔥",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Flygon ➜ Usar Teletransporte ➜ enviar a Slowbro y usar Relajo para recibir Cometa Draco ➜ usar Bostezo al enfrentar a Yanmega ➜ sacrifica a Politoed y entra con Poliwrath +6🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "◉ Kabutops ➜ Slowbro, Bostezo",
+      "variant": [
+        {
+          "detail": "◉ Yanmega ➜ Usar Protección y Bostezo Frente Octillery ➜ sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
+          "variant": []
+        },
+        {
+          "detail": "◉ Ferrothorn ➜ Volcarona +2 🦋🔥",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

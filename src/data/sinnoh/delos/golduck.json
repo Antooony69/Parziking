@@ -1,0 +1,25 @@
+{
+  "id": "golduck",
+  "name": "Golduck",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Tajo Cruzado --> Cambiar a Gengar",
+      "variant": [
+        {
+          "detail": "Si se queda --> Entrar con Gengar +4/+2 y usar Bola Sombra a todos",
+          "variant": []
+        },
+        {
+          "detail": "Gallade / Roserade --> Entrar con Gengar +4/+2 (No usar Otra Vez) y usar Bola Sombra a todos",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Gallade / Roserade --> Entrar con Gengar +4/+2 (No usar Otra Vez) y usar Bola Sombra a todos",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "medicham",
+  "name": "Medicham",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡Slowbro usa Bostezo💡",
+  "tricks": [
+    {
+      "detail": "Magnezone --> Protección y Bostezo; sacrificar a Politoed y entrar con Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Crawdaunt --> Sacrificar a Politoed y entrar con Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

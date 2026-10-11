@@ -1,0 +1,25 @@
+{
+  "id": "gastrodon",
+  "name": "Gastrodon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Terremoto --> Cambiar a Slowbro",
+      "variant": [
+        {
+          "detail": "Si se queda --> Usar Bostezo al enfrentar a Chandelure; sacrificar a Politoed; entrar con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Garchomp --> Usar Bostezo continuamente al enfrentar a Chandelure; sacrificar a Politoed; entrar con Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Garchomp --> Cambiar a Slowbro al enfrentar a Chandelure; sacrificar a Politoed; entrar con Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "scizor",
+  "name": "Scizor",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🦋Cambia a Volcarona🦋",
+  "tricks": [
+    {
+      "detail": "Danza Aleteo + Especial X",
+      "variant": [
+        {
+          "detail": "Crítico derrota a Volcarona ➜ Poliwrath ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

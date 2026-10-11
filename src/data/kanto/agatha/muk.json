@@ -1,0 +1,25 @@
+{
+  "id": "muk",
+  "name": "Muk",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Encanto → Teletransporte",
+  "tricks": [
+    {
+      "detail": "Se queda → Slowbro, Bostezo",
+      "variant": [
+        {
+          "detail": "Rotom → Protección, Bostezo → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Otro Pokemon → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Gyarados → Volcarona → Slowbro, bostezo → Continúa arriba ↑",
+      "variant": []
+    }
+  ]
+}

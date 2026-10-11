@@ -1,0 +1,16 @@
+{
+  "id": "vaporeon",
+  "name": "Vaporeon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Escaldar/Gyarados → Usa Teletransporte y saca a Slowbro, Bostezo + Proteccion + Bostezo, para forzar la salida de Magnezone, sacrifica a Poliwrath, 💊Volcarona +1 + Especial X💊 🔔(Gigadrenado contra Alakazam)🔔",
+      "variant": [] 
+    },
+    {
+      "detail": "Machamp → Usa Teletransporte y saca a Slowbro, Bostezo frente a Vaporeon, sacrifica a Politoed, entra Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

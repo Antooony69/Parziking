@@ -1,0 +1,12 @@
+{
+  "id": "girafarig",
+  "name": "Girafarig",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa rocas🪨",
+  "tricks": [
+    {
+      "detail": "Cambia a Gengar, Otra Vez → Cambia a Slowbro, Bostezo, sale Mantine → Bostezo, sale Magnezone → Politoed (sacrificar), Poliwrath +6.",
+      "variant": []
+    }
+  ]
+}

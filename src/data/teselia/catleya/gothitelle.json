@@ -1,0 +1,12 @@
+{
+  "id": "gothitelle",
+  "name": "Gothitelle",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡Usa Teletransporte para sacar a Volcarona💡",
+  "tricks": [
+    {
+      "detail": "Metagross ➜ Usa Lanzallamas, frente a Staraptor cambia a Gengar +6 + Precisión X (No usar Otra Vez) 🔔(Si Cambia a Milotic, saca a Chansey para atraer a Staraptor)🔔",
+      "variant": []
+    }
+  ]
+}

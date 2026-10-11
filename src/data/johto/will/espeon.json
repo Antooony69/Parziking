@@ -1,0 +1,16 @@
+{
+  "id": "espeon",
+  "name": "Espeon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Slowbro, Bostezo (Presiona al cambio)",
+  "tricks": [
+    {
+      "detail": "Cambia a Chansey, trampa rocas, sale Lucario → Gengar, otra vez, +2 +2 + precisión X",
+      "variant": []
+    },
+    {
+      "detail": "Si en trampa rocas no cambia, usa amortiguador hasta que cambie → sigue la guía ↑",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "nidoqueen",
+  "name": "Nidoqueen",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Metagross ➜ Cambiar a Slowbro, luego a Volcarona frente a Serperior ➜ Volcarona +2 🦋🔥",
+      "variant": []
+    },
+    {
+      "detail": "Mienshao ➜ Gengar Otra Vez +2 🔔(Barrer con Bola Sombra)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Gallade ➜ Gengar +4 (No usar Otra Vez) 🔔(Barrer con Bola Sombra)🔔",
+      "variant": []
+    },
+    {
+      "detail": "beartic ➜ Gengar Otra Vez +4 🔔(Barrer con Bola Sombra)🔔",
+      "variant": []
+    }
+  ]
+}

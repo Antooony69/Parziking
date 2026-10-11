@@ -1,0 +1,33 @@
+{
+  "id": "salamence",
+  "name": "Salamence",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨 🔔(Si se Queda usa Amortiguador)🔔",
+  "tricks": [
+    {
+      "detail": "Conkeldurr ➜ Entrar con Gengar Otra Vez +2",
+      "variant": [
+        {
+          "detail": "Si se Queda ➜ Gengar +4 + Precisión X",
+          "variant": []
+        },
+        {
+          "detail": "Salamence ➜ Ataca con Bola Sombra ➜ frente a Steelix ➜ sacrifica a Politoed ➜ entrar con Poliwrath y usar Ataque X  🔔(Cascada a Steelix/Conkeldurr y Puño Drenaje contra los Demas)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Ludicolo ➜  Cambia a Slowbro y usar Bostezo ➜ sacrifica a Politoed y entrar con Poliwrath +6🐸🥊",
+          "variant": []
+        }  
+      ]     
+    },
+    {
+      "detail": "Medicham ➜ Cambiar a Slowbro y usar Bostezo Frente a Maractus ➜ entra con Volcarona +3 🔔(Puedes usar Especial X y Gigadrenado contra Steelix)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Haxorus ➜ Usa Amortiguador o Teletransporte y entra con Gengar Otra Vez +6 🔔(Barre con Bola Sombra)🔔",
+      "variant": []
+    }
+  ]
+}

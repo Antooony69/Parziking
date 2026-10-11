@@ -1,0 +1,60 @@
+{
+  "id": "slowbro",
+  "name": "Slowbro",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Puño Drenaje ➜ Volcarona x2 Danza aleteo",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill ➜ Ver objeto",
+      "variant": [
+        {
+          "detail": "Globo Helio ➜ usa Encanto y Amortiguador frente a Tyranitar sacas a Poliwrath para matar Tyranitar",
+          "variant": []
+        },
+        {
+          "detail": "Sin Globo Helio ➜ Teletransporte ➜ enviar a Slowbro y usar Bostezo",
+          "variant": [
+            {
+              "detail": "Si se queda ➜ Teletransporte ➜ Volcarona x1 danza aleteo ataca hasta que entre Houndoom Para volver a usar Danza aleteo y matarlo",
+              "variant": []
+            },
+            {
+              "detail": "Mismagius ➜ Volcarona x1 danza aleteo ataca hasta que entre Houndoom Para volver a usar Danza aleteo y matarlo",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Tyranitar ➜ Entra con Poliwrath para matar a tyranitar ",
+      "variant": [
+        {
+          "detail": "Gyarados ➜ Volcarona x1 danza aleteo + Especial X si sale Houndoom sigue bosteandote no te mata 🔔Psíquico a Gyarados🔔",
+          "variant": []
+        },
+        {
+          "detail": "Victreebel ➜ Cambia a Gengar, luego a Slowbro",
+          "variant": [
+            {
+              "detail": "Si se queda → Bostezo; cambia a Volcarona, x1 danza aleteo + Especial X",
+              "variant": []
+            },
+            {
+              "detail": "Gyarados ➜ Volcarona, x1 danza aleteo + Especial X",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Excadrill ➜ Full Gigadrenado hasta matarlo ",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

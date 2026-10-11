@@ -1,0 +1,25 @@
+{
+  "id": "skuntank",
+  "name": "Skuntank",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡🪨Trampa Rocas🪨 y cambiar a Gengar💡",
+  "tricks": [
+    {
+      "detail": "Puya Nociva ➜ Gengar usa Otra Vez al movimiento Veneno ➜ cambiar a Slowbro y usar Bostezo",
+      "variant": [
+        {
+          "detail": "Si se queda ➜ Usar Protección y Bostezo ➜ sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊",
+          "variant": []
+        },
+        {
+          "detail": "Octillery ➜ Sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊",
+          "variant": []
+        }  
+      ]  
+    },
+    {
+      "detail": "Autodestrucción y entra Forretress ➜ Slowbro usa Bostezo ➜ sacrificar a Politoed y entrar con Poliwrath +6 🐸🥊",
+      "variant": []
+    }
+  ]
+}

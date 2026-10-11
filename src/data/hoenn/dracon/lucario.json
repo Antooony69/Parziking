@@ -1,0 +1,20 @@
+{
+  "id": "lucario",
+  "name": "Lucario",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "👻 Cambiar a Gengar 👻",
+  "tricks": [
+    {
+      "detail": "◉ A Bocajarro ➜ Otra Vez ➜ cambiar a Slowbro y usar Bostezo frente a Lapras ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "◉ Patada Salto Alta ➜ Gengar Maquinación y lucario se muere ➜ frente a Haxorus ➜ cambiar a Chansey y luego  Gengar Otra vez +4 (Haxorus banda focus)",
+      "variant": []
+    },
+    {
+      "detail": "◉ Metagross ➜ Cambiar a Slowbro, luego a Chansey frente a Lapras ➜ Trampa Rocas frente a Metagross ➜ cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed; Poliwrath +6🐸🥊",
+      "variant": []
+    }
+  ]
+}  

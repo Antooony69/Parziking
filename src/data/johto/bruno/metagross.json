@@ -1,0 +1,54 @@
+{
+  "id": "metagross_2",
+  "name": "Metagross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "◉Se queda ➜ Slowbro, Bostezo ➜ Sacrifica a Politoed , Poliwrath +6🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "◉ Darmanitan ➜ Varias Opciones ↓",
+      "variant": [
+        {
+          "detail": "◉ Ahorra Dinero ➜ Volcarona x3 danza aleteo🦋🔥",
+          "variant": []
+        },
+        {
+          "detail": "◉ Jugada Segura ➜ Slowbro, Bostezo ➜ Sacrifica a Politoed , Poliwrath +6🐸🥊",
+          "variant": []
+        },
+        {
+          "detail": "◉ Jugada Arriesgada ➜ Sacrifica a Politoed , Poliwrath +6🐸🥊",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Hitmonchan ➜ Slowbro, Bostezo. Sale Metagross ➜ Sacrifica a Politoed , Poliwrath +6🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "◉ Machamp ➜ Gengar, ver ataque.",
+      "variant": [
+        {
+          "detail": "◉ Puño Dinamico ➜ Slowbro, Bostezo ➜ Sacrifica a Politoed , Poliwrath +6🐸🥊",
+          "variant": []
+        },
+        {
+          "detail": "◉ Puño Drenaje ➜ Gengar, Otra Vez ➜ Chansey, sale Staraptor ➜ Volcarona x2 danza aleteo🦋🔥",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Blaziken ➜ Chansey Usa Amortiguador o Teletransporte y entra con Gengar +4 +2 (No uses Otra Vez).",
+      "variant": []
+    },
+    {
+      "detail": "◉ Krokodile/Staraptor ➜ Volcarona x2 danza aleteo 🦋🔥",
+      "variant": []
+    }
+  ]
+}

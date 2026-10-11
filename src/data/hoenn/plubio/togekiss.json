@@ -1,0 +1,43 @@
+{
+  "id": "togekiss",
+  "name": "Togekiss",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡 Teletransporte 💡",
+  "tricks": [
+    {
+      "detail": "Fallo al cambiar ➜ Ver daño; 🔔(Si no hay golpe, ver Roserade con Vidasfera para confirmar equipo)🔔",
+      "variant": [
+        {
+          "detail": "Golpe a Chansey (menos del 15%) ➜ Entra con Slowbro y usa Defensa Especial X y Bostezo ➜ frente a Roserade ➜ Teletransporte y entra con Volcarona +4 🔔(Mantener PS por encima del 70%)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Golpe a Chansey (más del 15%) ➜ Entra con Slowbro y usa Defensa Especial X y Bostezo ➜ frente a Roserade ➜  Teletransporte ➜  💊Volcarona +1 + Especial X💊",
+          "variant": []
+        }  
+      ]  
+    },
+    {
+      "detail": "Esfera Aural ➜ Ver daño",
+      "variant": [
+        {
+          "detail": "Golpe a Chansey (menos del 20%) ➜ Gengar usa Otra Vez; cambiar a Slowbro frente a Milotic; usar Bostezo",
+          "variant": [
+            {
+              "detail": "Poder Oculto Eléctrico ➜ Sacrifica a Politoed ➜ Poliwrath +6",
+              "variant": []
+            },
+            { 
+              "detail": "Roserade ➜ Volcarona +4 🔔(Antes de barrer mantener PS por encima del 70%)🔔",
+              "variant": []
+            }  
+          ]   
+        },
+        {
+          "detail": "Golpe a Chansey (más del 20%) ➜  Enviar a Slowbro; usar Bostezo frente a Roserade; Teletransporte; 💊Volcarona +1 + Especial X💊",
+          "variant": []
+        }  
+      ]  
+    }
+  ]
+}

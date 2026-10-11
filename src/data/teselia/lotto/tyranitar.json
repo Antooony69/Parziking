@@ -1,0 +1,16 @@
+{
+  "id": "tyranitar",
+  "name": "Tyranitar",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨TrampaRocas🪨",
+  "tricks": [
+    {
+      "detail": "Ruta Segura ➜ Teletransporte, Slowbro usa Bostezo, sacrifica a Politoed, Poliwrath a +6🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "Ruta Arriesgada ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+      "variant": []
+    }
+  ]
+}

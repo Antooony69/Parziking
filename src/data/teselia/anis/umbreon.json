@@ -1,0 +1,16 @@
+{
+  "id": "umbreon",
+  "name": "Umbreon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Lucario --> Cambiar a Gengar y usar Otra Vez, cambiar a Slowbro y usar Bostezo, sacrificar a Politoed, entrar con Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Toxicroak --> Cambiar a Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

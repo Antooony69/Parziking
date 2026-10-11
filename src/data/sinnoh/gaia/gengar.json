@@ -1,0 +1,38 @@
+{
+  "id": "gengar",
+  "name": "Gengar",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "◉ Absol ➜ Slowbro y usa Bostezo ; Volcarona x1 danza aleteo 🔔Usar Psíquico al enfrentar a Gengar🔔",
+      "variant": []
+    },
+    {
+      "detail": "◉ Rhyperior ➜ Usa Teletransporte y revisar objeto",
+      "variant": [
+        {
+          "detail": "◉ Vidaesfera ➜ Slowbro usa Bostezo y sacrifica a Politoed ; entra con Poliwrath +6 y usa Puño Hielo en Gengar",
+          "variant": []
+        },
+        {
+          "detail": "◉ Sin Vidaesfera ➜ Volcarona gigadrenado a Rhyperior y frente a blastoise o quagsire usar danza aleteo y atacar (psiquico gengar)",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Durant ➜ Mira Que Ruta Usar ⬇️ ",
+      "variant": [
+        {
+          "detail": "◉ Ruta Segura ➜ Slowbro y usa Bostezo Frente a Gengar; Volcarona x1 danza y usa Psíquico en Gengar ",
+          "variant": []
+        },
+        {
+          "detail": "◉ Ruta Arriesgada ➜ Entra con Volcarona x1 danza aleteo",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

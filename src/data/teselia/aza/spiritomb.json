@@ -1,0 +1,16 @@
+{
+  "id": "spiritomb",
+  "name": "Spiritomb",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚Amortiguador🥚",
+  "tricks": [
+    {
+      "detail": "Staraptor / Garchomp ➜ Cambiar a Slowbro y usa bostezo ➜ frente a Chandelure ➜ sacrifica a Politoed ➜ entra con Poliwrath +6🐸🥊 🔔(Puño Drenaje a Sharpedo)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Honchkrow ➜ Cambiar a Slowbro y usa Bostezo ➜ frente a Chandelure ➜ sacrifica a Politoed ➜ entra con Poliwrath +6🐸🥊",
+      "variant": []
+    }
+  ]
+}

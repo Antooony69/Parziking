@@ -1,0 +1,37 @@
+{
+  "id": "rotom_agua",
+  "name": "Rotom Agua",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "TRAMPA ROCAS",
+  "tricks": [
+    {
+      "detail": "Rayo → Varias Opciones",
+      "variant": [
+        {
+          "detail": "Estable → Toma X SpDef → Amortiguador hasta que salga Alakazam → Teletransporte a Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "RNG → Teletransporte a Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Hidrobomba → Teletransporte a Slowbro, Bostezo. sale Gengar → Politoed (sacrificar), Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Toxicroak → Cambia a Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Krookodile → Teletransporte a Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Alakazam → Teletransporte a Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

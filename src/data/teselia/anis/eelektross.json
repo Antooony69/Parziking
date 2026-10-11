@@ -1,0 +1,79 @@
+{
+  "id": "eelektross",
+  "name": "Eelektross",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "👻Gengar usa Otra Vez👻, cambiar a Slowbro y luego cambiar a Chansey",
+  "tricks": [
+    {
+      "detail": "◉ Gengar ➜ 🪨Trampa Rocas🪨 frente a Eelektross, Gengar usa Otra Vez, cambiar a Slowbro y usar Bostezo 🚨(Si se queda usando Onda Certera, cambia a Volcarona +2)🚨",
+      "variant": [
+        {
+          "detail": "◉ Chandelure ➜ Usar Protección y Bostezo frente a Gengar ➜ entrar con Volcarona +2 🔔(Psíquico a Gengar y Lanzallamas a Chandelure)🔔",
+          "variant": []
+        },
+        {
+          "detail": "◉ Gengar ➜ Usar Protección ➜ cambia a Poliwrath, frente a Chandelure ➜ Volcarona +2 🔔(Psíquico a Gengar)🔔",
+          "variant": [
+            {
+              "detail": "◉ Si usas Trampa Rocas,Y el pokemon Se queda usando Onda Certera ➜ Gengar +2 +2 + Precisión X 🔔No usar Otra Vez)🔔",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Chandelure ➜ 🪨Trampa Rocas🪨.",
+      "variant": [
+        {
+          "detail": "◉ Eelektross ➜ Gengar usa Otra Vez, cambiar a Slowbro",
+          "variant": [
+            {
+              "detail": "◉ Si se queda ➜ Usar Bostezo",
+              "variant": [
+                {
+                  "detail": "◉ Gengar ➜ Usar Protección ➜ cambiar a Poliwrath frente a Chandelure ➜ Volcarona +2 🔔(Psíquico a Gengar)🔔",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Chandelure ➜ Usar Protección y Bostezo frente a Gengar ➜ Teletransporte ➜ Volcarona con +2 🔔(Psíquico a Gengar y Lanzallamas a Chandelure)🔔",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "◉ Dragonite ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊 🔔(Puño Hielo a Froslass y Cascada a Dragonite)🔔",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Dragonite ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño Hielo a Froslass y Cascada a Dragonite)🔔",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Eelektross ➜ Gengar Otra Vez y cambia a Slowbro Bostezo",
+      "variant": [
+        {
+          "detail": "◉ Eelektross ➜ Chansey Trampa rocas Frente a Dragonite , Slowbro Bostezo y sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño Hielo a Froslass y Cascada a Dragonite)🔔",
+          "variant": []
+        },
+        {
+          "detail": "◉ Chandelure ➜ Chansey Trampa Roca",
+          "variant": [
+            {
+              "detail": "◉ Eelektross ➜ Gengar Otra Vez, Slowbro Bostezo y sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño Hielo a Froslass y Cascada a Dragonite)🔔",
+              "variant": []
+            },
+            {
+              "detail": "◉ Dragonite  ➜  Slowbro Bostezo y sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño Hielo a Froslass y Cascada a Dragonite)🔔",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

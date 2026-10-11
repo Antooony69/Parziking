@@ -1,0 +1,31 @@
+{
+  "id": "gyarados",
+  "name": "Gyarados",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Toxicroack --> Cambiar a Slowbro y usar Bostezo frente a Magnezone, sacrificar a Politoed y entrar con Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Breloom ➜ Gengar +4 + Precisión X",
+      "variant": [
+        {
+          "detail": "Conkeldurr ➜ Cambiar a Slowbro y usar Bostezo, sacrificar a Politoed y entrar con Poliwrath +6 🐸 🔔(Puño Drenaje a Tyranitar)🔔",
+          "variant": []
+        } 
+      ]  
+    },        
+    {     
+      "detail": "Conkeldurr + Sin Llamasfera --> Cambiar a Slowbro y usar Bostezo al enfrentar a Magnezone; sacrificar a Politoed y entrar con Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "🔥Conkeldurr + Llamasfera🔥 --> Gengar +4 +2 🔔(Barre con Bola Sombra)🔔 🚨(Si cambia a Gyarados, cambia a Chansey y aguanta hasta que cambie denuevo)🚨",
+      "variant": []
+    }
+  ]
+}
+  
+

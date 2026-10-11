@@ -1,0 +1,29 @@
+{
+  "id": "vileplume",
+  "name": "Vileplume",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Honchkrow --> Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill --> Teletransporte; enviar a Slowbro y usar Bostezo",
+      "variant": [
+        {
+          "detail": "Si se queda --> Teletransporte; Volcarona +1; barrer hasta Houndoom; luego usar Danza Aleteo una vez y barrer completo",
+          "variant": []
+        },
+        {
+          "detail": "Mismagius --> Volcarona +1 frente a Houndoom; luego usar Danza Aleteo una vez y barrer completo",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Gallade --> Gengar usa Otra Vez; Slowbro usa Bostezo; sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

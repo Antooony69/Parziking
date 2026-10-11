@@ -1,0 +1,43 @@
+{
+  "id": "absol",
+  "name": "Absol",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🔔 Gengar usa Otra Vez y cambiar a Slowbro🔔 Ver que item tiene ",
+  "tricks": [
+    {
+      "detail": "◉ Vidasfera ➜ Usa Bostezo ",
+      "variant": [
+        {
+          "detail": "◉ Ninetales ➜ Usa Protección  y Bostezo  sacrifica a Politoed entra con Poliwrath  +6",
+          "variant": []
+        },
+        {
+          "detail": "◉ Gallade ➜ Sacrifica a Politoed entra con Poliwrath  +6; abrir y observar la situación",
+          "variant": [
+            {
+              "detail": "◉ Si Girafarig entra primero que Ninetales ➜ Usa Velocidad X y ataca",
+              "variant": []
+            },
+            {
+              "detail": "◉ Si Ninetales entra primero que Girafarig ➜ Solo sigue atacando ; si no es golpe crítico no debilita; si es golpe crítico y cae, Gengar +2 para completa",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Sin Vidasfera ➜ Cambia a Chansey  y usa Trampa Rocas ",
+      "variant": [
+        {
+          "detail": "◉ Golduck ➜ Entra con Gengar  +4 +2; cambia Gengar Frente  a Gallade  No usar Otra Vez  y seguir fortaleciendo",
+          "variant": []
+        },
+        {
+          "detail": "◉ Gallade ➜ Entra con Gengar  +4 +2 No usar Otra Vez 🔔usar Bola Sombra a todos🔔",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

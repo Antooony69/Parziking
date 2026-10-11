@@ -1,0 +1,72 @@
+{
+  "id": "lanturn",
+  "name": "Lanturn",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚 Amortiguador 🥚",
+  "tricks": [
+    {
+      "detail": "◉ Si Lanturn no cambia ➜ usa Defensa Especial X + Amortiguador dos veces",
+      "variant": [
+        {
+          "detail": "◉ Si Lanturn sigue sin Cambiar ➜ Chansey Teletransporte ➜ Gengar Bola Sombra ➜ ver cuanto daño le haces ⬇️ ",
+          "variant": [
+            {
+              "detail": "◉ Si haces Más del 40% (Crítico 60%) ➜ Sacrifica Politoed ➜ Slowbro, Bostezo y Teletransporte ➜ Poliwrath +6🐸🥊",
+              "variant": []
+            },
+            {
+              "detail": "◉ Si haces Menos del 35% (Crítico 52%) ➜ Maquinación",
+              "variant": [
+                {
+                  "detail": "◉ Si Gengar no muere ➜ Ataca con Bola Sombra, Frente Togekiss o Roserade ➜ Chansey, vuelta a empezar",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Si Gengar muere ➜ Volcarona x3 Danza aleteo (antes de atacar mira que tu vida este encima del 75%)",
+                  "variant": []
+                }
+              ]
+            },
+            {
+              "detail": "◉ Si Cambia a otro pokemon ➜ Mira las Rutas De Abajo Para guiarte",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Dragonite ➜ Encanto; y sacrifica Politoed ➜ Poliwrath +6🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "◉ Regice / Registeel ➜ Sacrifica Politoed; Poliwrath +6🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "◉ Milotic ➜ Chansey Teletransporte ➜ Slowbro Bostezo ➜ frente Roserade; Volcarona x4 danza aleteo 🔔 Si le cae el bostezo a Milotic vuelve a usar bostezo hasta que cambie a Roserade🔔",
+      "variant": []
+    },
+    {
+      "detail": "◉ Empoleon ➜ Entra con Slowbro Bostezo y frente Roserade ➜ Volcarona x3 Danza aleteo 🔔 PS por encima del 70% 🔔",
+      "variant": []
+    },
+    {
+      "detail": "◉ Gardevoir ➜ Chansey Teletransporte y Entra con Slowbro Bostezo y sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "◉ Roserade ➜ Teletransporte para ver movimiento",
+      "variant": [
+        {
+          "detail": "◉ Gigadrenado ➜ Volcarona +4",
+          "variant": []
+        },
+        {
+          "detail": "◉ Bomba Lodo ➜ Slowbro Bostezo y sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

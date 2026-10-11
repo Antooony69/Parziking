@@ -1,0 +1,25 @@
+{
+  "id": "arcanine",
+  "name": "Arcanine",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "👻 Gengar usa Otra Vez; cambia a Chansey y Frente a Dragonite; 🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "◉ Arcanine ➜ Cambia a Slowbro y usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "◉ Scizor ➜ Teletransporte; Volcarona x1 Danza aleteo + Especial X ⚠️mantener la vida por encima del 51%⚠️",
+      "variant": [
+        {
+          "detail": "◉ Si Volcarona cae por Crítico ➜ Slowbro usa Bostezo; sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Feraligatr ➜ Encanto , Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+      "variant": []
+    }
+  ]
+}

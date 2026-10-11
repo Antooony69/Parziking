@@ -1,0 +1,29 @@
+{
+  "id": "tyranitar",
+  "name": "Tyranitar",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨; cambiar a Poliwrath para matar a tyranitar",
+  "tricks": [
+    {
+      "detail": "Gyarados --> Volcarona +1 + Especial X; barrer hasta Houndoom; ignorar amenaza; 🔔Psíquico a Gyarados🔔",
+      "variant": []
+    },
+    {
+          "detail": "Victreebel → Cambia a Gengar, luego a Slowbro",
+          "variant": [
+            {
+              "detail": "Si se queda → Bostezo; cambia a Volcarona, +1 + SpAtk X",
+              "variant": []
+            },
+            {
+              "detail": "Gyarados → Volcarona, +1 + SpAtk X",
+              "variant": []
+            }
+          ]
+    },
+    {
+      "detail": "Excadrill --> Gigadrenado hasta matarlo ",
+      "variant": []
+    }
+  ]
+}

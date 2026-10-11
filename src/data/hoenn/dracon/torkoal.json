@@ -1,0 +1,16 @@
+{
+  "id": "torkoal",
+  "name": "Torkoal",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡 Encanto 💡 ❗ Arriesgar sacrificar a Politoed; Poliwrath +6❗",
+  "tricks": [
+    {
+      "detail": "Fuerza Bruta --> Amortiguador; esperar a Gallade/Roserade; Gengar +2 +2 + Precisión (No usar Otra Vez)",
+      "variant": []
+    },
+    {
+      "detail": "Gallade --> Gengar +2 +2 + Precisión (No usar Otra Vez)",
+      "variant": []
+    }
+  ]
+}

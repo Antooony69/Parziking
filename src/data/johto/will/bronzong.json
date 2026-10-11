@@ -1,0 +1,24 @@
+{
+  "id": "bronzong",
+  "name": "Bronzong",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚 Amortiguador 🥚",
+  "tricks": [
+    {
+      "detail": "Absol ➜ Gengar +4 + Precisión (absol pañuelo elegido)",
+      "variant": []
+    },
+    {
+      "detail": "Flareon ➜ 👻 Gengar Otra Vez +2 👻",
+      "variant": []
+    },
+    {
+      "detail": "Si se queda ➜ Usar bola sombra frente a Absol ➜ sacrifica a Politoed ➜ Poliwrath +6 (absol pañuelo elegido)",
+      "variant": []
+    },
+    {
+      "detail": "Cambia a Bronzong ➜ Sacrifica a Politoed ➜ Poliwrath +6 🐸🥊  🔔 Cascada contra Bronzong🔔 ",
+      "variant": []
+    }
+  ]
+}

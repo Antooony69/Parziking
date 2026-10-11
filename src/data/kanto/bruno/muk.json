@@ -1,0 +1,20 @@
+{
+  "id": "muk",
+  "name": "Muk",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Trampa Rocas",
+  "tricks": [
+    {
+      "detail": "Staraptor → Gengar, +4 + Precisión X (Otra Vez no es necesario)",
+      "variant": []
+    },
+    {
+      "detail": "Ursaring/PokeTipoLucha → Gengar, Otra Vez, +4 +2 + Precisión X (Mantener Otra Vez)",
+      "variant": []
+    },
+    {
+      "detail": "Machamp → Cambiar a Gengar, Otra Vez → Cambia a Chansey, sale Staraptor → Sigue ↑↑↑",
+      "variant": []
+    }
+  ]
+}

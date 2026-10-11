@@ -1,0 +1,16 @@
+{
+  "id": "floatzel",
+  "name": "Floatzel",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Gallade --> Cambiar a Slowbro y usar Bostezo frente a Empoleon; sacrificar a Politoed; Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Feraligatr --> Cambiar a Slowbro y usar Bostezo frente a Sceptile; Volcarona +3 🔔(mantener PS por encima del 75%)🔔",
+      "variant": []
+    }
+  ]
+}

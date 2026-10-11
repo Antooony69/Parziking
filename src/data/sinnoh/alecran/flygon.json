@@ -1,0 +1,37 @@
+{
+  "id": "flygon",
+  "name": "Flygon",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "◉Si se queda ➜ Usar Teletransporte ➜ enviar a Slowbro y revisar daño",
+      "variant": [
+        {
+          "detail": "◉ Si el daño que recibes es menor al 35.6% (Crítico 53.4%) ➜ Usa Relajo para aguantar Cometa Draco ➜ usar Bostezo para que entre Yanmega ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si el daño que recibes es mayor al 36.5% (Crítico 54) ➜ Usa Bostezo Frente a Drapion/Scizor/octillery ➜ sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+          "variant": []
+        },
+        {
+          "detail": "◉ Frente a Skuntank Usa Teletransporte ➜ Volcarona, Cambia a Gengar y Frente a (crustle/forretress) Slowbro Bostezo y sacrifica a Politoed ➜ Poliwrath +6 🐸🥊",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Skuntank ➜ Sacrifica a Politoed ➜ cambiar a Volcarona luego a Gengar ➜ frente a Durant cambia a Slowbro y usa Bostezo luego Teletransporte ➜ entrar con Poliwrath +6 y usa Puño Drenaje ➜ 💊frente Crustle usar Velocidad X luego termina de Barrer💊",
+      "variant": []
+    },
+    {
+      "detail": "◉ Scizor ➜ Entra Con Volcarona y frente a tyranitar sacrifica a politoed entra con Poliwrath +6 🐸🥊 ",
+      "variant": []
+    },
+    {
+      "detail": "◉ Escavalier ➜ Sacrifica a Politoed ➜ entra con Poliwrath +6 🐸🥊",
+      "variant": []
+    }
+  ]
+}

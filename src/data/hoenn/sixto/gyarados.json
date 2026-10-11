@@ -1,0 +1,60 @@
+{
+  "id": "gyarados",
+  "name": "Gyarados",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡 Ver habilidad 💡",
+  "tricks": [
+    {
+      "detail": "◉ Intimidación ➜ Trampa Rocas",
+      "variant": [
+        {
+          "detail": "◉ Absol ➜ Gengar otra Vez +2 🔔(Bola Sombra a todo)🔔",
+          "variant": []
+        },
+        {
+          "detail": "◉ Luxray ➜ Gengar otra vez +4  🔔(Bola Sombra a todo)🔔",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Sin Intimidación ➜ Trampa Rocas",
+      "variant": [
+        {
+          "detail": "◉ Acua Cola ➜ Amortiguador frente a Absol, Gengar otra vez +4 🔔(Bola Sombra a todo)🔔",
+          "variant": []
+        },
+        {
+          "detail": "◉ Darmanitan ➜ 💊Gengar +2 + Precisión X💊 (No usar Otra Vez) 🔔(Usar movimientos súper eficaces)🔔 ",
+          "variant": []
+        },
+        {
+          "detail": "◉ Absol ➜ Cambiar a Slowbro y usar Bostezo",
+          "variant": [
+            {
+              "detail": "◉ Si el Bostezo fuerza la salida de un atacante especial del enemigo ➜ Sacrifica a Politoed y entra con Poliwrath +6 🐸🥊",
+              "variant": []
+            },
+            {
+              "detail": "◉ Tajo Umbrío ➜ Ver estado de Slowbro",
+              "variant": [
+                {
+                  "detail": "◉ ✅Slowbro vive✅ ➜ Sacrifica a Politoed ; Poliwrath +6 🐸🥊 ⚠️(Golpe Bajo no es amenaza)⚠️",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ ☠️Slowbro se debilita☠️ ➜ Cambiar a Chansey, 💊cambia a Gengar otra vez +2 +2 y Precisión X💊 ",
+                  "variant": []
+                }  
+              ]  
+            } 
+          ]  
+        },
+        {
+          "detail": "◉ Luxray ➜ Amortiguador, esperar a Absol, 💊Gengar otra vez +2 + Precisión X💊 ",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

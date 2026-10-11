@@ -1,0 +1,41 @@
+{
+  "id": "ninetales",
+  "name": "Ninetales",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨 frente a Gallade; Gengar Otra vez +2",
+  "tricks": [
+    {
+      "detail": "◉ Se Queda Gallade ➜ Gengar Otra vez +6 +2 + Precisión",
+      "variant": []
+    },
+    {
+      "detail": "◉ Dragonite 【 Ruta Arriesgada】 ➜ Presionar directamente; Girafarig  usa Onda Certera; Gengar termina con Bola Sombra 【5% de probabilidad de que salga Absol】",
+      "variant": []
+    },
+    {
+      "detail": "◉ Si Absol Debilita a Gengar de ataque ➜ Entra Con Slowbro usa bostezo y sacrifica a politoed para entrar con Poliwrath +6 🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "◉ Dragonite 【Ruta Segura】➜ Entra Con Slowbro y usa Bostezo",
+      "variant": []
+    },
+    {
+      "detail": "◉ Ninetales ➜ Usa Protección y Bostezo , sacrifica a Politoed ➜ Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "◉ Absol/Gallade ➜ Sacrifica a Politoed ➜ Poliwrath +6 🔔mira abajo para ver quien sale primero🔔",
+      "variant": [
+        {
+          "detail": "◉ Si Girafarig entra primero que Ninetales ➜ Usa Velocidad X y ataca",
+          "variant": []
+        },
+        {
+          "detail": "◉ Si Ninetales entra primero que Girafarig ➜ Solo sigue atacandop ; si no es golpe crítico no debilita; si es golpe crítico y cae, Gengar +2 para completa",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

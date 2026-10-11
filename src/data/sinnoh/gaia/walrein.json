@@ -1,0 +1,20 @@
+{
+  "id": "walrein",
+  "name": "Walrein",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🔔Cambiar a Slowbro🔔",
+  "tricks": [
+    {
+      "detail": "Superdiente ➜ Cambiar a Chansey y usar Trampa Rocas ➜ Frente a Absol ➜ cambiar a Slowbro Bostezo ➜ al enfrentar  a Gengar/Nidoking ➜ entra con Volcarona x1 danza aleteo 🔔(Usar Psíquico al enfrentar a Gengar)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Absol ➜ Cambiar a Chansey y usar Trampa Rocas, cambiar a Slowbro y usar Bostezo, entrar con Volcarona x1 danza aleteo 🔔(Usar Psíquico al enfrentar a Gengar)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Durant ➜ Slowbro usa Protección y bostezo ➜ Usa bostezo o Teletransporte y cambia a Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

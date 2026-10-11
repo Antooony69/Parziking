@@ -1,0 +1,25 @@
+{
+  "id": "donphan",
+  "name": "Donphan",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨 🥚No cambia usa Amortiguador 🥚",
+  "tricks": [
+    {
+      "detail": "Rhyperior --> Usar Encanto y cambiar a Slowbro",
+      "variant": [
+        {
+          "detail": "Si se queda --> Usar Bostezo al enfrentar a 🦀Parasect🍄 entrar con Volcarona +1",
+          "variant": []
+        },
+        {
+          "detail": "🦀Parasect🍄--> Entrar con Volcarona +1",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "🦀Parasect🍄 --> Entrar con Volcarona +1",
+      "variant": []
+    }
+  ]
+}

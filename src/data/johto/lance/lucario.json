@@ -1,0 +1,24 @@
+{
+  "id": "lucario",
+  "name": "Lucario",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "👻 Cambiar a Gengar 👻 ⚠️Atento Si en el combate de Arcanine no cambia sigue usando bostezo hasta que cambie⚠️ ",
+  "tricks": [
+    {
+      "detail": "◉ A Bocajarro ➜ Gengar usa Otra Vez ➜ cambia a Slowbro y usa Bostezo frente a Flygon ➜ cambiar a Chansey  🪨 Trampa Rocas 🪨➜ Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+      "variant": []
+    },
+    {
+      "detail": "◉ Infernape ➜ Cambia a Slowbro y usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 ⚠️Trata de No tener la vida baja lucario tiene banda focus y un ataque de prioridad⚠️",
+      "variant": []
+    },
+    {
+      "detail": "◉ Arcanine ➜ Cambia a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔puño drenaje a Lucario y Ampharos🔔",
+      "variant": []
+    },
+    {
+      "detail": "◉ Feraligatr ➜ Sacrifica a Gengar con Bola Sombra ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔usar Puño Drenaje  para mantener salud🔔",
+      "variant": []
+    }
+  ]
+}

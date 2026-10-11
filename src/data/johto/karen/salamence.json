@@ -1,0 +1,12 @@
+{
+  "id": "salamence",
+  "name": "Salamence",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨 frente a Absol; Volcarona x2 danza aleteo🔔( Gigadrenado a Absol, Volcarona Resiste Persecución de Absol : límite extremo Crítico 50%)🔔",
+  "tricks": [
+    {
+      "detail": "Si Cambia a Houndoom usa Danza Aleteo o Especial X y ataca (psiquico a Gengar) ",
+      "variant": []
+    }
+  ]
+}

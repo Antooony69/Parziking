@@ -1,0 +1,21 @@
+{
+  "id": "tangrowth",
+  "name": "Tangrowth",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Teletransporte ➜ Slowbro, Bostezo. (Mira la precisión de Tangrowth) ",
+      "variant": [
+        {
+          "detail": "Golpea ➜ Teletransporte ➜ Volcarona x2 Danza Aleteo 🦋🔥",
+          "variant": []
+        },
+        {
+          "detail": "Falla ➜ Volcarona x2 Danza Aleteo 🦋🔥",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

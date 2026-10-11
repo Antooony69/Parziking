@@ -1,0 +1,186 @@
+{
+  "id": "rhyperior",
+  "name": "Rhyperior",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "◉ Rhyperior Se queda ➜ Mira que objeto y movimiento usa :",
+      "variant": [
+        {
+          "detail": "◉ Tiene Vidasfera ➜ Usa Teletransporte para saca a Slowbro usa Bostezo 🔔observa qué movimiento elige el rival🔔",
+          "variant": [
+            {
+              "detail": "◉ Terremoto ➜ Sacrifica Politoed, Poliwrath +6🐸🥊 🔔Puño Hielo Gengar🔔",
+              "variant": []
+            },
+            {
+              "detail": "◉ Megacuerno acierte ➜ Usa Teletransporte; saca a Volcarona, usa un Especial X y ataca",
+              "variant": []
+            },
+            {
+              "detail": "◉ Megacuerno falla ➜ Saca directamente a Volcarona, usa un Especial X y ataca",
+              "variant": []
+            },
+            {
+              "detail": "◉ Gengar ➜ Sacrifica, Politoed, Poliwrath +6🐸🥊 🔔Puño Hielo Gengar🔔",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ No Tiene Vifasfera ➜ Usa Amortiguador, Encanto y Amortiguador 🔔Si Chansey tiene la vida muy baja Usa Max Pocion🔔",
+          "variant": [
+            {
+              "detail": "◉ Rhyperior Se queda ➜ Slowbro Bostezo :",
+              "variant": [
+                {
+                  "detail": "◉ Terremoto ➜ Teletranspote , Volcarona x1 danza aleteo 🔔Psiquico a Gengar🔔",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Parasect ➜ Volcarona x1 Danza aleteo ",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Gengar ➜ Teletranspote, Volcarona x1 danza aleteo 🔔Psiquico a Gengar🔔",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Durant ➜ Entra Con Slowbro Bostezo y Frente a Gengar , Volcarona x1 Danza aleteo 🔔Psiquico a Gengar🔔",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Parasect ➜ Teletransporte 🔔Sigue La Ruta Que esta abajo sobre Parasect🔔",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Absol ➜ Slowbro y cambia a Volcarona Frente a Gengar o nidoking , x1 Danza aleteo 🔔Psiquico a Gengar🔔",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "◉ Absol ➜ Cambia a Slowbro Bostezo , Volcarona x1 Danza aleteo 🔔Psiquico a Gengar🔔",
+          "variant": []
+        },
+        {
+          "detail": "◉ Emboar ➜ Gengar otra vez +2",
+          "variant": [
+            {
+              "detail": "◉ Emboar Se Queda ➜ Gengar +4 🔔Bola Sombra a Todos🔔",
+              "variant": []
+            },
+            {
+              "detail": "◉ Rhyperior ➜ Sacrifica a Politoed , Poliwrath Ataque X y ataca 🔔Cascada rhyperior/ Puño hielo Durant o Dragonite🔔",
+              "variant": []
+            },
+            {
+              "detail": "◉ Druddigon ➜ Sacrifica a Politoed , Poliwrath +6 🐸🥊",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "◉ Durant ➜ Gengar Otra Vez ",
+      "variant": [
+        {
+          "detail": "◉ Se Queda Durant ➜ Maquinacion ",
+          "variant": [
+            {
+              "detail": "◉ Durant No cambio ➜ Gengar +4 +2",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "◉ Hippowdon ➜ Slowbro Bostezo ",
+          "variant": [
+            {
+              "detail": "◉ Durant ➜ Proteccion, Bostezo , Teletransporte Poliwrath +6 🐸🥊",
+              "variant": [
+                {
+                  "detail": "◉ Amoonguss ➜ Sacrifica Politoed , Poliwrath +6 🐸🥊 ",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Rhyperior ➜ No Cambia Usa bostezo hasta que cambie y Sacrifica a Politoed , Poliwrath +6 🐸🥊",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "◉ Druddigon ➜ Sacrifica a Politoed , Poliwrath +6 🐸🥊",
+          "variant": []
+        },
+        {
+          "detail": "◉ Rhyperior ➜ Mira que Objeto tiene ",
+          "variant": [
+            {
+              "detail": "◉ Tiene Restos ➜ Sacrifica a Politoed , Poliwrath Ataque X y ataca 🔔Puño Dranaje cloyster, Puño hielo Dragonite y Despues Cascada🔔",
+              "variant": []
+            },
+            {
+              "detail": "◉ No Tiene Restos ➜ Slowbro bostezo :",
+              "variant": [
+                {
+                  "detail": "◉ Se Queda ➜ Usa Teletransporte , Volcarona x1 Danza Aleteo y Usa gigadrenado Frente a Hippowdon Usa Explecial X y Ataca ",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Durant ➜ Proteccion , Bostezo y Sacrifica a Politoed , Poliwrath +6 🐸🥊",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Si vuelve a Salir Rhyperior ➜ Chansey Trampa rocas y Usa Max pocion , Amortigudor 🔔Si no cambia usa Encanto🔔",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "detail": "◉ Durant Ruta Arriesgada ➜ Volcarona x1 Danza aleteo 🔔Psiquico a Gengar🔔",
+          "variant": []
+        },
+        {
+          "detail": "◉ Durant Ruta Segura ➜ Slowbro Bostezo Y Frente a Gengar , Volcarona x1 Danza aleteo ",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "◉ Parasect ➜ Teletransporte ",
+      "variant": [
+        {
+          "detail": "◉ Parasect Se queda ➜ Volcarona x1 Danza Aleteo ",
+          "variant": [
+            {
+              "detail": "◉ Rhyperior ➜ Slowbro bostezo 🔔 Mira si Golpea o Falla Mega-Cuerno 🔔",
+              "variant": [
+                {
+                  "detail": "◉ No Falla ➜ Teletransporte , Volcarona x1 Danza Alete",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Falla ➜ Volcarona x1 Danza aleteo ",
+                  "variant": []
+                },
+                {
+                  "detail": "◉ Parasect ➜ Volcarona X1 volcarona ",
+                  "variant": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

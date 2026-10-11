@@ -1,0 +1,17 @@
+{
+  "id": "electivire",
+  "name": "Electivire",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "👻Cambia a Gengar👻",
+  "tricks": [
+    {
+      "detail": "Si se queda --> Cambia a Gengar Otra Vez  4+2 🔔(Barrer con Bola sombra Manten a Gengar Con Buena Salud)🔔",
+      "variant": [
+        {
+          "detail": "Gengar muere → Envia a Slowbro  usa Bostezo hasta tener en  frente a Nidoking, sacrificar a Politoed, Poliwrath +6 🔔(Puño drenaje contra Leafeon)🔔",
+          "variant": []
+        }
+      ]
+    }
+  ] 
+} 

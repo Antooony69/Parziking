@@ -1,0 +1,122 @@
+{
+  "id": "absol",
+  "name": "Absol",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡Cambiar a Slowbro💡",
+  "tricks": [
+    {
+      "detail": "Vidasfera --> Usar Bostezo",
+      "variant": [
+        {
+          "detail": "Tajo Umbrío --> Cambiar a Chansey, trampa rocas",
+          "variant": [
+            {
+              "detail": "Se queda → Gengar, Otra Vez, +2 +2 + Precisión X",
+              "variant": []
+            },
+            {
+              "detail": "Garchomp → Amortiguador 2 veces, encanto y cambia a Slowbro, bostezo → Politoed (sacrificar), Poliwrath +6",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Electivire --> Sacrificar a Politoed, entra Poliwrath +6 🔔(Puño Drenaje a Electivire/Toxicroak)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Gyarados --> Cambiar a Chansey y usar 🪨Trampa Rocas🪨",
+          "variant": [
+            {
+              "detail": "Absol --> Gengar Otra Vez +2 🔔(Barre con Bola Sombra)🔔",
+              "variant": []
+            },
+            {
+              "detail": "Luxray --> Gengar Otra Vez +4 🔔(Barre con Bola Sombra)🔔",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Sin Vidasfera --> Usar Teletransporte",
+      "variant": [
+        {
+          "detail": "Tajo Umbrío --> Chansey usa Trampa Rocas 🔔(Si el Golpe es Critico usar Max Pocion y luego cambiar a Gengar)🔔",
+          "variant": [
+            {
+              "detail": "Recibir A Bocajarro --> Gengar Otra Vez +2 + Precisión X 💰(Si quieres Ahorrar: Gengar +6, tiene banda focus)🔔",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Persecución --> Enviar a Chansey, cambiar a Gengar, usar Otra Vez + Bola Sombra; cambiar a Slowbro y usar Bostezo.",
+          "variant": [
+            {
+              "detail": "Si se queda --> Usar Protección y Bostezo frente a Huntail/Excadrill; sacrificar a Politoed; entrar con Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Huntail --> Sacrificar a Politoed; entrar con Poliwrath +6",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Luxray --> Enviar a Chansey y usar Amortiguador.",
+          "variant": [
+            {
+              "detail": "Absol --> Gengar +4 + Precisión X 🔔(No usar Otra Vez)🔔",
+              "variant": []
+            },
+            {
+              "detail": "Scizor --> Volcarona +2 + Ataque Especial X 🔔(Gigadrenado a Luxray)🔔",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Magnezone --> Enviar a Chansey y usar 🪨Trampa Rocas🪨",
+          "variant": [
+            {
+              "detail": "Darmanitan --> Gengar +2 + Precisión X 🔔(No usar Otra Vez)🔔; 💰(Si quieres Ahorrar: Gengar +6)💰",
+              "variant": []
+            },
+            {
+              "detail": "Absol --> Gengar usa Otra Vez, 2+2 + Precisión X 💰(Si quieres Ahorrar: Gengar 6+2)💰",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Salamence (Intimidación) --> Enviar a Chansey y usar Amortiguador.",
+          "variant": [
+            {
+              "detail": "Absol --> Gengar +4 + Precisión X 🔔(No usar Otra Vez)🔔",
+              "variant": []
+            },
+            {
+              "detail": "Scizor --> Volcarona +2 + Ataque Especial X 🔔(Gigadrenado a Luxray)🔔",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Salamence (sin Intimidación) --> Enviar a Chansey; sacrificar a Politoed; Poliwrath usa Puño Hielo.",
+          "variant": [
+            {
+              "detail": "Shiftry --> Volcarona +2",
+              "variant": []
+            },
+            {
+              "detail": "Hariyama --> Gengar Otra Vez 4+2 🔔(Barre con Bola Sombra)🔔",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

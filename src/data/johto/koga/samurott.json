@@ -1,0 +1,12 @@
+{
+  "id": "samurott",
+  "name": "Samurott",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Cambia a Slowbro, bostezo ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "nidoqueen",
+  "name": "Nidoqueen",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Tierra Viva / Bomba Lodo ➜ Teletransporte ➜ Slowbro usa Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 usar Cascada contra Skarmory / Tentacruel",
+      "variant": []
+    },
+    {
+      "detail": "Lanzallamas/ Pulso Umbrío (zoroark) ➜Teletransporte; enviar a Volcarona x1 danza aleteo y gigadrenado a zoruak ➜ barrer hasta electrode/ Tentacruel y usar otro  Danza Aleteo una vez para barrer",
+      "variant": []
+    },
+    {
+      "detail": "Si Volcarona retrocede por retroceso ➜ Cambiar a Chansey ➜recuperar vida al máximo y repetir la operación anterior",
+      "variant": []
+    }
+  ]
+}

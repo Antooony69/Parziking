@@ -1,0 +1,17 @@
+{
+  "id": "milotic",
+  "name": "Milotic",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Hydreigon ➜ Gengar, Otra Vez 6+2 🔔(Onda Certera a Purugly)🔔",
+      "variant": [
+        {
+          "detail": "Ida y Vuelta se anula por cuepor maldito → Gengar Otra Vez, Poliwrath Puño Drenaje",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

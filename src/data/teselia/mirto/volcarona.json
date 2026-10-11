@@ -1,0 +1,54 @@
+{
+  "id": "volcarona",
+  "name": "Volcarona",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 TRAMPA ROCAS 🪨",
+  "tricks": [
+    {
+      "detail": "Si se queda --> Sacrificar a Gengar; Slowbro usa Bostezo, sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño drenaje contra Volcarona)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Conkeldurr --> Slowbro usa Bostezo al enfrentar a Volcarona; sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño drenaje contra Volcarona)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill --> Sacrificar a Gengar; Slowbro usa Bostezo",
+      "variant": [
+        {
+          "detail": "Si se queda --> Sacrificar a Politoed y entrar con Poliwrath +6; revisar orden de Volcarona/Vanillish",
+          "variant": [
+            {
+              "detail": "Si sale Vanillish primero --> Recibir golpe, usar Velocidad X y presionar de nuevo",
+              "variant": []
+            },
+            {
+              "detail": "Si sale Volcarona primero --> Presión completa",
+              "variant": []
+            }
+          ]
+        },
+        {   
+           "detail": "Volcarona --> Sacrificar a Politoed y entrar con Poliwrath +6+2 🔔(Puño drenaje contra Volcarona)🔔",
+           "variant": []
+        }  
+      ] 
+    },
+    {
+      "detail": "Escavalier/Magcargo --> Slowbro usa Bostezo al enfrentar a Volcarona; sacrificar a Politoed y entrar con Poliwrath +6 🔔(Puño drenaje contra Volcarona)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Lucario --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed y entrar con Poliwrath +6 🔔Puño drenaje contra Volcarona / Usar Cascada contra Reuniclus / Volcarona despierta no es amenaza🔔",
+      "variant": []
+    },
+    {
+      "detail": "Archeops --> Sacrificar a Gengar; Slowbro usa Bostezo al enfrentar a Volcarona; sacrificar a Politoed y entrar con Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Braviary --> Slowbro usa Bostezo al enfrentar a Volcarona; sacrificar a Politoed y entrar con Poliwrath +6",
+      "variant": []
+    }
+  ]
+}

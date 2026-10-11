@@ -1,0 +1,12 @@
+{
+  "id": "tangrowth",
+  "name": "Tangrowth",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡 Cambiar a Slowbro💡",
+  "tricks": [
+    {
+      "detail": "◉ Rhyperior ➜ Usa Bostezo y teletransporte , entra con volcarona +1 especial X y ataca",
+      "variant": []
+    }
+  ]
+}

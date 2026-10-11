@@ -1,0 +1,38 @@
+{
+  "id": "mienshao",
+  "name": "Mienshao",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "👻Cambiar a Gengar y usar Otra Vez👻 🔔(Mira quien Ataca Primero)🔔",
+  "tricks": [
+    {
+      "detail": "Si Gengar ataca primero ➜ Maquinación y esperar a que se debilite solo 🔔(Ver quién entra)🔔",
+      "variant": [
+        {
+          "detail": "Raichu ➜ Cambiar a Chansey y usar 🪨Trampa Rocas🪨",
+          "variant": [
+            {
+              "detail": "Metagross ➜ Cambiar a Slowbro y usar Bostezo para forzar el cambio; sacrificar a Politoed y entrar con Poliwrath +6",
+              "variant": []
+            },
+            {
+              "detail": "Cinccino  ➜ Cambiar a Chansey luego usar Encanto y Amortiguador, 🚨(Si la salud baja Hasta 30% usa una Max Pocion)🚨 🪨Trampa Rocas🪨 frente a metagros, cambiar a Slowbro y usar Bostezo ➜ sacrificas a Politoed ➜ Poliwrath +6",
+              "variant": []
+            }
+          ]
+        },
+        {
+          "detail": "Umbreon ➜ Cambiar a Chansey, luego cambiar a Slowbro; usar Bostezo frente a Musharna ➜ sacrifica a Politoed y entra con Poliwrath +6 🔔(Puño Drenaje a Umbreon y Cascada a Musharna/Metagross)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Metagross/Entei ➜ Cambiar a Slowbro y usar Bostezo frente a Musharna ➜ sacrifica a Politoed y entra con Poliwrath +6 🔔(Puño Drenaje a Umbreon y Cascada a Musharna/Metagross)🔔",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Si Mienshao ataca primero ➜ Cambiar a Slowbro y usar Bostezo frente a Jolteon ➜ sacrifica a Politoed y entra con Poliwrath +6 🔔(Cascada a Reuniclus)🔔",
+      "variant": []
+    }
+  ]
+}

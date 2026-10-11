@@ -1,0 +1,16 @@
+{
+  "id": "electivire",
+  "name": "Electivire",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨Trampa Rocas🪨",
+  "tricks": [
+    {
+      "detail": "Si se queda --> Usa Amortiguador esperando a Lucario, 💊Gengar 2+2 + Precicision X💊",
+      "variant": []
+    },
+    { 
+      "detail": "Lucario --> Cambia a Slowbri y usa Bostezo frente a Electivire, sacrifica a Politoed, entra Poliwrath +6",
+      "variant": []
+    } 
+  ]
+}

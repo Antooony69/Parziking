@@ -1,0 +1,17 @@
+{
+  "id": "golduck",
+  "name": "Golduck",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "👻 Mira Abajo 👻",
+  "tricks": [
+    {
+      "detail": "🪨 Trampa Rocas 🪨 cambia a Gengar ➜ cambia a Slowbro y entra Mantine ➜ usar Bostezo frente a Magnezone ➜ sacrificar a poliwrath ➜ Volcarona +1 + Especial X",
+      "variant": [
+        {
+          "detail": "🔔Usar Psíquico contra Mantine; dar Revivir Hierba a Poliwrath + Medicina pequeña continuar🔔",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

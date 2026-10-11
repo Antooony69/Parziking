@@ -1,0 +1,48 @@
+{
+  "id": "excadrill",
+  "name": "Excadrill",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "💡 OBSERVA QUÉ OBJETO TIENE 💡",
+  "tricks": [
+    {
+      "detail": "Globo Helio → Encanto; Trampa Rocas (si se queda, usar Amortiguador) frente a Tyranitar; cambiar a Poliwrath para matarlo",
+      "variant": [
+        {
+          "detail": "Gyarados → Volcarona +1 + Especial X; corre hasta Houndoom; ignora amenaza 💡 Psíquico contra Gyarados 💡",
+          "variant": []
+        },
+        {
+          "detail": "Victreebel → Cambia a Gengar, luego a Slowbro",
+          "variant": [
+            {
+              "detail": "Si se queda → Bostezo; cambia a Volcarona, +1 + SpAtk X",
+              "variant": []
+            },
+            {
+              "detail": "Gyarados → Volcarona, +1 + SpAtk X",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "detail": "Excadrill → Seguir usando Gigadrenado hasta que muera",
+      "variant": []
+    },
+    {
+      "detail": "Sin Globo Helio → Encanto, Trampa Rocas (mantener Amortiguador hasta el cambio)",
+      "variant": [
+        {
+          "detail": "Su Slowbro → Gengar, Otra Vez, +4 +2 (mantener Otra Vez)",
+          "variant": [
+            {
+              "detail": "Si cambia a Excadrill mientras intentas boostearte → cambia a Slowbro, luego a Chansey y usa Encanto; vuelve a Slowbro, Bostezo → Politoed (sacrificar), Poliwrath +6",
+              "variant": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

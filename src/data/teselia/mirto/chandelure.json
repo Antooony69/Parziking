@@ -1,0 +1,16 @@
+{
+  "id": "chandelure",
+  "name": "Chandelure",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 Trampa Rocas 🪨",
+  "tricks": [
+    {
+      "detail": "Llamarada ➜ Sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño drenaje a Volcarona)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Excadrill ➜ Cambiar a Slowbro y usar Bostezo ➜ sacrifica a Politoed ➜ Poliwrath +6🐸🥊 🔔(Puño drenaje a Volcarona)🔔",
+      "variant": []
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "bisharp",
+  "name": "Bisharp",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🔔(Revisar si tiene Globo Helio)🔔",
+  "tricks": [
+    {
+      "detail": "Si tiene Globo Helio --> Amortiguador frente a Samurott, 💊Gengar 2+2 + Precisión X💊",
+      "variant": [
+        {
+          "detail": "⚠️Testeo⚠️ --> Encanto contra samurot, usar Amortiguador frente a Tyranitar, sacrificar a Politoed, entrar con Poliwrath +6",
+          "variant": []
+        }  
+      ]  
+    },
+    {
+      "detail": "No tiene Globo Helio --> 🪨Trampa Rocas🪨",
+      "variant": [
+        {
+          "detail": "Si se Queda --> Teletransporte entra Slowbro y usa Bostezo, sacrificar a Politoed, entra Poliwrath +6 🔔(Usar Proteccion y Bostezo contra Serperior)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Scrafty --> Cambiar a Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Honchkrow --> Cambiar a Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Absol --> 💊Gengar +2 + Precisión X + Otra Vez💊 🔔(Absol tiene Banda Focus)🔔",
+          "variant": []
+        },
+        {
+          "detail": "Garchomp --> Teletransporte para Ver Movimiento",
+          "variant": [
+            {
+              "detail": "Terremoto --> Sacar a Slowbro y usar Bostezo para ver si es Golpe Crítico ",
+              "variant": [
+                {
+                  "detail": "Sin Critico --> (mantener) Bostezo frente a Chandelure, sacrificar a Politoed, entrar con Poliwrath +6",
+                  "variant": []
+                },
+                {
+                  "detail": "Con Critico --> Sacrificar a Politoed, entrar con Poliwrath +6",
+                  "variant": []
+                } 
+              ]  
+            },
+            {  
+              "detail": "🔥Colmillo Ígneo🔥 --> sacar a Slowbro y (mantener) Bostezo frente a Chandelure, sacrificar a Politoed, entrar con Poliwrath +6",
+              "variant": []
+            }  
+          ]    
+        },
+        { 
+          "detail": "Staraptor --> Cambiar a Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Samurott --> Cambiar a Slowbro y usar Bostezo; sacrificar a Politoed, entrar con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "Haxorus --> Cambiar a Slowbro y usar Bostezo frente a Chandelure; sacrificar a Politoed, entrar con Poliwrath +6 🔔(Si Haxorus se queda, continuar usando Bostezo)🔔",
+          "variant": []
+        }  
+      ]  
+    }
+  ]  
+}  
+    
+

@@ -1,0 +1,25 @@
+{
+  "id": "garchomp",
+  "name": "Garchomp",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🪨 TRAMPA ROCAS 🪨",
+  "tricks": [
+    {
+      "detail": "Colmillo Ígneo --> Encanto + Amortiguador frente a Absol; Gengar +2 y 🔔Bola Sombra a todo🔔",
+      "variant": []
+    },
+    {
+      "detail": "Absol --> Opciones para resolver",
+      "variant": [
+        {
+          "detail": "Rápido --> Gengar +2 +2 + Precisión",
+          "variant": []
+        },
+        {
+          "detail": "Ahorrar dinero --> Gengar +6 +2 y 🔔Bola Sombra a todo🔔",
+          "variant": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "infernape",
+  "name": "Infernape",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "AMORTIGUADOR, recibes a Bocajarro",
+  "tricks": [
+    {
+      "detail": "Teletransporte → Gengar, Otra Vez, +4",
+      "variant": []
+    }
+  ]
+}

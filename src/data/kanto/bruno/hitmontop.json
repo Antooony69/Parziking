@@ -1,0 +1,13 @@
+{
+  "id": "hitmontop",
+  "name": "Hitmontop",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Trampa Rocas",
+  "tricks": [
+    {
+      "detail": "Cambia a Volcarona, +1. Barre",
+      "variant": []
+    }
+  ]
+}
+    

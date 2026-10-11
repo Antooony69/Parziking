@@ -1,0 +1,29 @@
+{
+  "id": "altaria",
+  "name": "Altaria",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "🥚 Amortiguador 🥚",
+  "tricks": [
+    {
+      "detail": "Ruta Segura ➜ 👻 Gengar ➜ Otra Vez ➜ sale Alakazam",
+      "variant": [
+        {
+          "detail": "Ruta Segura → entra con Chansey y usa Teletransporte y entra con Slowbro , usa Bostezo y Protección , si alakazam se duerme usa bostezo y frente a Roserade, sacrifica a Politoed y entra con Poliwrath +6",
+          "variant": []
+        },
+        {
+          "detail": "RNG → Slowbro, Bostezo, Protección. Sale Roserade →  Sacrificar a Politoed ➜ 🐸 Poliwrath +6 🐸  ",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Lucario → 👻Gengar, Otra Vez, +6 + precisión X.",
+      "variant": []
+    },
+    {
+      "detail": "Cambia a Gengar, Lucario → que use ataque de fuego (Zoroark) → Gengar, Otra Vez → 🐸 Poliwrath +6 +2 🐸 ",
+      "variant": []
+    }
+  ]
+}

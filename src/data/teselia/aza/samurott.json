@@ -1,0 +1,33 @@
+{
+  "id": "samurott",
+  "name": "Samurott",
+  "image": "/placeholder.svg?height=80&width=80",
+  "initialMove": "Cambiar a Slowbro y usar Bostezo🥱",
+  "tricks": [
+    {
+      "detail": "Megacuerno --> Cambiar a chansey y usar Amortiguador frente a Absol; entrar con Gengar +2 + Precision X + Otra Vez 🔔(Absol Banda Focus)🔔",
+      "variant": []
+    },
+    {
+      "detail": "Poder Oculto Eléctrico --> Sacrificar a Politoed y entrar con Poliwrath +6",
+      "variant": []
+    },
+    {
+      "detail": "Serperior Cambiar a Chansey y usar Amortiguador",
+      "variant": [
+        {
+          "detail": "Samurot --> 💊Gengar 2+2 + Precision X💊",
+          "variant": []
+        },
+        {
+          "detail": "Tyranitar --> Sacrificar a Politoed y entrar con Poliwrath +6",
+          "variant": []
+        }
+      ]
+    },
+    {
+      "detail": "Mismagius --> Cambiar a Chansey y usar Amortiguador frente a Absol; entrar con Gengar +2 + Precision X + Otra Vez 🔔(Absol Banda Focus)🔔",
+      "variant": []
+    }
+  ]
+}

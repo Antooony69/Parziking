@@ -1,0 +1,64 @@
+{
+  "regions": [
+    {
+      "id": "teselia",
+      "name": "Teselia",
+      "image": "/placeholder.svg?height=120&width=300",
+      "leaders": [
+        { "id": "anis", "name": "Anis" , "pokemons": []},
+        { "id": "aza", "name": "Aza" , "pokemons": []},
+        { "id": "catleya", "name": "Catleya" , "pokemons": []},
+        { "id": "lotto", "name": "Lotto" , "pokemons": []},
+        { "id": "mirto", "name": "Mirto" , "pokemons": []}
+      ]
+    },
+    {
+      "id": "sinnoh",
+      "name": "Sinnoh",
+      "image": "/placeholder.svg?height=120&width=300",
+      "leaders": [
+        { "id": "alecran", "name": "Alecran" , "pokemons": []},
+        { "id": "gaia", "name": "Gaia" , "pokemons": []},
+        { "id": "fausto", "name": "Fausto" , "pokemons": []},
+        { "id": "delos", "name": "Delos" , "pokemons": []},
+        { "id": "cynthia", "name": "Cynthia" , "pokemons": []}
+      ]
+    },
+    {
+      "id": "hoenn",
+      "name": "Hoenn",
+      "image": "/placeholder.svg?height=120&width=300",
+      "leaders": [
+        { "id": "sixto", "name": "Sixto" , "pokemons": []},
+        { "id": "fatima", "name": "Fatima" , "pokemons": []},
+        { "id": "nivea", "name": "Nivea" , "pokemons": []},
+        { "id": "dracon", "name": "Dracon" , "pokemons": []},
+        { "id": "plubio", "name": "Plubio" , "pokemons": []}
+      ]
+    },
+    {
+      "id": "johto",
+      "name": "Johto",
+      "image": "/placeholder.svg?height=120&width=300",
+      "leaders": [
+        { "id": "will", "name": "Will" , "pokemons": []},
+        { "id": "koga", "name": "Koga" , "pokemons": []},
+        { "id": "bruno", "name": "Bruno" , "pokemons": []},
+        { "id": "karen", "name": "Karen" , "pokemons": []},
+        { "id": "lance", "name": "Lance" , "pokemons": []}
+      ]
+    },
+    {
+      "id": "kanto",
+      "name": "Kanto",
+      "image": "/placeholder.svg?height=120&width=300",
+      "leaders": [
+        { "id": "lorelei", "name": "Lorelei" , "pokemons": []},
+        { "id": "bruno", "name": "Bruno" , "pokemons": []},
+        { "id": "agatha", "name": "Agatha" , "pokemons": []},
+        { "id": "lance", "name": "Lance" , "pokemons": []},
+        { "id": "blue", "name": "Blue" , "pokemons": []}
+      ]
+    }
+  ]
+}
